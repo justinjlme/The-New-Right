@@ -1,0 +1,3103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aktina\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-25 12:54+0100\n"
+"PO-Revision-Date: 2015-06-25 12:56+0100\n"
+"Last-Translator: Nick <support@khosite.com>\n"
+"Language-Team: khositeweb.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"_nx_noop:4c,1,2;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/admin/admin-config.php:24 ../assets/admin/admin-config.php:29
+msgid "Panel"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:28
+msgid "UW Panel"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:84
+msgid "Widgets"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:90
+msgid "About Me Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:92 ../assets/admin/admin-config.php:100
+#: ../assets/admin/admin-config.php:108 ../assets/admin/admin-config.php:116
+#: ../assets/admin/admin-config.php:124 ../assets/admin/admin-config.php:132
+#: ../assets/admin/admin-config.php:140 ../assets/admin/admin-config.php:148
+#: ../assets/admin/admin-config.php:156 ../assets/admin/admin-config.php:164
+#: ../assets/admin/admin-config.php:172 ../assets/admin/admin-config.php:180
+#: ../assets/admin/admin-config.php:188 ../assets/admin/admin-config.php:196
+#: ../assets/admin/admin-config.php:204 ../assets/admin/admin-config.php:212
+#: ../assets/admin/admin-config.php:220 ../assets/admin/admin-config.php:228
+#: ../assets/admin/admin-config.php:236 ../assets/admin/admin-config.php:244
+#: ../assets/admin/admin-config.php:265
+#: ../assets/admin/redux-core/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:93 ../assets/admin/admin-config.php:101
+#: ../assets/admin/admin-config.php:109 ../assets/admin/admin-config.php:117
+#: ../assets/admin/admin-config.php:125 ../assets/admin/admin-config.php:133
+#: ../assets/admin/admin-config.php:141 ../assets/admin/admin-config.php:149
+#: ../assets/admin/admin-config.php:157 ../assets/admin/admin-config.php:165
+#: ../assets/admin/admin-config.php:173 ../assets/admin/admin-config.php:181
+#: ../assets/admin/admin-config.php:189 ../assets/admin/admin-config.php:197
+#: ../assets/admin/admin-config.php:205 ../assets/admin/admin-config.php:213
+#: ../assets/admin/admin-config.php:221 ../assets/admin/admin-config.php:229
+#: ../assets/admin/admin-config.php:237 ../assets/admin/admin-config.php:245
+#: ../assets/admin/admin-config.php:266
+#: ../assets/admin/redux-core/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:98
+msgid "Ads Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:106
+msgid "Contact Info Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:114
+msgid "Facebook Like Box Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:122
+msgid "Flickr Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:130
+msgid "Google Map Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:138 ../assets/admin/admin-config.php:775
+msgid "Login Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:146
+msgid "MailChimp Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:154 ../assets/admin/admin-config.php:882
+msgid "Menu Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:162 ../assets/admin/admin-config.php:913
+msgid "Posts Slider Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:170
+msgid "Posts Thumbnails Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:178
+msgid "Slideshow Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:186
+msgid "Social Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:194
+msgid "SoundCloud Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:202 ../assets/admin/admin-config.php:960
+msgid "Tabs Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:210 ../assets/admin/admin-config.php:1044
+msgid "Testimonials Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:218
+msgid "Text Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:226 ../assets/admin/admin-config.php:1136
+msgid "Twitter Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:234
+msgid "Video Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:242 ../assets/admin/admin-config.php:1173
+msgid "Weather Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:256
+msgid "Styling"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:262
+msgid "Minify CSS"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:263
+msgid "Compress all styles into a single file."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:272
+msgid "Widgets Style"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:273
+msgid "Select your preferred style."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:276
+msgid "Style 1"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:277
+msgid "Style 2"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:278
+msgid "Style 3"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:279
+msgid "Style 4"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:280
+msgid "Style 5"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:291
+msgid "Style 1 Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:292 ../assets/admin/admin-config.php:319
+#: ../assets/admin/admin-config.php:329 ../assets/admin/admin-config.php:360
+#: ../assets/admin/admin-config.php:379 ../assets/admin/admin-config.php:410
+#: ../assets/admin/admin-config.php:419 ../assets/admin/admin-config.php:438
+#: ../assets/admin/admin-config.php:450 ../assets/admin/admin-config.php:459
+#: ../assets/admin/admin-config.php:486 ../assets/admin/admin-config.php:495
+#: ../assets/admin/admin-config.php:514 ../assets/admin/admin-config.php:523
+#: ../assets/admin/admin-config.php:544 ../assets/admin/admin-config.php:562
+#: ../assets/admin/admin-config.php:571 ../assets/admin/admin-config.php:590
+#: ../assets/admin/admin-config.php:606 ../assets/admin/admin-config.php:615
+#: ../assets/admin/admin-config.php:631 ../assets/admin/admin-config.php:643
+#: ../assets/admin/admin-config.php:652 ../assets/admin/admin-config.php:671
+#: ../assets/admin/admin-config.php:683 ../assets/admin/admin-config.php:695
+#: ../assets/admin/admin-config.php:714 ../assets/admin/admin-config.php:723
+#: ../assets/admin/admin-config.php:732 ../assets/admin/admin-config.php:748
+#: ../assets/admin/admin-config.php:760 ../assets/admin/admin-config.php:783
+#: ../assets/admin/admin-config.php:792 ../assets/admin/admin-config.php:801
+#: ../assets/admin/admin-config.php:810 ../assets/admin/admin-config.php:819
+#: ../assets/admin/admin-config.php:835 ../assets/admin/admin-config.php:843
+#: ../assets/admin/admin-config.php:851 ../assets/admin/admin-config.php:859
+#: ../assets/admin/admin-config.php:871 ../assets/admin/admin-config.php:890
+#: ../assets/admin/admin-config.php:898 ../assets/admin/admin-config.php:921
+#: ../assets/admin/admin-config.php:929 ../assets/admin/admin-config.php:937
+#: ../assets/admin/admin-config.php:945 ../assets/admin/admin-config.php:968
+#: ../assets/admin/admin-config.php:976 ../assets/admin/admin-config.php:988
+#: ../assets/admin/admin-config.php:1000 ../assets/admin/admin-config.php:1009
+#: ../assets/admin/admin-config.php:1017 ../assets/admin/admin-config.php:1029
+#: ../assets/admin/admin-config.php:1052 ../assets/admin/admin-config.php:1064
+#: ../assets/admin/admin-config.php:1076 ../assets/admin/admin-config.php:1088
+#: ../assets/admin/admin-config.php:1097 ../assets/admin/admin-config.php:1106
+#: ../assets/admin/admin-config.php:1115 ../assets/admin/admin-config.php:1124
+#: ../assets/admin/admin-config.php:1144 ../assets/admin/admin-config.php:1153
+#: ../assets/admin/admin-config.php:1161 ../assets/admin/admin-config.php:1181
+#: ../assets/admin/admin-config.php:1190 ../assets/admin/admin-config.php:1199
+#: ../assets/admin/admin-config.php:1208
+msgid "Select your custom hex color."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:300
+msgid "Style 1 Padding"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:301 ../assets/admin/admin-config.php:468
+msgid "Enter your custom padding in pixels."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:309
+msgid "Style 1 Margin Bottom"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:310 ../assets/admin/admin-config.php:351
+#: ../assets/admin/admin-config.php:401 ../assets/admin/admin-config.php:477
+#: ../assets/admin/admin-config.php:553
+msgid "Enter your custom margin bottom in pixels."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:318
+msgid "Style 1 Title Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:328
+msgid "Style 1 Title Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:338
+msgid "Style 1 Title Font Size"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:339 ../assets/admin/admin-config.php:370
+#: ../assets/admin/admin-config.php:429 ../assets/admin/admin-config.php:505
+#: ../assets/admin/admin-config.php:581
+msgid "Enter your font size for the title in pixels."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:350
+msgid "Style 2 Margin Bottom"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:359
+msgid "Style 2 Title Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:369
+msgid "Style 2 Title Font Size"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:378
+msgid "Style 2 Title Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:388
+msgid "Style 2 Title Border Width"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:389
+msgid "Enter your width for the title border."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:400
+msgid "Style 3 Margin Bottom"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:409
+msgid "Style 3 Title Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:418
+msgid "Style 3 Title Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:428
+msgid "Style 3 Title Font Size"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:437
+msgid "Style 3 Title Border Bottom Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:449
+msgid "Style 4 Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:458
+msgid "Style 4 Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:467
+msgid "Style 4 Padding"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:476
+msgid "Style 4 Margin Bottom"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:485
+msgid "Style 4 Title Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:494
+msgid "Style 4 Title Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:504
+msgid "Style 4 Title Font Size"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:513
+msgid "Style 4 Title Border Bottom Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:522
+msgid "Style 4 Title Border Right Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:534
+msgid "Style 5 Padding Bottom"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:535
+msgid "Enter your custom padding bottom in pixels."
+msgstr ""
+
+#: ../assets/admin/admin-config.php:543
+msgid "Style 5 Border Bottom Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:552
+msgid "Style 5 Margin Bottom"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:561
+msgid "Style 5 Title Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:570
+msgid "Style 5 Title Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:580
+msgid "Style 5 Title Font Size"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:589
+msgid "Style 5 Title Border Bottom Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:599 ../assets/admin/admin-config.php:605
+msgid "Links Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:614
+msgid "Links Hover Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:624
+msgid "Inputs Styles"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:630
+msgid "Input Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:642
+msgid "Input Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:651
+msgid "Input Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:664
+msgid "Buttons Styles"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:670
+msgid "Input Submit Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:682
+msgid "Input Submit Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:694
+msgid "Input Submit Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:707
+msgid "Checkbox Styles"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:713
+msgid "Checkbox Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:722
+msgid "Checkbox Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:731
+msgid "Checkbox Checked Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:741
+msgid "Nav Slideshow Widget"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:747
+msgid "Nav Slideshow Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:759
+msgid "Nav Slideshow Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:782
+msgid "Label Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:791
+msgid "Show Password Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:800
+msgid "Show Password Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:809
+msgid "Remember Me Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:818
+msgid "Remember Me Checked Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:828
+msgid "Logged In"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:834
+msgid "Avatar Outside Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:842
+msgid "Avatar Inside Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:850
+msgid "Avatar Hover Sonar Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:858
+msgid "Username Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:870
+msgid "Menu Link Border Bottom Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:889
+msgid "Links Border Bottom Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:897
+msgid "Sub Icon Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:920
+msgid "Image Hover Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:928
+msgid "Title/Comments/Nav Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:936
+msgid "Title/Nav Hover Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:944
+msgid "Title/Comments/Nav Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:967
+msgid "Tabs Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:975
+msgid "Tabs Top Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:987
+msgid "Tabs Top Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:999
+msgid "Tab Recent: Date Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1008
+msgid "Tabs Recent/Comments: Items Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1016
+msgid "Tab Tags: Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1028
+msgid "Tab Tags: Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1051
+msgid "Nav Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1063
+msgid "Nav Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1075
+msgid "Nav Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1087
+msgid "Quote Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1096
+msgid "Quote Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1105
+msgid "Avatar Background"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1114
+msgid "Avatar Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1123
+msgid "Name Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1143
+msgid "Tweets Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1152
+msgid "Tweets Border Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1160
+msgid "Tweets Icons Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1180
+msgid "Weather Temp Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1189
+msgid "Weather Name/Desc/Days Temp Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1198
+msgid "Weather Stats/Days Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1207
+msgid "Weather Forecast Border Top Color"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1220
+msgid "Custom CSS"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1228
+msgid "Design Edits"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1229
+msgid ""
+"Quickly add some CSS to your theme to make design adjustments by adding it "
+"to this block. It is a much better solution then manually editing style.css"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:1239
+#: ../assets/admin/redux-core/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/enqueue.php:448
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:566
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/enqueue.php:456
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:567
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../assets/admin/redux-core/core/enqueue.php:464
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../assets/admin/redux-core/core/enqueue.php:472
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:568
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/enqueue.php:479
+msgid "Please Wait"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/enqueue.php:490
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/enqueue.php:491
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../assets/admin/redux-core/core/panel.php:342
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:225
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:225
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:197
+msgid "Redux Framework"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:229
+#: ../assets/admin/redux-core/framework.php:233
+msgid "Options"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:1727
+msgid "Enable"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:1732
+msgid "Disable"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:1738
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:1740
+msgid "clicking"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:1744
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:1749
+msgid "Hints"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:1876
+msgid "Default"
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:2747
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:2839
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:25
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/class.redux_functions.php:258
+msgid "Dismiss"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/class.redux_helpers.php:593
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:601
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:602
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:603
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from File"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:96
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:102
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Export Options"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:114
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid "Copy Data"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Download Data File"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "Copy Export URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/options_object/extension_options_object.php:82
+#: ../assets/admin/redux-core/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:124
+#: ../assets/admin/redux-core/inc/fields/color/field_color.php:73
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:277
+#: ../assets/admin/redux-core/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:314
+#: ../assets/admin/redux-core/inc/fields/media/field_media.php:198
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:126
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:321
+#: ../assets/admin/redux-core/inc/fields/media/field_media.php:205
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:69
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:73
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:76
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:133
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:125
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:138
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:145
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:152
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:159
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:178
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:189
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:190
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:245
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/password/field_password.php:62
+#: ../widgets/widget-login.php:112
+msgid "Password"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/password/field_password.php:63
+#: ../widgets/widget-login.php:108 ../widgets/widget-login.php:140
+msgid "Username"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/select/field_select.php:83
+#: ../assets/admin/redux-core/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/select/field_select.php:134
+#: ../assets/admin/redux-core/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:73
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:145
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:200
+#: ../widgets/widget-mailchimp.php:80
+msgid "Title"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:149
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:153
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:167
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:258
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:273
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:281
+#: ../widgets/widget-posts-thumbnails.php:120 ../widgets/widget-social.php:220
+msgid "Style"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:342
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:343
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:365
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:366
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:388
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:389
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:408
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:409
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:432
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:441
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:450
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:459
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:154
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:221
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:156
+#: ../widgets/widget-mailchimp.php:71
+msgid "Newsletter"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/color/validation_color.php:15
+#: ../assets/admin/redux-core/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../assets/admin/redux-core/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/email/validation_email.php:16
+#: ../assets/admin/redux-core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/numeric/validation_numeric.php:16
+#: ../assets/admin/redux-core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:8
+#: ../assets/admin/redux-core/inc/welcome/views/changelog.php:8
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:8
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:82
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:31
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/changelog.php:5
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:14
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"https://github.com/reduxframework/redux-framework/"
+"blob/master/CONTRIBUTING.md\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:358
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:427
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:582
+msgid "Name"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:587
+msgid "Version"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:22
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:52
+msgid "User"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:177
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:197
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:205
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:213
+msgid "Get Support"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:230
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:238
+msgid "Redux Framework Status"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:338
+msgid "What's New"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:342
+msgid "Extensions"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:346
+msgid "Changelog"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:350
+msgid "Credits"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:354
+msgid "Support"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:358
+msgid "Status"
+msgstr ""
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:515
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:48
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:19
+#: ../assets/admin/templates/footer.tpl.php:17
+#: ../assets/admin/templates/header_stickybar.tpl.php:16
+msgid "Save Changes"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:51
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:21
+#: ../assets/admin/templates/footer.tpl.php:24
+#: ../assets/admin/templates/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:52
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:22
+#: ../assets/admin/templates/footer.tpl.php:25
+#: ../assets/admin/templates/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:57
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:25
+#: ../assets/admin/templates/footer.tpl.php:30
+#: ../assets/admin/templates/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:11
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:49
+#: ../assets/admin/templates/header.tpl.php:11
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:20
+#: ../assets/admin/templates/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:26
+#: ../assets/admin/templates/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:31
+#: ../assets/admin/templates/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:34
+#: ../assets/admin/templates/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:36
+#: ../assets/admin/templates/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: ../assets/admin/templates/header.tpl.php:55
+msgid "Support Center"
+msgstr ""
+
+#: ../assets/images-resize.php:42 ../assets/images-resize.php:175
+msgid "No image URL has been entered."
+msgstr ""
+
+#: ../assets/images-resize.php:76 ../assets/images-resize.php:210
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr ""
+
+#: ../assets/images-resize.php:238
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr ""
+
+#: ../assets/images-resize.php:281
+msgid "Resize path invalid (GIF)"
+msgstr ""
+
+#: ../assets/images-resize.php:285
+msgid "Resize path invalid (PNG)."
+msgstr ""
+
+#: ../assets/images-resize.php:293
+msgid "Resize path invalid (JPG)."
+msgstr ""
+
+#: ../assets/images-resize.php:308
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+
+#: ../assets/widgets-functions.php:139 ../widgets/widget-weather.php:73
+msgid "C"
+msgstr ""
+
+#: ../assets/widgets-functions.php:139 ../widgets/widget-weather.php:72
+msgid "F"
+msgstr ""
+
+#: ../assets/widgets-functions.php:232
+msgid "N"
+msgstr ""
+
+#: ../assets/widgets-functions.php:233
+msgid "NNE"
+msgstr ""
+
+#: ../assets/widgets-functions.php:234
+msgid "NE"
+msgstr ""
+
+#: ../assets/widgets-functions.php:235
+msgid "ENE"
+msgstr ""
+
+#: ../assets/widgets-functions.php:236
+msgid "E"
+msgstr ""
+
+#: ../assets/widgets-functions.php:237
+msgid "ESE"
+msgstr ""
+
+#: ../assets/widgets-functions.php:238
+msgid "SE"
+msgstr ""
+
+#: ../assets/widgets-functions.php:239
+msgid "SSE"
+msgstr ""
+
+#: ../assets/widgets-functions.php:240
+msgid "S"
+msgstr ""
+
+#: ../assets/widgets-functions.php:241
+msgid "SSW"
+msgstr ""
+
+#: ../assets/widgets-functions.php:242
+msgid "SW"
+msgstr ""
+
+#: ../assets/widgets-functions.php:243
+msgid "WSW"
+msgstr ""
+
+#: ../assets/widgets-functions.php:244
+msgid "W"
+msgstr ""
+
+#: ../assets/widgets-functions.php:245
+msgid "WNW"
+msgstr ""
+
+#: ../assets/widgets-functions.php:246
+msgid "NW"
+msgstr ""
+
+#: ../assets/widgets-functions.php:247
+msgid "NNW"
+msgstr ""
+
+#: ../assets/widgets-functions.php:288
+msgid "km/h"
+msgstr ""
+
+#: ../assets/widgets-functions.php:288
+msgid "mph"
+msgstr ""
+
+#: ../assets/widgets-functions.php:294
+msgid "humidity:"
+msgstr ""
+
+#: ../assets/widgets-functions.php:295
+msgid "wind:"
+msgstr ""
+
+#: ../assets/widgets-functions.php:296
+msgid "H"
+msgstr ""
+
+#: ../assets/widgets-functions.php:296
+msgid "L"
+msgstr ""
+
+#: ../assets/widgets-functions.php:310
+msgid "Sun"
+msgstr ""
+
+#: ../assets/widgets-functions.php:310
+msgid "Mon"
+msgstr ""
+
+#: ../assets/widgets-functions.php:310
+msgid "Tue"
+msgstr ""
+
+#: ../assets/widgets-functions.php:310
+msgid "Wed"
+msgstr ""
+
+#: ../assets/widgets-functions.php:310
+msgid "Thu"
+msgstr ""
+
+#: ../assets/widgets-functions.php:310
+msgid "Fri"
+msgstr ""
+
+#: ../assets/widgets-functions.php:310
+msgid "Sat"
+msgstr ""
+
+#: ../assets/widgets-functions.php:335
+msgid "No weather information available"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:15
+msgid "Adds a About Me widget."
+msgstr ""
+
+#: ../widgets/widget-about-me.php:18
+msgid "UW - About Me"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:109
+msgid "About Me"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:174 ../widgets/widget-contact-info.php:128
+#: ../widgets/widget-facebook-like-box.php:108 ../widgets/widget-flickr.php:61
+#: ../widgets/widget-gmap.php:118 ../widgets/widget-login.php:259
+#: ../widgets/widget-login.php:272 ../widgets/widget-menu.php:83
+#: ../widgets/widget-posts-slider.php:131
+#: ../widgets/widget-posts-thumbnails.php:115
+#: ../widgets/widget-slideshow.php:129 ../widgets/widget-social.php:215
+#: ../widgets/widget-testimonials.php:144 ../widgets/widget-text.php:66
+#: ../widgets/widget-twitter.php:196 ../widgets/widget-video.php:104
+#: ../widgets/widget-weather.php:58
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:178
+msgid "Background Color:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:182
+msgid "Text Color:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:186
+msgid "Avatar Border Color:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:190
+msgid "Image Header:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:194
+msgid "Avatar:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:198
+msgid "Name:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:202 ../widgets/widget-contact-info.php:132
+#: ../widgets/widget-mailchimp.php:93
+msgid "Text:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:206
+msgid "Social Style:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:209 ../widgets/widget-social.php:97
+#: ../widgets/widget-social.php:223
+msgid "Color"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:210 ../widgets/widget-social.php:222
+#: ../widgets/widget-twitter.php:182 ../widgets/widget-twitter.php:228
+msgid "Light"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:211 ../widgets/widget-twitter.php:229
+msgid "Dark"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:215
+msgid "Social Link Target:"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:218 ../widgets/widget-slideshow.php:157
+#: ../widgets/widget-social.php:241 ../widgets/widget-testimonials.php:166
+msgid "Blank"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:219 ../widgets/widget-slideshow.php:158
+#: ../widgets/widget-social.php:242 ../widgets/widget-testimonials.php:167
+msgid "Self"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:222 ../widgets/widget-social.php:271
+msgid "Social Links"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:223 ../widgets/widget-social.php:272
+msgid "Enter the full URL to your social profile"
+msgstr ""
+
+#: ../widgets/widget-ads.php:14
+msgid "A widget that displays ads in sidebar."
+msgstr ""
+
+#: ../widgets/widget-ads.php:17
+msgid "UW - Ads"
+msgstr ""
+
+#: ../widgets/widget-ads.php:101
+msgid "Sponsors"
+msgstr ""
+
+#: ../widgets/widget-ads.php:119
+msgid "Ads Title (Optional):"
+msgstr ""
+
+#: ../widgets/widget-ads.php:124
+msgid "Ad 1 Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:129
+msgid "Ad 1 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:134
+msgid "Ad 2 Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:139
+msgid "Ad 2 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:144
+msgid "Ad 3 Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:149
+msgid "Ad 3 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:154
+msgid "Ad 4 Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:159
+msgid "Ad 4 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:164
+msgid "Ad 5 Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:169
+msgid "Ad 5 Link:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:174
+msgid "Ad 6 Image URL:"
+msgstr ""
+
+#: ../widgets/widget-ads.php:179
+msgid "Ad 6 Link:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:14
+msgid "Adds support for Contact Info."
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:17
+msgid "UW - Contact Info"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:39
+#: ../widgets/widget-contact-info.php:136
+msgid "Address:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:47
+#: ../widgets/widget-contact-info.php:140
+msgid "Phone:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:55
+#: ../widgets/widget-contact-info.php:144
+msgid "Mobile:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:63
+#: ../widgets/widget-contact-info.php:148
+msgid "Fax:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:71
+#: ../widgets/widget-contact-info.php:152
+msgid "Email:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:83
+msgid "Website:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:114
+msgid "Contact Info"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:156
+msgid "Email Link Text:"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:160
+msgid "Website URL (with HTTP):"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:164
+msgid "Website URL Text:"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:14
+msgid "Adds support for Facebook Like Box."
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:17
+msgid "UW - Facebook Like Box"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:97
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:113
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:118
+#: ../widgets/widget-social.php:247 ../widgets/widget-twitter.php:216
+#: ../widgets/widget-video.php:141
+msgid "Width:"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:123
+#: ../widgets/widget-twitter.php:226
+msgid "Color Scheme:"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:125
+msgid "light"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:126
+msgid "dark"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:132
+msgid "Show faces"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:137
+msgid "Show stream"
+msgstr ""
+
+#: ../widgets/widget-facebook-like-box.php:142
+msgid "Show facebook header"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:14
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../widgets/widget-flickr.php:17
+msgid "UW - Flickr Stream"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:66
+msgid "Flickr ID "
+msgstr ""
+
+#: ../widgets/widget-flickr.php:68
+msgid "Enter the url of your Flickr page on this site: idgettr.com."
+msgstr ""
+
+#: ../widgets/widget-flickr.php:72
+msgid "Number:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:14
+msgid "Displays google map."
+msgstr ""
+
+#: ../widgets/widget-gmap.php:17
+msgid "UW - Google Map"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:123
+msgid "Latitude:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:125
+msgid "Find the latitude"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:125 ../widgets/widget-gmap.php:131
+msgid "here"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:129
+msgid "Longitude:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:131
+msgid "Find the longitude"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:135
+msgid "Zoom"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:137
+msgid "From 1 to 19, default : 5"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:141 ../widgets/widget-social.php:252
+#: ../widgets/widget-twitter.php:221 ../widgets/widget-video.php:146
+msgid "Height:"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:147
+msgid "Enable Scroll Wheel"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:152
+msgid "Enable Pan Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:157
+msgid "Enable Zoom Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:162
+msgid "Enable Map Type Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:167
+msgid "Enable Scale Control"
+msgstr ""
+
+#: ../widgets/widget-gmap.php:172
+msgid "Enable Draggable"
+msgstr ""
+
+#: ../widgets/widget-login.php:14
+msgid "Displays Login/Register Form."
+msgstr ""
+
+#: ../widgets/widget-login.php:17
+msgid "UW - Login"
+msgstr ""
+
+#: ../widgets/widget-login.php:100
+msgid "Logout"
+msgstr ""
+
+#: ../widgets/widget-login.php:112
+msgid "forget?"
+msgstr ""
+
+#: ../widgets/widget-login.php:117
+msgid "Show"
+msgstr ""
+
+#: ../widgets/widget-login.php:124
+msgid "Remember Me"
+msgstr ""
+
+#: ../widgets/widget-login.php:127
+msgid "Log In"
+msgstr ""
+
+#: ../widgets/widget-login.php:130
+msgid "Create an account"
+msgstr ""
+
+#: ../widgets/widget-login.php:144
+msgid "E-mail"
+msgstr ""
+
+#: ../widgets/widget-login.php:148
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: ../widgets/widget-login.php:151
+msgid "Create Account"
+msgstr ""
+
+#: ../widgets/widget-login.php:154
+msgid "Already a member?"
+msgstr ""
+
+#: ../widgets/widget-login.php:163
+msgid "Your Username or E-mail"
+msgstr ""
+
+#: ../widgets/widget-login.php:168
+msgid "Get New Password"
+msgstr ""
+
+#: ../widgets/widget-login.php:171
+msgid "I remember!"
+msgstr ""
+
+#: ../widgets/widget-login.php:246
+msgid "Login"
+msgstr ""
+
+#: ../widgets/widget-login.php:248
+msgid "Welcome"
+msgstr ""
+
+#: ../widgets/widget-login.php:249 ../widgets/widget-login.php:253
+#: ../widgets/widget-login.php:279 ../widgets/widget-login.php:311
+#: ../widgets/widget-mailchimp.php:72 ../widgets/widget-mailchimp.php:87
+#: ../widgets/widget-text.php:61 ../widgets/widget-text.php:73
+#: ../widgets/widget-video.php:136
+msgid "Yes"
+msgstr ""
+
+#: ../widgets/widget-login.php:264
+msgid "Url Redirect After Login:"
+msgstr ""
+
+#: ../widgets/widget-login.php:266
+msgid "Default is homepage"
+msgstr ""
+
+#: ../widgets/widget-login.php:269
+msgid "User Logged In"
+msgstr ""
+
+#: ../widgets/widget-login.php:277
+msgid "Display Avatar:"
+msgstr ""
+
+#: ../widgets/widget-login.php:280 ../widgets/widget-login.php:312
+#: ../widgets/widget-mailchimp.php:88 ../widgets/widget-text.php:74
+#: ../widgets/widget-video.php:96 ../widgets/widget-video.php:135
+msgid "No"
+msgstr ""
+
+#: ../widgets/widget-login.php:285
+msgid "Avatar Link:"
+msgstr ""
+
+#: ../widgets/widget-login.php:287 ../widgets/widget-login.php:293
+msgid "Default is profile page"
+msgstr ""
+
+#: ../widgets/widget-login.php:291
+msgid "Username Link:"
+msgstr ""
+
+#: ../widgets/widget-login.php:297
+msgid "User Menu:"
+msgstr ""
+
+#: ../widgets/widget-login.php:299 ../widgets/widget-menu.php:90
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../widgets/widget-login.php:309
+msgid "Display Logout Link:"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:14
+msgid "Displays Mailchimp Subscription Form."
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:17
+msgid "UW - MailChimp"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:73
+msgid ""
+"Get all latest content delivered to your email a few times a month. Updates "
+"and news about all categories will send to you."
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:75
+msgid "Your Email"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:76
+msgid "Sign Up"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:85
+msgid "Center Text:"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:98
+msgid "MailChimp Form Action:"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:103
+msgid "Placeholder:"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:108
+msgid "Button title:"
+msgstr ""
+
+#: ../widgets/widget-menu.php:14
+msgid "Displays a menu."
+msgstr ""
+
+#: ../widgets/widget-menu.php:17
+msgid "UW - Menu"
+msgstr ""
+
+#: ../widgets/widget-menu.php:76
+msgid "Menu"
+msgstr ""
+
+#: ../widgets/widget-menu.php:88
+msgid "Menu:"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:14
+msgid "Displays a posts slider."
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:17
+msgid "UW - Posts Slider"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:58
+#: ../widgets/widget-posts-thumbnails.php:63
+#: ../widgets/widget-posts-thumbnails.php:75
+msgid "0"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:58
+#: ../widgets/widget-posts-thumbnails.php:63
+#: ../widgets/widget-posts-thumbnails.php:75
+msgid "1"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:58
+#: ../widgets/widget-posts-thumbnails.php:63
+#: ../widgets/widget-posts-thumbnails.php:75
+msgid "%"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:121
+msgid "Posts Slider"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:136
+#: ../widgets/widget-posts-thumbnails.php:130
+msgid "Post Type?"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:138
+#: ../widgets/widget-posts-thumbnails.php:133
+msgid "Post"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:153
+#: ../widgets/widget-posts-thumbnails.php:148
+msgid "Random or Recent?"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:155
+#: ../widgets/widget-posts-thumbnails.php:151 ../widgets/widget-tabs.php:33
+#: ../widgets/widget-tabs.php:142
+msgid "Recent"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:156
+#: ../widgets/widget-posts-thumbnails.php:152
+msgid "Random"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:157
+#: ../widgets/widget-posts-thumbnails.php:153
+msgid "Most Comments"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:158
+#: ../widgets/widget-posts-thumbnails.php:154
+msgid "Last Modified"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:163
+#: ../widgets/widget-posts-thumbnails.php:159
+msgid "Number to Show"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:168 ../widgets/widget-slideshow.php:144
+#: ../widgets/widget-testimonials.php:159
+msgid "Slide Speed"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:173
+#: ../widgets/widget-posts-thumbnails.php:164
+msgid "Image Width"
+msgstr ""
+
+#: ../widgets/widget-posts-slider.php:178
+#: ../widgets/widget-posts-thumbnails.php:169
+msgid "Image Height"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:14
+msgid "Shows a listing of your recent or random posts."
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:17
+msgid "UW - Posts Thumbnails"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:103
+msgid "Recent Posts"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:123
+msgid "Small Image"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:124
+msgid "Full Image"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:125
+msgid "Full & Info Inside"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:175
+msgid "Disable Featured Image?"
+msgstr ""
+
+#: ../widgets/widget-posts-thumbnails.php:180
+msgid "Disable Date & Comments ?"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:14
+msgid "Displays a mini slideshow."
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:17
+msgid "UW - Slideshow"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:114
+msgid "Slideshow"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:134 ../widgets/widget-testimonials.php:149
+msgid "Image width"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:139 ../widgets/widget-testimonials.php:154
+msgid "Image height"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:149
+msgid "How many slides?"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:151 ../widgets/widget-testimonials.php:183
+msgid "Enter a number between 1 to 10"
+msgstr ""
+
+#: ../widgets/widget-slideshow.php:155 ../widgets/widget-social.php:239
+#: ../widgets/widget-testimonials.php:164
+msgid "Link Target:"
+msgstr ""
+
+#: ../widgets/widget-social.php:14
+msgid "Displays icons with links to your social profiles."
+msgstr ""
+
+#: ../widgets/widget-social.php:17
+msgid "UW - Social Buttons"
+msgstr ""
+
+#: ../widgets/widget-social.php:96
+msgid "Follow Us"
+msgstr ""
+
+#: ../widgets/widget-social.php:98 ../widgets/widget-social.php:233
+msgid "Rotate"
+msgstr ""
+
+#: ../widgets/widget-social.php:224
+msgid "3D"
+msgstr ""
+
+#: ../widgets/widget-social.php:225
+msgid "Just Icons"
+msgstr ""
+
+#: ../widgets/widget-social.php:230
+msgid "Transition:"
+msgstr ""
+
+#: ../widgets/widget-social.php:232
+msgid "Float"
+msgstr ""
+
+#: ../widgets/widget-social.php:234
+msgid "Zoom Out"
+msgstr ""
+
+#: ../widgets/widget-social.php:248 ../widgets/widget-social.php:253
+#: ../widgets/widget-social.php:258
+msgid "73px"
+msgstr ""
+
+#: ../widgets/widget-social.php:257
+msgid "Line Height:"
+msgstr ""
+
+#: ../widgets/widget-social.php:262
+msgid "Font Size:"
+msgstr ""
+
+#: ../widgets/widget-social.php:263
+msgid "22px"
+msgstr ""
+
+#: ../widgets/widget-social.php:267
+msgid "Border Radius:"
+msgstr ""
+
+#: ../widgets/widget-social.php:268
+msgid "2px"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:14
+msgid "Adds a Soundcloud player."
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:17
+msgid "UW - Soundcloud"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:60
+msgid "Title :"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:64
+msgid "URL :"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:68
+msgid "Height :"
+msgstr ""
+
+#: ../widgets/widget-soundcloud.php:73
+msgid "Autoplay"
+msgstr ""
+
+#: ../widgets/widget-tabs.php:10
+msgid "Displays Recent, Comments and Tags."
+msgstr ""
+
+#: ../widgets/widget-tabs.php:13
+msgid "UW - Tabs"
+msgstr ""
+
+#: ../widgets/widget-tabs.php:37 ../widgets/widget-tabs.php:146
+msgid "Comments"
+msgstr ""
+
+#: ../widgets/widget-tabs.php:41 ../widgets/widget-tabs.php:150
+msgid "Tags"
+msgstr ""
+
+#: ../widgets/widget-tabs.php:127
+msgid "Order Of Tabs:"
+msgstr ""
+
+#: ../widgets/widget-tabs.php:128
+msgid "click Save button to be able to change the order of tabs ."
+msgstr ""
+
+#: ../widgets/widget-tabs.php:159
+msgid "Number Of Items To Show:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:14
+msgid "Displays a testimonial slider."
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:17
+msgid "UW - Testimonial"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:122
+msgid "Testimonials"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:172
+msgid "Slide Navigation Style:"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:174
+msgid "Round"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:175
+msgid "Square"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:176
+msgid "None"
+msgstr ""
+
+#: ../widgets/widget-testimonials.php:181
+msgid "Number of Testimonials:"
+msgstr ""
+
+#: ../widgets/widget-text.php:14
+msgid "Displays of text or HTML."
+msgstr ""
+
+#: ../widgets/widget-text.php:17
+msgid "UW - Text"
+msgstr ""
+
+#: ../widgets/widget-text.php:60
+msgid "Custom Text"
+msgstr ""
+
+#: ../widgets/widget-text.php:71
+msgid "Center Content:"
+msgstr ""
+
+#: ../widgets/widget-text.php:79
+msgid "Text, Shortcodes Or HTML Code:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:14
+msgid "Adds support for your tweets."
+msgstr ""
+
+#: ../widgets/widget-twitter.php:17
+msgid "UW - Twitter"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "second"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "minute"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "hour"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "day"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "week"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "month"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "year"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:143
+msgid "decade"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:147
+msgid "ago"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:156
+msgid "s"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:181
+msgid "Recent Tweets"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:201
+msgid "Style:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:203
+msgid "Extand"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:204
+msgid "Simple"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:209
+msgid "Extand Style"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:211
+msgid "Twitter ID:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:235
+msgid "Simple Style"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:237
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:242
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:247
+msgid "Access Token:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:252
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:257
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:262
+msgid "Number of Tweets:"
+msgstr ""
+
+#: ../widgets/widget-video.php:14
+msgid "Add a video in your sidebar."
+msgstr ""
+
+#: ../widgets/widget-video.php:17
+msgid "UW - Video"
+msgstr ""
+
+#: ../widgets/widget-video.php:93
+msgid "Video"
+msgstr ""
+
+#: ../widgets/widget-video.php:100 ../widgets/widget-video.php:158
+msgid "Before"
+msgstr ""
+
+#: ../widgets/widget-video.php:109
+msgid "Type:"
+msgstr ""
+
+#: ../widgets/widget-video.php:111
+msgid "Youtube"
+msgstr ""
+
+#: ../widgets/widget-video.php:112
+msgid "Vimeo"
+msgstr ""
+
+#: ../widgets/widget-video.php:113
+msgid "Dailymotion"
+msgstr ""
+
+#: ../widgets/widget-video.php:114
+msgid "Bliptv"
+msgstr ""
+
+#: ../widgets/widget-video.php:115
+msgid "Viddler"
+msgstr ""
+
+#: ../widgets/widget-video.php:122
+msgid ""
+"Sorry, autoplay option not available as it is causing error in Internet "
+"Explorer"
+msgstr ""
+
+#: ../widgets/widget-video.php:128
+msgid "Video ID:"
+msgstr ""
+
+#: ../widgets/widget-video.php:133
+msgid "Autoplay:"
+msgstr ""
+
+#: ../widgets/widget-video.php:151
+msgid "Caption:"
+msgstr ""
+
+#: ../widgets/widget-video.php:156
+msgid "Caption Position:"
+msgstr ""
+
+#: ../widgets/widget-video.php:159
+msgid "After"
+msgstr ""
+
+#: ../widgets/widget-weather.php:14
+msgid "Displays weather in the sidebar."
+msgstr ""
+
+#: ../widgets/widget-weather.php:17
+msgid "UW - Weather"
+msgstr ""
+
+#: ../widgets/widget-weather.php:52
+msgid "Weather"
+msgstr ""
+
+#: ../widgets/widget-weather.php:64
+msgid "Location:"
+msgstr ""
+
+#: ../widgets/widget-weather.php:64
+msgid "Find Your Location"
+msgstr ""
+
+#: ../widgets/widget-weather.php:65
+msgid "(i.e: London or New York)"
+msgstr ""
+
+#: ../widgets/widget-weather.php:71
+msgid "Units:"
+msgstr ""
+
+#: ../widgets/widget-weather.php:78
+msgid "Forecast:"
+msgstr ""
+
+#: ../widgets/widget-weather.php:80
+msgid "5 Days"
+msgstr ""
+
+#: ../widgets/widget-weather.php:81
+msgid "4 Days"
+msgstr ""
+
+#: ../widgets/widget-weather.php:82
+msgid "3 Days"
+msgstr ""
+
+#: ../widgets/widget-weather.php:83
+msgid "2 Days"
+msgstr ""
+
+#: ../widgets/widget-weather.php:84
+msgid "1 Day"
+msgstr ""
+
+#: ../widgets/widget-weather.php:85
+msgid "Don't Show"
+msgstr ""

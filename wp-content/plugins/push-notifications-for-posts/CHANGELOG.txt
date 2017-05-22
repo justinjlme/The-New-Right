@@ -1,0 +1,64 @@
+v2.3 (2015-11-05)
+• New option to disable email verification.
+• New option to customise notification sound for iOS apps.
+• New API to set the flag read/unread of a post.
+• Now manages the users already registered with different roles without returning "Email already exists".
+• Changed the sender's name in the activation emails.
+• Updated internal libraries.
+• Older PHP version fix.
+• Full parameters validation.
+• The timestamp shown in the Debug page comply with the format chosen by the user in the WordPress settings page.
+• Other bug fixes and general improvements.
+
+v2.2 (2015-08-25)
+• Full support for WordPress 4.3.
+• We've redesigned the Debug page to make it even more fast and intuitive.
+• New logs, also for APIs, more frequent and detailed.
+• Minor bug fixes.
+
+v2.1.1 (2015-07-01)
+Minor bug fixes.
+
+v2.1 (2015-06-25)
+We've added an option to support Apache Cordova with PushPlugin. Go to Push Notifications > Settings and check the "In the Android notification payload add the message field" option (at the bottom of the page).
+
+We've also updated the library that shows analytics, and we've made possible the process of the shortcodes in the Posts API.
+
+v2.0.5 (2015-06-03)
+New option to enable wpautop filter to convert double line-breaks in the content into HTML paragraphs.
+
+v2.0.4 (2015-05-31)
+Minor bug fixes.
+
+v2.0.3 (2015-05-22)
+Support for devices without token (e.g. iOS simulator).
+
+v2.0.2 (2015-05-15)
+New iOS library and minor bug fixes.
+
+v2.0.1 (2015-04-27)
+Minor bug fixes.
+
+v2.0 (2015-04-15)
+Major release upgrade that introduces a lot of new features.
+
+v1.4.1 (2015-01-13)
+Minor bug fixes.
+
+v1.4 (2015-01-07)
+New OAuth support and improved documentation.
+
+v1.3 (2014-09-25)
+New Android library and minor bug fixes.
+
+v1.2.1 (2014-03-17)
+Minor bug fixes.
+
+v1.2 (2014-02-28)
+Now you can send push notifications to selected devices through the Tokens page. This update includes minor bug fixes and an improved documentation.
+
+v1.1 (2014-02-24)
+Full support for custom post types.
+
+v1.0 (2014-02-18)
+First public release.

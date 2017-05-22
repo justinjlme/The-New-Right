@@ -1,0 +1,20 @@
+<!-- Static Tweets -->
+<div class="atf-object atf-static-tweets atf-skin-<?php echo $this->skin; ?> atf-direction-<?php echo $this->direction ?>">
+    <div class="atf-inner-wrapper">
+        <?php foreach( $this->tweets as $tweet ): ?>
+            <?php $tweet = new TwitterFeed\Tweets\UI\Tweet( $tweet, $this->settings ); $tweet->render(true); ?>
+        <?php endforeach; ?>
+    </div>
+    <?php if('on' === $this->ajax): ?>
+        <div class="atf-load-more">
+            <div class="atf-text"><i class="fa fa-refresh"></i> <?php _e('Load More', 'twitterfeed'); ?></div>
+            <input name="atf-data" type="hidden" value="<?php echo htmlentities(json_encode(array(
+                'nonce'     => wp_create_nonce( "twitterfeed_load_more" ),
+                'action'    => "twitterfeed_load_more",
+                'position'  => intval($this->count),
+                'settings'  => $this->settings
+            )));?>"/>
+            <input name="ajaxurl" type="hidden" value="<?php echo admin_url( 'admin-ajax.php' ); ?>" />
+        </div>
+    <?php endif; ?>
+</div>

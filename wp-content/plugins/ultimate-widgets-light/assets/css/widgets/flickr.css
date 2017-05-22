@@ -1,0 +1,68 @@
+/*--------------------------------------------------------------
+Flickr
+--------------------------------------------------------------*/
+.uwl-flickr-widget {
+    display: block;
+}
+
+.uwl-flickr-widget .flickr_badge_image {
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 1%;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+.uwl-flickr-widget .flickr_badge_image img {
+    display: block;
+    width: 100%;
+}
+
+.uwl-flickr-widget .flickr_badge_image:hover {
+    opacity: 0.8;
+}
+
+/*three columns*/
+.uwl-flickr-widget.three-columns .flickr_badge_image {
+    width: 33.33%;
+    height: 33.33%;
+}
+
+/*four columns*/
+.uwl-flickr-widget.four-columns .flickr_badge_image {
+    width: 25%;
+    height: 25%;
+}
+
+/*five columns*/
+.uwl-flickr-widget.five-columns .flickr_badge_image {
+    width: 20%;
+    height: 20%;
+}
+
+/*six columns*/
+.uwl-flickr-widget.six-columns .flickr_badge_image {
+    width: 16.66%;
+    height: 16.66%;
+}
+
+/*link*/
+.uwl-flickr-widget p.flickr_stream_wrap {
+    display: inline-block;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 90%;
+    line-height: 1;
+    letter-spacing: 0.6px;
+}
+
+.uwl-flickr-widget p.flickr_stream_wrap a {
+    display: inline-block;
+    background-image: url( '../../images/flickr.png' );
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 25px;
+}

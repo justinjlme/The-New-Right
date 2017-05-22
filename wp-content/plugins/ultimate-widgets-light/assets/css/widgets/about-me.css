@@ -1,0 +1,297 @@
+/*--------------------------------------------------------------
+About me
+--------------------------------------------------------------*/
+.uwl-about-me {
+    position: relative;
+}
+
+.uwl-about-me .uwl-about-me-banner {
+    width: 100%;
+}
+
+.uwl-about-me .uwl-about-me-header .uwl-about-me-avatar {
+    position: relative;
+    border: 3px solid #fff;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+/*style default*/
+.uwl-about-me.style-default {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.uwl-about-me.style-default .uwl-about-me-banner {
+    -webkit-border-radius: 2px 2px 0 0;
+    -moz-border-radius: 2px 2px 0 0;
+    border-radius: 2px 2px 0 0;
+}
+
+.uwl-about-me.style-default .uwl-about-me-header {
+    padding: 0 15px;
+}
+
+.uwl-about-me.style-default .uwl-about-me-header .uwl-about-me-avatar {
+    float: left;
+    max-width: 50%;
+    margin-top: -60px;
+    margin-right: 15px;
+}
+
+.uwl-about-me.style-default .uwl-about-me-header .uwl-about-me-name {
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0;
+    text-transform: uppercase;
+    clear: none;
+}
+
+.uwl-about-me.style-default .uwl-about-me-text {
+    padding: 10px 15px 20px;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+.uwl-about-me.style-default .uwl-about-me-social {
+    overflow: hidden;
+    display: table !important;
+    width: 100% !important;
+    text-align: center;
+    table-layout: fixed !important;
+}
+
+.uwl-about-me.style-default .uwl-about-me-social li:first-child a {
+    -webkit-border-radius: 0 0 0 2px;
+    -moz-border-radius: 0 0 0 2px;
+    border-radius: 0 0 0 2px;
+}
+
+.uwl-about-me.style-default .uwl-about-me-social li {
+    display: table-cell !important;
+    border: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    -webkit-transition: all 0.16s ease;
+    -moz-transition: all 0.16s ease;
+    transition: all 0.16s ease;
+}
+
+.uwl-about-me.style-default .uwl-about-me-social li a {
+    display: block !important;
+    line-height: 40px;
+    font-size: 14px;
+    text-align: center;
+    height: 40px;
+    width: 100%;
+    border: 0 !important;
+    padding: 0 !important;
+}
+
+.uwl-about-me.style-default .uwl-about-me-social li a:hover {
+    -webkit-box-shadow: inset 0 16px 10px -10px rgba(0,0,0,0.3);
+    -moz-box-shadow: inset 0 16px 10px -10px rgba(0,0,0,0.3);
+    box-shadow: inset 0 16px 10px -10px rgba(0,0,0,0.3);
+}
+
+.uwl-about-me.style-default .uwl-about-me-social li:last-child a {
+    -webkit-border-radius: 0 0 2px 0;
+    -moz-border-radius: 0 0 2px 0;
+    border-radius: 0 0 2px 0;
+}
+
+/*style simple*/
+.uwl-about-me.style-simple {
+    text-align: center;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-header,
+.uwl-about-me.style-simple .uwl-about-me-social {
+    margin-top: 20px;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-name {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 10px 0;
+    text-transform: uppercase;
+    clear: none;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-text,
+.uwl-about-me.style-simple .uwl-about-me-social {
+    padding: 0 20px;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social li {
+    display: inline-block;
+    margin-left: 6px;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social li:first-child {
+    margin-left: 0;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social li a {
+    display: inline-block;
+    font-size: 14px;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+/*style color*/
+.uwl-about-me .uwl-about-me-social.style-color li a,
+.uwl-about-me .uwl-about-me-social.style-color li a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li a:hover {
+    color: #fff;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.facebook a,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li.facebook a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li.facebook a:hover {
+    background: #37589b;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.facebook a:hover {
+    background: #4e7ddd;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.twitter a,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li.twitter a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li.twitter a:hover {
+    background: #46d4fe;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.twitter a:hover {
+    background: #7ee1fe;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.google-plus a,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li.google-plus a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li.google-plus a:hover {
+    background: #de5a49;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.google-plus a:hover {
+    background: #fc7a69;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.instagram a,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li.instagram a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li.instagram a:hover {
+    background: #5996c7;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.instagram a:hover {
+    background: #69b4f0;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.linkedin a,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li.linkedin a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li.linkedin a:hover {
+    background: #419cca;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.linkedin a:hover {
+    background: #52c3fc;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.pinterest a,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li.pinterest a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li.pinterest a:hover {
+    background: #cb2027;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.pinterest a:hover {
+    background: #f7555c;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.youtube-play a,
+.uwl-about-me.style-default .uwl-about-me-social.style-light li.youtube-play a:hover,
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li.youtube-play a:hover {
+    background: #dd4646;
+}
+
+.uwl-about-me .uwl-about-me-social.style-color li.youtube-play a:hover {
+    background: #ff6262;
+}
+
+/*style light color*/
+.uwl-about-me.style-default .uwl-about-me-social.style-light li a {
+    background: #eee;
+    color: #333;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li a {
+    color: #aaa;
+    border: 1px solid #ddd;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li.facebook a:hover,
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li.facebook a:hover {
+    color: #37589b;
+    border-color: #37589b;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li.twitter a:hover,
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li.twitter a:hover {
+    color: #46d4fe;
+    border-color: #46d4fe;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li.google-plus a:hover,
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li.google-plus a:hover {
+    color: #de5a49;
+    border-color: #de5a49;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li.instagram a:hover,
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li.instagram a:hover {
+    color: #5996c7;
+    border-color: #5996c7;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li.linkedin a:hover,
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li.linkedin a:hover {
+    color: #419cca;
+    border-color: #419cca;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li.pinterest a:hover,
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li.pinterest a:hover {
+    color: #cb2027;
+    border-color: #cb2027;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-light li.youtube-play a:hover,
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li.youtube-play a:hover {
+    color: #dd4646;
+    border-color: #dd4646;
+}
+
+/*style dark color*/
+.uwl-about-me.style-default .uwl-about-me-social.style-dark li a {
+    background: #333;
+    color: #fff;
+}
+
+.uwl-about-me.style-simple .uwl-about-me-social.style-dark li a {
+    color: #333;
+    border: 1px solid #777;
+}
+
+/*--------------------------------------------------------------
+Responsive
+--------------------------------------------------------------*/
+@media only screen and (max-width: 959px) {
+    .uwl-about-me .uwl-about-me-header .uwl-about-me-avatar {margin-top: -20px;}
+}

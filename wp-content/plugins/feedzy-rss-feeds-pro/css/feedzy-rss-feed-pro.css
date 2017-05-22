@@ -1,0 +1,15 @@
+/**
+ * style.css
+ * FEEDZY RSS Feeds
+ * Copyright: (c) 2016 Themeisle, themeisle.com
+ * Version: 1.1.2
+ * Plugin Name: FEEDZY RSS Feeds
+ * Plugin URI: http://themeisle.com/plugins/feedzy-rss-feeds/
+ * Author: Themeisle
+ */
+
+/*TinyMce UI button*/
+i.mce-i-feedzy-icon {
+	background-image: url("../img/feedzy_pro.png") !important;
+	background-image: none, url("../img/feedzy_pro.svg"), url("../img/feedzy_pro.png") !important;
+}

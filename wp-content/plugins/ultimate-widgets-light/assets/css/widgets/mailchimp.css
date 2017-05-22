@@ -1,0 +1,155 @@
+/*--------------------------------------------------------------
+Mailchimp
+--------------------------------------------------------------*/
+.uwl-form-wrap {
+    margin-bottom: 0;
+}
+
+.uwl-mail-text {
+    margin-bottom: 10px;
+}
+
+/*style 1*/
+.uwl-mailchimp.style-one input[type="submit"] {
+    margin-top: 15px;
+}
+
+/*style 2*/
+.uwl-mailchimp.style-two {
+    position: relative;
+    width: 100%;
+}
+
+.uwl-mailchimp.style-two input[type="email"] {
+    height: 44px;
+    background-color: transparent;
+    color: #7f7f7f;
+    border-width: 1px;
+    border-color: #1a1f24;
+    font-size: 13px;
+    padding: 0 60px 0 20px;
+    margin: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.uwl-mailchimp.style-two input[type="email"]:focus {
+    border-color: #4dbefa;
+}
+
+.uwl-mailchimp.style-two button {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 50px;
+    height: 42px;
+    background-color: transparent;
+    color: #1a1f24;
+    font-size: 16px;
+    border: 0;
+    padding: 0;
+	-webkit-transition: all .3s ease;
+	-moz-transition: all .3s ease;
+	transition: all .3s ease;
+}
+
+.uwl-mailchimp.style-two button:hover {
+	color: #4dbefa;
+}
+
+.uwl-mailchimp.style-two span {
+	position: absolute;
+    top: 14px;
+    right: 50px;
+    width: 1px;
+    height: 15px;
+    border-left: 1px dotted #1a1f24;
+}
+
+/*style 3*/
+.uwl-newsletter-wrap .uwl-newsletter-content-wrap {
+    display: block;
+    position: relative;
+    padding: 30px 25px 20px 25px;
+    background-color: #3e404c;
+    overflow: hidden;
+}
+
+.uwl-newsletter-wrap .uwl-newsletter-content-wrap .icon {
+    position: absolute;
+    top: -30px;
+    right: -30px;
+    font-size: 80px;
+    color: #4F536D;
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+}
+
+.uwl-newsletter-wrap .uwl-mail-text {
+    color: #aaaaaa;
+    font-size: 14px;
+}
+
+.uwl-newsletter-wrap .uwl-mail-text h1,
+.uwl-newsletter-wrap .uwl-mail-text h2,
+.uwl-newsletter-wrap .uwl-mail-text h3,
+.uwl-newsletter-wrap .uwl-mail-text h4,
+.uwl-newsletter-wrap .uwl-mail-text h5,
+.uwl-newsletter-wrap .uwl-mail-text h6 {
+    display: block;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 10px;
+}
+
+.uwl-newsletter-wrap .uwl-newsletter-form-wrap {
+    background-color: #323440;
+    padding: 20px 25px;
+}
+
+.uwl-newsletter-wrap form {
+    position: relative;
+}
+
+.uwl-newsletter-wrap input[type="email"] {
+    background-color: transparent !important;
+    border-color: #565869;
+    color: #ffffff;
+    height: 46px;
+    padding: 0 15px;
+    margin: 0;
+}
+
+.uwl-newsletter-wrap input[type="email"]:hover,
+.uwl-newsletter-wrap input[type="email"]:focus {
+    border-color: #70738A;
+}
+
+.uwl-newsletter-wrap button {
+    display: block;
+    position: absolute;
+    top: 50%;
+    margin-top: -13px;
+    right: 15px;
+    padding: 0 10px;
+    height: 26px;
+    background-color: #777eab;
+    color: #fff;
+    border: 0;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-radius: 3px;
+    cursor: pointer;
+    text-align: center;
+    letter-spacing: 0.1em;
+    line-height: 1;
+    transition: all .3s ease;
+}
+
+.uwl-newsletter-wrap button:hover {
+    background-color: #4c516f;
+}

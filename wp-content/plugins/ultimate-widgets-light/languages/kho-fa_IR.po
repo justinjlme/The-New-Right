@@ -1,0 +1,3537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ابزارک نامحدود - UW\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-19 22:26+0200\n"
+"PO-Revision-Date: 2015-09-19 22:29+0200\n"
+"Last-Translator: Nick <khothemes@gmail.com>\n"
+"Language-Team: khothemes.com\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"_nx_noop:4c,1,2;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/admin/admin-config.php:24 ../assets/admin/admin-config.php:29
+msgid "Panel"
+msgstr "پنل"
+
+#: ../assets/admin/admin-config.php:28
+msgid "UWL Panel"
+msgstr "پنل UWL "
+
+#: ../assets/admin/admin-config.php:84
+msgid "Widgets"
+msgstr "ابزارک ها"
+
+#: ../assets/admin/admin-config.php:90
+msgid "Minify CSS"
+msgstr "Minify CSS"
+
+#: ../assets/admin/admin-config.php:91
+msgid ""
+"Compress all CSS in a single file or activate the CSS when the widgets are "
+"on the page."
+msgstr ""
+"فشرده سازی تمامی CSS در یک فایل و یا فعال کردن CSS وقتی که ویجتها در صفحه می "
+"باشد."
+
+#: ../assets/admin/admin-config.php:93 ../assets/admin/admin-config.php:102
+#: ../assets/admin/admin-config.php:110 ../assets/admin/admin-config.php:118
+#: ../assets/admin/admin-config.php:126 ../assets/admin/admin-config.php:134
+#: ../assets/admin/admin-config.php:142 ../assets/admin/admin-config.php:150
+#: ../assets/admin/redux-core/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "روشن"
+
+#: ../assets/admin/admin-config.php:94 ../assets/admin/admin-config.php:103
+#: ../assets/admin/admin-config.php:111 ../assets/admin/admin-config.php:119
+#: ../assets/admin/admin-config.php:127 ../assets/admin/admin-config.php:135
+#: ../assets/admin/admin-config.php:143 ../assets/admin/admin-config.php:151
+#: ../assets/admin/redux-core/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "خاموش"
+
+#: ../assets/admin/admin-config.php:99
+msgid "Minify JS"
+msgstr "Minify JS"
+
+#: ../assets/admin/admin-config.php:100
+msgid ""
+"Compress all JS in a single file or activate the JS when the widgets are on "
+"the page."
+msgstr ""
+"فشرده سازی تمامی JS در یک فایل و یا فعال کردن JS وقتی که ویجتها در صفحه می "
+"باشد."
+
+#: ../assets/admin/admin-config.php:108
+msgid "About Me Widget"
+msgstr "ابزارک درباره من"
+
+#: ../assets/admin/admin-config.php:116 ../assets/admin/admin-config.php:453
+msgid "Contact Info Widget"
+msgstr "ابزارک اطلاعات تماس با ما"
+
+#: ../assets/admin/admin-config.php:124
+msgid "Flickr Widget"
+msgstr "ابزارک فلیکر"
+
+#: ../assets/admin/admin-config.php:132
+msgid "Instagram Widget"
+msgstr "ابزارک اینستاگرام"
+
+#: ../assets/admin/admin-config.php:140
+msgid "MailChimp Widget"
+msgstr "ابزارک MailChimp "
+
+#: ../assets/admin/admin-config.php:148 ../assets/admin/admin-config.php:581
+msgid "Menu Widget"
+msgstr "ابزارک منو"
+
+#: ../assets/admin/admin-config.php:162
+msgid "Styling"
+msgstr "طراحی"
+
+#: ../assets/admin/admin-config.php:168
+msgid "Widgets Style"
+msgstr "استایل ابزارک ها"
+
+#: ../assets/admin/admin-config.php:169
+msgid "Select your preferred style."
+msgstr "استایل مورد نظر خود را انتخاب کنید."
+
+#: ../assets/admin/admin-config.php:172 ../widgets/widget-instagram.php:127
+msgid "Style 1"
+msgstr "استایل 1"
+
+#: ../assets/admin/admin-config.php:173 ../widgets/widget-instagram.php:128
+msgid "Style 2"
+msgstr "استایل ۲"
+
+#: ../assets/admin/admin-config.php:174 ../widgets/widget-instagram.php:129
+msgid "Style 3"
+msgstr "استایل 3"
+
+#: ../assets/admin/admin-config.php:185
+msgid "Style 1 Border Color"
+msgstr "رنگ حاشیه استایل 1"
+
+#: ../assets/admin/admin-config.php:186 ../assets/admin/admin-config.php:213
+#: ../assets/admin/admin-config.php:223 ../assets/admin/admin-config.php:254
+#: ../assets/admin/admin-config.php:273 ../assets/admin/admin-config.php:304
+#: ../assets/admin/admin-config.php:313 ../assets/admin/admin-config.php:332
+#: ../assets/admin/admin-config.php:348 ../assets/admin/admin-config.php:357
+#: ../assets/admin/admin-config.php:373 ../assets/admin/admin-config.php:385
+#: ../assets/admin/admin-config.php:394 ../assets/admin/admin-config.php:413
+#: ../assets/admin/admin-config.php:425 ../assets/admin/admin-config.php:437
+#: ../assets/admin/admin-config.php:468 ../assets/admin/admin-config.php:477
+#: ../assets/admin/admin-config.php:485 ../assets/admin/admin-config.php:501
+#: ../assets/admin/admin-config.php:513 ../assets/admin/admin-config.php:525
+#: ../assets/admin/admin-config.php:537 ../assets/admin/admin-config.php:553
+#: ../assets/admin/admin-config.php:565 ../assets/admin/admin-config.php:589
+#: ../assets/admin/admin-config.php:597
+msgid "Select your custom hex color."
+msgstr "رنگ hex  دلخواه خود را انتخاب کنید."
+
+#: ../assets/admin/admin-config.php:194
+msgid "Style 1 Padding"
+msgstr "Padding استایل 1"
+
+#: ../assets/admin/admin-config.php:195
+msgid "Enter your custom padding in pixels."
+msgstr "Padding دلخواه خود را به پیکسل وارد کنید."
+
+#: ../assets/admin/admin-config.php:203
+msgid "Style 1 Margin Bottom"
+msgstr "Margin Bottom استایل 1"
+
+#: ../assets/admin/admin-config.php:204 ../assets/admin/admin-config.php:245
+#: ../assets/admin/admin-config.php:295
+msgid "Enter your custom margin bottom in pixels."
+msgstr "   Margin Bottom  دلخواه خود را وارد کنید."
+
+#: ../assets/admin/admin-config.php:212
+msgid "Style 1 Title Background"
+msgstr "پس زمینه عنوان استایل 1"
+
+#: ../assets/admin/admin-config.php:222
+msgid "Style 1 Title Color"
+msgstr "رنگ عنوان استایل 1"
+
+#: ../assets/admin/admin-config.php:232
+msgid "Style 1 Title Font Size"
+msgstr "اندازه فونت عنوان استایل 1"
+
+#: ../assets/admin/admin-config.php:233 ../assets/admin/admin-config.php:264
+#: ../assets/admin/admin-config.php:323
+msgid "Enter your font size for the title in pixels."
+msgstr "اندازه فونت دلخواه خود را برای عنوان به پیکسل وارد کنید."
+
+#: ../assets/admin/admin-config.php:244
+msgid "Style 2 Margin Bottom"
+msgstr "Margin Bottom استایل 1"
+
+#: ../assets/admin/admin-config.php:253
+msgid "Style 2 Title Color"
+msgstr "رنگ عنوان استایل 2"
+
+#: ../assets/admin/admin-config.php:263
+msgid "Style 2 Title Font Size"
+msgstr "اندازه فونت عنوان استایل 2"
+
+#: ../assets/admin/admin-config.php:272
+msgid "Style 2 Title Border Color"
+msgstr "رنگ حاشیه  عنوان استایل 2"
+
+#: ../assets/admin/admin-config.php:282
+msgid "Style 2 Title Border Width"
+msgstr "پهنا حاشیه عنوان استایل 2"
+
+#: ../assets/admin/admin-config.php:283
+msgid "Enter your width for the title border."
+msgstr "پهنای مورد نظر خود را برای حاشیه عنوان وارد کنید."
+
+#: ../assets/admin/admin-config.php:294
+msgid "Style 3 Margin Bottom"
+msgstr "Margin Bottom استایل "
+
+#: ../assets/admin/admin-config.php:303
+msgid "Style 3 Title Background"
+msgstr "پس زمینه عنوان استایل 3"
+
+#: ../assets/admin/admin-config.php:312
+msgid "Style 3 Title Color"
+msgstr "رنگ عنوان استایل 3"
+
+#: ../assets/admin/admin-config.php:322
+msgid "Style 3 Title Font Size"
+msgstr "اندازه فونت عنوان استایل 3"
+
+#: ../assets/admin/admin-config.php:331
+msgid "Style 3 Title Border Bottom Color"
+msgstr "رنگ حاشیه  پایینی عنوان استایل 3"
+
+#: ../assets/admin/admin-config.php:341 ../assets/admin/admin-config.php:347
+msgid "Links Color"
+msgstr "رنگ لینک ها"
+
+#: ../assets/admin/admin-config.php:356
+msgid "Links Hover Color"
+msgstr "رنگ لینک ها هنگام هاور (hover color)"
+
+#: ../assets/admin/admin-config.php:366
+msgid "Inputs Styles"
+msgstr "استایل های ورودی"
+
+#: ../assets/admin/admin-config.php:372
+msgid "Input Background"
+msgstr "پس زمینه ورودی"
+
+#: ../assets/admin/admin-config.php:384
+msgid "Input Color"
+msgstr "رنگ ورودی"
+
+#: ../assets/admin/admin-config.php:393
+msgid "Input Border Color"
+msgstr "رنگ حاشیه ورودی"
+
+#: ../assets/admin/admin-config.php:406
+msgid "Buttons Styles"
+msgstr "استایل ها دکمه ها"
+
+#: ../assets/admin/admin-config.php:412
+msgid "Input Submit Background"
+msgstr "پس زمینه ارسال (Submit ) ورودی"
+
+#: ../assets/admin/admin-config.php:424
+msgid "Input Submit Color"
+msgstr "رنگ ارسل (Submit ) ورودی"
+
+#: ../assets/admin/admin-config.php:436
+msgid "Input Submit Border Color"
+msgstr "رنگ حاشیه ارسال (Submit ) ورودی"
+
+#: ../assets/admin/admin-config.php:461
+msgid "Default Style"
+msgstr "استایل پیشفرض"
+
+#: ../assets/admin/admin-config.php:467 ../assets/admin/admin-config.php:512
+msgid "Icons Color"
+msgstr "رنگ آیکون"
+
+#: ../assets/admin/admin-config.php:476 ../assets/admin/admin-config.php:524
+msgid "Icons Border Color"
+msgstr "رنگ حاشیه آیکون"
+
+#: ../assets/admin/admin-config.php:484 ../assets/admin/admin-config.php:536
+msgid "Titles Color"
+msgstr "رنگ عنوان"
+
+#: ../assets/admin/admin-config.php:494
+msgid "Big Icons Style"
+msgstr "استایل آیکون های بزرگ"
+
+#: ../assets/admin/admin-config.php:500
+msgid "Icons Background"
+msgstr "پس زمینه آیکون ها"
+
+#: ../assets/admin/admin-config.php:546
+msgid "Skype Style"
+msgstr "استایل اسکایپ"
+
+#: ../assets/admin/admin-config.php:552
+msgid "Skype Background"
+msgstr "پس زمینه اسکایپ"
+
+#: ../assets/admin/admin-config.php:564
+msgid "Skype Color"
+msgstr "رنگ اسکایپ"
+
+#: ../assets/admin/admin-config.php:588
+msgid "Links Border Bottom Color"
+msgstr "Links Border Bottom Color"
+
+#: ../assets/admin/admin-config.php:596
+msgid "Sub Icon Color"
+msgstr "رنگ Sub Icon"
+
+#: ../assets/admin/admin-config.php:613
+msgid "Custom CSS"
+msgstr "Css سفارشی"
+
+#: ../assets/admin/admin-config.php:621
+msgid "Design Edits"
+msgstr "تغییرات طرح"
+
+#: ../assets/admin/admin-config.php:622
+msgid ""
+"Quickly add some CSS to your theme to make design adjustments by adding it "
+"to this block. It is a much better solution then manually editing style.css"
+msgstr ""
+"سریع مقدار استایل به قالبتان اضافه کنید با اضافه کردن این بلوک به قالب. این "
+"یک راه حل بهتری نسبت به ویرایش Style.css می باشد."
+
+#: ../assets/admin/admin-config.php:632
+#: ../assets/admin/redux-core/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr "درون ریزی / برون بری"
+
+#: ../assets/admin/dashboard.php:16
+msgid "KhoThemes News"
+msgstr "اخبار KhoThemes "
+
+#: ../assets/admin/dashboard.php:23
+msgid "KhoThemes Blog"
+msgstr "وبلاگ KhoThemes "
+
+#: ../assets/admin/redux-core/core/enqueue.php:451
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:681
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "تغییرات شما ذخیره نشده اند. آیا دوست دارید آنها را ذخیره کنید؟"
+
+#: ../assets/admin/redux-core/core/enqueue.php:459
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:682
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+"آیا شما مطمئن هستید؟ با ریست کردن، تنظیمات شخصی سازی شده را از دست خواهید "
+"داد."
+
+#: ../assets/admin/redux-core/core/enqueue.php:467
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"آیا شما مطمئن هستید؟ با ریست کردن، تنظیمات شخصی سازی شده را در این بخش از "
+"دست خواهید داد."
+
+#: ../assets/admin/redux-core/core/enqueue.php:475
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:683
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"تنظیمات فعلی جایگزین مقادیر پیش فرض می شوند. آیا دوست دارید اینکار انجام شود؟"
+
+#: ../assets/admin/redux-core/core/enqueue.php:482
+msgid "Please Wait"
+msgstr "لطفا صبر کنید"
+
+#: ../assets/admin/redux-core/core/enqueue.php:493
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "یک خطا هنگام ذخیره کردن رخ داد. نتایج اقدام شما به این شرح است:"
+
+#: ../assets/admin/redux-core/core/enqueue.php:494
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+"مشکلی با عملی که انجام دادید وجود دارد. لطفا دوباره تلاش کنید یا صفحه را بار "
+"دیگر ریفرش کنید."
+
+#: ../assets/admin/redux-core/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "هشدار - تنظیمات این پنل بدون جاوا اسکریپت به درستی کار نخواهد کرد!"
+
+#: ../assets/admin/redux-core/core/panel.php:141
+msgid "Settings Imported!"
+msgstr "تنظیمات وارد شده!"
+
+#: ../assets/admin/redux-core/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr "تنظیمات پیش فرض بازگردانی شدند!"
+
+#: ../assets/admin/redux-core/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr "تنظیمات پیش فرض این بخش بازگردانی شدند!"
+
+#: ../assets/admin/redux-core/core/panel.php:184
+msgid "Settings Saved!"
+msgstr "تنظیمات ذخیره شد!"
+
+#: ../assets/admin/redux-core/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr "تنظیمات تغییر کرده اند ، شما باید آنها را ذخیره کنید!"
+
+#: ../assets/admin/redux-core/core/panel.php:212
+msgid "error(s) were found!"
+msgstr "خطا رخ داده است!"
+
+#: ../assets/admin/redux-core/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr "هشدار یافت شده است!"
+
+#: ../assets/admin/redux-core/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+"‏<strong>پنل شما از نسخه قدیمی فریم ورک ریداکس بهره برده است.</strong> "
+"&#8211; در صورت بروز هرگونه مشکل احتمالی بخاطره همین است . اطمینان پیدا کنید "
+"که نسخه فریم ورک شما بروز است."
+
+#: ../assets/admin/redux-core/framework.php:226
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr "پنل تنظیمات با استفاده از %1$s ایجاد شده است."
+
+#: ../assets/admin/redux-core/framework.php:226
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:199
+msgid "Redux Framework"
+msgstr "فریم ورک ریداکس"
+
+#: ../assets/admin/redux-core/framework.php:230
+#: ../assets/admin/redux-core/framework.php:234
+msgid "Options"
+msgstr "تنظیمات"
+
+#: ../assets/admin/redux-core/framework.php:1730
+msgid "Enable"
+msgstr "فعالسازی"
+
+#: ../assets/admin/redux-core/framework.php:1735
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: ../assets/admin/redux-core/framework.php:1741
+msgid "moving the mouse over"
+msgstr "﻿حرکت موس بر روی"
+
+#: ../assets/admin/redux-core/framework.php:1743
+msgid "clicking"
+msgstr "کلیک"
+
+#: ../assets/admin/redux-core/framework.php:1747
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+
+#: ../assets/admin/redux-core/framework.php:1752
+msgid "Hints"
+msgstr "نکات"
+
+#: ../assets/admin/redux-core/framework.php:1879
+#: ../widgets/widget-contact-info.php:178
+#: ../widgets/widget-contact-info.php:203
+msgid "Default"
+msgstr "پیش فرض"
+
+#: ../assets/admin/redux-core/framework.php:2751
+msgid "Invalid security credential, please reload the page and try again."
+msgstr ""
+
+#: ../assets/admin/redux-core/framework.php:2827
+msgid "Your panel has no fields. Nothing to save."
+msgstr "پنل شما دارای فیلدی نمی باشد. چیزی برای ذخیره کردن وجود ندارد."
+
+#: ../assets/admin/redux-core/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr "پنهان کن"
+
+#: ../assets/admin/redux-core/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+"لطفا چند دقیقه صبر کنید، سپس صفحه را دباره بارگزاری کنید. بعضی اط اسکریپت "
+"هایی ه در هاستی دیگر قرار دارند، قابل بارگزاری نیستند."
+
+#: ../assets/admin/redux-core/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+"اگر شما در حال توسعه ی آفلاین هستید، لطفا <a href=\\\"%s\\\" target=\\"
+"\"_blank\\\">پلاگین پشتیبانی فروشنده Redux</a> را دانلود و نصب کنید تا "
+"فروشنده CDN را کنار بگذاریذ و از این اخطار جلوگیری کنید."
+
+#: ../assets/admin/redux-core/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr "﻿هشدار در ریداکس فریمورک"
+
+#: ../assets/admin/redux-core/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+"%s را CDN در دسترس نیست. بعضی از کنترل کننده ها شاید به درستی عمل ننمایند."
+
+#: ../assets/admin/redux-core/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:31
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:60
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:254
+msgid "File Permission Issues"
+msgstr "سطح دسترسی به فایل"
+
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:60
+#: ../assets/admin/redux-core/inc/class.redux_filesystem.php:254
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+
+#: ../assets/admin/redux-core/inc/class.redux_helpers.php:596
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+"<code>%s</code> نسخه <strong style=\"color:red\">%s</strong>منقضی شد (به روز "
+"نیست). نسخه هسته %s است"
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:716
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "تغییرات شما ذخیره نشد. آیا تمایل دارید تا آنها را اکنون ذخیره کنید؟"
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:717
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+"آیا شما مطمئن هستید؟ با ریست کردن، تمام تنظیمات شخصی سازی شده را از دست "
+"خواهید داد."
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/extension_customizer.php:718
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"تنظیمات کنونی شما با تنظیمات پیش فرض جایگزین خواهند شد، آیا تمایل به ادامه "
+"عملیات دارید؟"
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr "دکمه return (مک) یا enter(ویندوز) را برای بازکردن این پنل بفشارید."
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_panel.php:114
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr "شما در حال سفارشی سازی %s هستید"
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_panel.php:138
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr "بازگشت"
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr "راهنما"
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr "دکمه return (مک) یا enter(ویندوز) را برای بازکردن این پنل بفشارید."
+
+#: ../assets/admin/redux-core/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr "برای بازکردن دکمه اینتر را بفشارید."
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr "تنظیمات درون ریزی"
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from File"
+msgstr "درون ریزی از فایل"
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:93
+msgid "Import from URL"
+msgstr "درون ریزی از آدرس"
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:96
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"فایل بکاپ خود را در زیر وارد کنید و درون ریزی را کلیک کنید تا تنظیمات سایت "
+"شما از بکاپ برگردانده شود."
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:102
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"آدرس url خود را از سایت دیگر که تنظیمات را در آنجا انجام داده اید را وارد "
+"کنید تا آن تنظیمات در این قالب شما لود شوند."
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid "Import"
+msgstr "درون ریزی"
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:107
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"﻿هشدار! این عملیات تمامی مقادیر در تنظیمات را بازنویسی مینماید. لطفا با "
+"احتیاط پیش بروید."
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid "Export Options"
+msgstr "تنظیمات  برون بری"
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:114
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"شما می توانید تنظیمات فعلی خود را از اینجا دانلود کنید. آن را در مکان مناسبی "
+"قرار دهید تا در صورت تنظیم کردن اشتباه براحتی بتوانید تنظیمات را به حالت "
+"فعلی برگردانید."
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:121
+msgid "Copy Data"
+msgstr "کپی کردن تنظیمات"
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:122
+msgid "Download Data File"
+msgstr "دانلود فایل تنظیمات"
+
+#: ../assets/admin/redux-core/inc/extensions/import_export/import_export/field_import_export.php:123
+msgid "Copy Export URL"
+msgstr "کپی  URL خروجی"
+
+#: ../assets/admin/redux-core/inc/extensions/options_object/extension_options_object.php:82
+#: ../assets/admin/redux-core/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr "تنظیمات شی"
+
+#: ../assets/admin/redux-core/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr "نمایش شی در کنسول جاوا اسکریپت"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:124
+#: ../assets/admin/redux-core/inc/fields/color/field_color.php:73
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr "شفاف"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "تکرار پس زمینه"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "برش پس زمینه"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "مبدا پس زمینه"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "اندازه پس زمینه"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "﻿ضمیمه پس زمینه"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "موقعیت پس زمینه"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:277
+#: ../assets/admin/redux-core/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr "هیچ رسانه‌ای انتخاب نشده است"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:314
+#: ../assets/admin/redux-core/inc/fields/media/field_media.php:198
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:126
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: ../assets/admin/redux-core/inc/fields/background/field_background.php:321
+#: ../assets/admin/redux-core/inc/fields/media/field_media.php:205
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:69
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:73
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:76
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:133
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "حذف"
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:125
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "همه"
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:138
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "بالا"
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:145
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "راست"
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:152
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "پایین"
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:159
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "چپ"
+
+#: ../assets/admin/redux-core/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr "استایل حاشیه"
+
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "از"
+
+#: ../assets/admin/redux-core/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "به"
+
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr "پهنا"
+
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:178
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr "ارتفاع"
+
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:189
+#: ../assets/admin/redux-core/inc/fields/dimensions/field_dimensions.php:190
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:245
+#: ../assets/admin/redux-core/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "واحد"
+
+#: ../assets/admin/redux-core/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "افزودن/ویرایش گالری"
+
+#: ../assets/admin/redux-core/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "پاک کردن گالری"
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "معمولی"
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr "هاور"
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "دیده شده"
+
+#: ../assets/admin/redux-core/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "فعال"
+
+#: ../assets/admin/redux-core/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr "افزودن بیشتر"
+
+#: ../assets/admin/redux-core/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "رمزعبور"
+
+#: ../assets/admin/redux-core/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "نام  کاربری"
+
+#: ../assets/admin/redux-core/inc/fields/select/field_select.php:83
+#: ../assets/admin/redux-core/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr "انتخاب یک موضوع"
+
+#: ../assets/admin/redux-core/inc/fields/select/field_select.php:134
+#: ../assets/admin/redux-core/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr "متاسفانه هیچ آیتمی پیدا نشد"
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "اسلاید"
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:73
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr "جدید %s"
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:145
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:200
+#: ../widgets/widget-instagram.php:115 ../widgets/widget-mailchimp.php:108
+msgid "Title"
+msgstr "عناون"
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:149
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "توضیحات"
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:153
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "نشانی"
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:167
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr "حذف"
+
+#: ../assets/admin/redux-core/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr "افزودن %s"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr "نوع فونت"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr "نوع فونت"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:258
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr "پشتیبانی از نوع فونت"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:273
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr "استایل فونت"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr "وزن فونت  &amp; استایل"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr "استایل"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr "Font subsets"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr "Font Subsets"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr "زیر مجموعه ها"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr "Font script"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:342
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:343
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr "موقعیت متن"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:365
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:366
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr "تبدیل متن"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:388
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:389
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr "فونت متغیر"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:408
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:409
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr "تزیین متن"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:432
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr "اندازه"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:441
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:450
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr "فاصله کلمات"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:459
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr "فاصله بین حروف"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr "رنگ فونت"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr "رنگ فونت"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr "فونت های استاندارد"
+
+#: ../assets/admin/redux-core/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr "فونت های گوگل"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr "اختیاری"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr "محلی سازی ریداکس"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr "استراحت دایل های ریداکس"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr "استایل های چک باکس"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr "تست ریداکس یونیت"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr "فایل افزونه ریداکس"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr "افزودنی های ریداکس"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr "فایل تست CI"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr "تست واحد PHP"
+
+#: ../assets/admin/redux-core/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+
+#: ../assets/admin/redux-core/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr "کمک به بهبود پانل ما"
+
+#: ../assets/admin/redux-core/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+"لطفا به بهبود پنل ما کمک کنید تا اطلاعات لازم از استفاده قالب در سایت شما رو "
+"بدونیم تا بتونیم بهترین تنظیمات رو برای پنل انجام دهیم."
+
+#: ../assets/admin/redux-core/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr "امکان ردیابی"
+
+#: ../assets/admin/redux-core/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr "عدم اجازه ردیابی"
+
+#: ../assets/admin/redux-core/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr "به نسخه نمایش پنل ریداکس خوش آمدید"
+
+#: ../assets/admin/redux-core/inc/tracking.php:152
+msgid "Getting Started"
+msgstr "شروع کنید"
+
+#: ../assets/admin/redux-core/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+"این پنل دارای قابلیتهای بسیاری میباشد. قبل شروع به کار توصیه میکنیم با "
+"مطالعه مستندات به این ابزار تسلط کافی پیدا نمایید %1$s."
+
+#: ../assets/admin/redux-core/inc/tracking.php:152
+msgid "our documentation"
+msgstr "مستندات ما"
+
+#: ../assets/admin/redux-core/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr "تولیدکننده ریداکس"
+
+#: ../assets/admin/redux-core/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+
+#: ../assets/admin/redux-core/inc/tracking.php:154
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:223
+msgid "Redux Extensions"
+msgstr "افزودنی های ریداکس"
+
+#: ../assets/admin/redux-core/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+".Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+
+#: ../assets/admin/redux-core/inc/tracking.php:154
+msgid "extensions directory"
+msgstr "پوشه افزودنی ها/اکستنشن ها"
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr "ریداکس را دوست دارید؟"
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+"اگر چنین است لطفا %1$s و با فراهم آوردن %2$s  به تیم طراحی ما در حرکت به جلو "
+"و پشرفت کمک کنید."
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr "نظرات و بررسی های خود را با ما در WordPress.org به اشتراک بگذارید."
+
+#: ../assets/admin/redux-core/inc/tracking.php:155
+msgid "donation"
+msgstr "کمک مالی"
+
+#: ../assets/admin/redux-core/inc/tracking.php:156
+#: ../widgets/widget-mailchimp.php:98
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+#: ../assets/admin/redux-core/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+"اگر شما می خواهید از تمام اخبار Redux مطلع باشید، لطفا در خبرنامه ما عضو شوید"
+
+#: ../assets/admin/redux-core/inc/tracking.php:157
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: ../assets/admin/redux-core/inc/tracking.php:157
+msgid "Subscribe"
+msgstr "اشتراک"
+
+#: ../assets/admin/redux-core/inc/tracking.php:166
+msgid "Close"
+msgstr "بستن"
+
+#: ../assets/admin/redux-core/inc/validation/color/validation_color.php:15
+#: ../assets/admin/redux-core/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../assets/admin/redux-core/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr "این فیلد باید دارای مقدار رنگ صحیح باشد"
+
+#: ../assets/admin/redux-core/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"شما برای این تنظیم باید یک لیست از مقادیر عددی که با کاما از هم جدا شده اند "
+"را برای این قسمت قراهم کنید."
+
+#: ../assets/admin/redux-core/inc/validation/css/validation_css.php:38
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr "Unsafe strings were found in your CSS and have been filtered out."
+
+#: ../assets/admin/redux-core/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr "این فیلد باید با یک تاریخ معتبر پر گردد."
+
+#: ../assets/admin/redux-core/inc/validation/email/validation_email.php:16
+#: ../assets/admin/redux-core/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "برای این فیلد باید یک آدرس ایمیل معتبر وارد کنید."
+
+#: ../assets/admin/redux-core/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"شما نباید در این فیلد هیچ رشته یا تگ html وارد نمایید. همه ی تگ های html حذف "
+"خواهند دشد."
+
+#: ../assets/admin/redux-core/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"شما نباید در این فیلد از یک سری کاراکترهای خاص استفاده کنید، این‌گونه "
+"کاراکترها حذف می‌شوند."
+
+#: ../assets/admin/redux-core/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "این فیلد نباید خالی باشد، لطفا یک مقدار وارد نمایید."
+
+#: ../assets/admin/redux-core/inc/validation/numeric/validation_numeric.php:16
+#: ../assets/admin/redux-core/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr "شما باید یک مقدار عددی برای این گزینه فراهم  کنید."
+
+#: ../assets/admin/redux-core/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr "این لینک استفاده شده لطفا لینک دیگری انتخاب نمایید . <code>%s</code>"
+
+#: ../assets/admin/redux-core/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr "شما باید یک URL معتبر وارد کنید."
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr "به فریمورک  ریداکس خوش آمدید %s"
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+"از اینکه به آخرین نسخه فریم ورک ریداکس %s بروز رسانی کردید متشکریم. بیاین "
+"ببینیم چه چیز جدیدی در این نسخه موجود هست."
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:8
+#: ../assets/admin/redux-core/inc/welcome/views/changelog.php:8
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:8
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:82
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:31
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr "نسخه  %s"
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr "فریم ورک  ریداکس چیست؟"
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr "این فریم ورک هسته تشکیل دهنده بسیاری از سایتها در اینترنت می باشد"
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr "بیشتر بدانید"
+
+#: ../assets/admin/redux-core/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr "تازه ها در این نسخه"
+
+#: ../assets/admin/redux-core/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr "فریم ورک ریداکس - تغییرات"
+
+#: ../assets/admin/redux-core/inc/welcome/views/changelog.php:5
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:28
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr "فریمورک ردوکس - یک تلاش دسته جمعی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+"ما دریافته ایم که بدون هوادارن خود چیزی نیستیم. ما از تمامی افرادی که به ما "
+"کمک کردند تا ریداکس به چیزی که الان هست، تبدیل شود تشکر می کنیم. از حضور شما "
+"متشکریم."
+
+#: ../assets/admin/redux-core/inc/welcome/views/credits.php:15
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+"ریداکس است که توسط یک جامعه از توسعه دهندگان در سراسر جهان ایجاد شده است. "
+"میخواهید نامتان ذکر شود؟ <a href=\"%d\" target=\"_blank\">مشارکت در Redux</"
+"a> ."
+
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:76
+msgid "Redux Framework - Extensions"
+msgstr "فریمورک ریداکس - اکستنشن ها"
+
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:79
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+
+#: ../assets/admin/redux-core/inc/welcome/views/extensions.php:88
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:25
+msgid "Redux Framework - System Status"
+msgstr "وضعیت سیستم - پنل ردوکس"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:38
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr "لطفا اطلاعات را کپی و جایگزاری نمایید:"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:41
+msgid "Get System Report"
+msgstr "گزارش سیستمی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:44
+msgid "Understanding the Status Report"
+msgstr "فهمیدن گزارش ها"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:51
+msgid "Copied!"
+msgstr "کپی شد!"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:51
+msgid "Copy for Support"
+msgstr "کپی کردن پشتیبانی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:60
+msgid "WordPress Environment"
+msgstr "محیط وردپرس"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:65
+msgid "Home URL"
+msgstr "لینک صفحه اصلی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:70
+msgid "Site URL"
+msgstr "آدرس سایت"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:75
+msgid "Redux Version"
+msgstr "Redux نسخه"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:80
+msgid "Redux Data Directory Writable"
+msgstr "دایرکتوری داده ریداکس قابل نوشتن است."
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:88
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr "برای ذخیره کردن داده ها، <code>%s</code> را قابل نوشتن نمائید."
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:93
+msgid "WP Content URL"
+msgstr "URL محتوا وردپرس"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:102
+msgid "WP Version"
+msgstr "نسخه وردپرس"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:107
+msgid "WP Multisite"
+msgstr "وردپرس چند سایته"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:116
+msgid "Permalink Structure"
+msgstr "ساختار لینک ثابت"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:122
+msgid "Front Page Display"
+msgstr "نمایش برگه اول"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:131
+msgid "Front Page"
+msgstr "صفحه اصلی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:136
+msgid "Posts Page"
+msgstr "برگه مطالب"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:144
+msgid "WP Memory Limit"
+msgstr "محدوديت حافظه وردپرس"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:150
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+"%s - برای افزایش آن به این آدرس بروید: <a href=\"%s\" target=\"_blank"
+"\">Increasing memory allocated to PHP</a>"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:157
+msgid "Database Table Prefix"
+msgstr "پیشوند جداول پایگاه داده"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:163
+msgid "WP Debug Mode"
+msgstr "حالت رفع اشکال وردپرس"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:172
+msgid "Language"
+msgstr "زبان"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:181
+msgid "Browser"
+msgstr "مرورگر"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:186
+msgid "Browser Info"
+msgstr "اطلاعات مرورگر"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:202
+msgid "Server Environment"
+msgstr "محیط سرور"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:207
+msgid "Server Info"
+msgstr "اطلاعات سرور"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:212
+msgid "Localhost Environment"
+msgstr "محیط لوکال هاست"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:223
+msgid "PHP Version"
+msgstr "نسخه PHP"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:228
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:235
+msgid "PHP Memory Limit"
+msgstr "محدودیت حافظه PHP"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:240
+msgid "PHP Post Max Size"
+msgstr "حداکثر اندازه ارسالی PHP"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:245
+msgid "PHP Time Limit"
+msgstr "محدودیت زمانی PHP"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:250
+msgid "PHP Max Input Vars"
+msgstr "حداکثر متغیرهای ورودی PHP"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:255
+msgid "PHP Display Errors"
+msgstr "خطاهای نمایشی PHP"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:267
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN نصب شد"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:277
+msgid "MySQL Version"
+msgstr "ورژن MySQL"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:282
+msgid "Max Upload Size"
+msgstr "بیشترین سایز آپلود"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:287
+msgid "Default Timezone is UTC"
+msgstr "ساعت زمانی پیشفرض UTC است"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:293
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr "ساعت زمانی پیشفرض %s  است- باید UTC باشد"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:310
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+"سرور میزبانی شما از CRUL و یا FSocket پشتیبانی نمیکند! لطفا با مدیر هاست و "
+"یا میزبانی خود جهت فعالسازی تماس بگیرید."
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:349
+msgid "Remote Post"
+msgstr "ارسال از راه دور"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:355
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+"wp_remote_post () شکست خورد. ممکن است بسیاری از ویژگی های پیشرفته عمل نکنند. "
+"با ارائه دهنده سرویس میزبانی خود تماس بگیرید."
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:358
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:373
+#, php-format
+msgid "Error: %s"
+msgstr "خطا: %s"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:365
+msgid "Remote Get"
+msgstr "دریافت از راه دور"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:371
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+"wp_remote_get () شکست خورد. این برای دریافت اطلاعات از سرور ضروری می باشد. "
+"با ارائه دهنده سرویس میزبانی خود تماس بگیرید."
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:405
+msgid "Active Plugins"
+msgstr "فعال کردن افزونه ها"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:421
+msgid "Visit plugin homepage"
+msgstr "دیدن صفحه اصلی افزونه"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:427
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "توسط  %s"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:445
+msgid "Redux Instance: "
+msgstr "نمونه ریداکس:"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:577
+msgid "Theme"
+msgstr "پوسته"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:582
+msgid "Name"
+msgstr "نام"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:587
+msgid "Version"
+msgstr "ورژن"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:593
+msgid "is available"
+msgstr "موجود است"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:598
+msgid "Author URL"
+msgstr "URL نویسنده"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:603
+msgid "Child Theme"
+msgstr "پوسته فرزند"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:606
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+"اگر شما فریمورک ریدوکس یا پوسته اصلی (مادر) را شخصی سازی نموده اید ، توصیه "
+"ما استفاده از پوسته فرزند می باشد ، برای اطلاعات بیشتر به <a href=\"%s\" "
+"target=\"_blank\">اینجا</a> مراجعه نمایید."
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:614
+msgid "Parent Theme Name"
+msgstr "نام پوسته منبع"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:620
+msgid "Parent Theme Version"
+msgstr "نسخه پوسته منبع"
+
+#: ../assets/admin/redux-core/inc/welcome/views/status_report.php:627
+msgid "Parent Theme Author URL"
+msgstr "لینک نویسنده پوسته منبع."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr "فریم ورک ریداکس - پشتیبانی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:5
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+"پروژه ما مبتنی بر اصول متن باز بوده و برای ایجاد تنظیمات و کنترل پنلی "
+"قدرتمند در اختیار توسعه دهندگان قرار داده شده است."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:20
+msgid "Generate a Support URL"
+msgstr "تولید آدرس اینترنتی پشتیبانی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:21
+msgid "Select Support Type"
+msgstr "انتخاب نوع پشتیبانی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:22
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:65
+msgid "How to Get Support"
+msgstr "چگونگی پشتیبانی گرفتن"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr "یک درخواست بفرستید"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:30
+msgid "To get started, we will need to generate a support hash."
+msgstr "برای شروع، ما نیاز به تولید یک رشته هش جهت پشتیبانی داریم."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:33
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+"این امکان به شما تمامی اطلاعات مورد نیاز جهت ارسال به توسعه دهنده را فراهم "
+"میکند ، این کار اطلاعات را بصورت محرمانه به سرور ریموت ارسال میکند ، برای "
+"مشاهده نوع اطلاعات ارسالی لطفا <a href=\\\"%s\\\">زبانه وضعیت</a> را مشاهده "
+"کنید."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:37
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr "ایجاد یک لینک پشتیبانی"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:44
+msgid "Select Your Support Type"
+msgstr "نوع پشتیبانی خود را انتخاب کنید"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:47
+msgid "What type of user are you?"
+msgstr "شما چه نوع کاربری هستید؟"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:52
+msgid "User"
+msgstr "نام کاربری"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:53
+msgid "I am a user, using a pre-built product."
+msgstr "من یک کاربر هستم، که از یک محصول پیش ساخته استفاده می کنم"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:56
+msgid "Developer"
+msgstr "برنامه نویس"
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:57
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+"من یک توسعه دهنده هستم که محصولاتی مبتنی بر فریمورک ریدوکس تولید و ارائه "
+"میکنم."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:68
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+"لطفا به پیدا کردن اشکالات فریمورک ریدوکس ادامه دهید و به ما ارائه کنید تا با "
+"آدرس پشتیبانی خود .لطفا هر گونه اطلاعات که کمک خواهد کرد را به ما بدهید تا "
+"مثل مشکل شما را پیدا کند."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:74
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+"در زیر فهرستی از پلاگین وردپرس و / یا پوسته نصب شده بر روی سایت شما است که "
+"استفاده از ریدوکس فریمورک . ما به طور مستقیم محصولات ایجاد شده با فریمورک ما "
+"را پشتیبانی نمی کند. این مسئولیت از افزونه یا پوسته توسعه برای حمایت از کار "
+"خود است. شما نیاز به تماس با نویسنده (بازدید کنندگان) این محصولات به شرح زیر "
+"است با پرسش از پشتیبانی شما."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:77
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+"لطفا مطمئن شوید که آدرس پشتیبانی شما برای توسع دهندگی شما در قسمت زیر وارد "
+"شده باشد."
+
+#: ../assets/admin/redux-core/inc/welcome/views/support.php:215
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+"ممکن است ارائه دهنده سازگار نباشد, قبل از درخواست پشتیبانی مستقیم از ما لطفا "
+"<a href=\"%s\" target=\"_blank\">مطلب مقابل</a> را بخوانید."
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:177
+msgid "Support hash could not be generated. Please try again later."
+msgstr "هش پشتیبانی نمی تواند تولید شود. لطفا بعدا مجددا امتحان کنید."
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:199
+msgid "Welcome to Redux Framework"
+msgstr "به فریمورک  ریداکس خوش آمدید"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:207
+msgid "Redux Framework Changelog"
+msgstr "﻿گزارش تغییرات فریم ورک ریداکس"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:215
+msgid "Get Support"
+msgstr "دریافت خدمات پشتیبانی"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:232
+msgid "The people that develop Redux Framework"
+msgstr "﻿افراد توسعه دهنده فریمورک ریداکس"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:240
+msgid "Redux Framework Status"
+msgstr "﻿وضعیت فرم ورک ریداکس"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:340
+msgid "What's New"
+msgstr "امکانات جدید"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:343
+msgid "Extensions"
+msgstr "اکستنشن ها"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:346
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:349
+msgid "Credits"
+msgstr "اعتبارات"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:352
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:355
+msgid "Status"
+msgstr "وضعیت"
+
+#: ../assets/admin/redux-core/inc/welcome/welcome.php:512
+#, php-format
+msgid "View %s"
+msgstr "مشاهده  %s"
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:48
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:19
+#: ../assets/admin/templates/footer.tpl.php:17
+#: ../assets/admin/templates/header_stickybar.tpl.php:16
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:51
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:21
+#: ../assets/admin/templates/footer.tpl.php:24
+#: ../assets/admin/templates/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr "ریست کردن تنظیمات این بخش"
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:52
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:22
+#: ../assets/admin/templates/footer.tpl.php:25
+#: ../assets/admin/templates/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr "ریست کردن همه تنظیمات"
+
+#: ../assets/admin/redux-core/templates/panel/footer.tpl.php:57
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:25
+#: ../assets/admin/templates/footer.tpl.php:30
+#: ../assets/admin/templates/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr "در حال کار..."
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:11
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:49
+#: ../assets/admin/templates/header.tpl.php:11
+msgid "Developer Mode Enabled"
+msgstr "حالت توسعه دهنده فعال شده است."
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:20
+#: ../assets/admin/templates/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG فعال است"
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:26
+#: ../assets/admin/templates/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "شما بر روی  لوکال هاست فعالیت میکنید."
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:31
+#: ../assets/admin/templates/header.tpl.php:31
+msgid "and"
+msgstr "و"
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:34
+#: ../assets/admin/templates/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "این به طور خودکار فعال شده زیرا"
+
+#: ../assets/admin/redux-core/templates/panel/header.tpl.php:36
+#: ../assets/admin/templates/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"اگر توسعه دهنده نیستید، پوسته/افزونه شما در حالت توسعه دهنده به شما تحویل "
+"داده شده است. برای تعمیر با آنها تماس بگیرید."
+
+#: ../assets/admin/redux-core/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr "باز کردن"
+
+#: ../assets/admin/templates/header.tpl.php:55
+msgid "Support Center"
+msgstr ""
+
+#: ../assets/images-resize.php:42 ../assets/images-resize.php:175
+msgid "No image URL has been entered."
+msgstr "هیچ ادرس تصویری وارد نشده است ."
+
+#: ../assets/images-resize.php:76 ../assets/images-resize.php:210
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr "تصویر  bmp است . لطفا از فرمت jpg یا png استفاده کنید"
+
+#: ../assets/images-resize.php:238
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr "ناموفق در دریافت اطلاعات $file_path توسط \"@getimagesize\"."
+
+#: ../assets/images-resize.php:281
+msgid "Resize path invalid (GIF)"
+msgstr "مسیر تغییر اندازه نامعتبر است (GIF)."
+
+#: ../assets/images-resize.php:285
+msgid "Resize path invalid (PNG)."
+msgstr "مسیر تغییر اندازه نامعتبر است (PNG)."
+
+#: ../assets/images-resize.php:293
+msgid "Resize path invalid (JPG)."
+msgstr "مسیر تغییر اندازه نامعتبر است (JPG)."
+
+#: ../assets/images-resize.php:308
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+"ناموفق در دریافت اطلاعات $dest_file_name ( تصویر تغییر سایز یافته ) از طریق "
+"@getimagesize"
+
+#: ../assets/widgets-functions.php:73
+msgid "Unable to communicate with Instagram."
+msgstr "قادر به برقراری ارتباط با اینستاگرام نیستیم."
+
+#: ../assets/widgets-functions.php:76
+msgid "Instagram did not return a 200."
+msgstr "اینستاگرم 200 را باز نگرداند."
+
+#: ../assets/widgets-functions.php:83 ../assets/widgets-functions.php:94
+#: ../assets/widgets-functions.php:98
+msgid "Instagram has returned invalid data."
+msgstr "اینستاگرم با داده نامعتبر بازگشته است."
+
+#: ../assets/widgets-functions.php:135
+msgid "Instagram Image"
+msgstr "تصاویر اینستاگرام"
+
+#: ../assets/widgets-functions.php:158
+msgid "Instagram did not return any images."
+msgstr "اینستاگرم هیچ تصاویر بر نمی گرداند."
+
+#: ../functions.php:121
+#, php-format
+msgid "<a class=\"uwl-close-icon notice-dismiss\" href=\"%1$s\"></a>"
+msgstr ""
+
+#: ../functions.php:123
+msgid "It’s time to upgrade"
+msgstr ""
+
+#: ../functions.php:123
+msgid "to"
+msgstr ""
+
+#: ../functions.php:123
+msgid "version!"
+msgstr ""
+
+#: ../functions.php:124
+msgid ""
+"A multitude of widgets, several styles, unique, beautiful & original, "
+"don&rsquo;t wait!"
+msgstr ""
+
+#: ../functions.php:125
+msgid "Purchase"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:11
+msgid "UWL - About Me"
+msgstr "UWL - درباره من"
+
+#: ../widgets/widget-about-me.php:14
+msgid "Adds a About Me widget."
+msgstr "ابزارک درباره من را  اضافه می کند ."
+
+#: ../widgets/widget-about-me.php:135
+msgid "About Me"
+msgstr "درباره من "
+
+#: ../widgets/widget-about-me.php:200 ../widgets/widget-contact-info.php:193
+#: ../widgets/widget-flickr.php:103 ../widgets/widget-menu.php:102
+msgid "Title:"
+msgstr "عنوان :"
+
+#: ../widgets/widget-about-me.php:204 ../widgets/widget-contact-info.php:197
+#: ../widgets/widget-flickr.php:108 ../widgets/widget-instagram.php:120
+#: ../widgets/widget-mailchimp.php:113 ../widgets/widget-menu.php:107
+msgid "Class Wrap (optional):"
+msgstr "کلاس قرار دادن (اختیاری):"
+
+#: ../widgets/widget-about-me.php:208
+msgid "Background Color:"
+msgstr "رنگ پس زمینه:"
+
+#: ../widgets/widget-about-me.php:212
+msgid "Text Color:"
+msgstr "رنگ متن:"
+
+#: ../widgets/widget-about-me.php:216
+msgid "Avatar Border Color:"
+msgstr "رنگ حاشیه آواتار :"
+
+#: ../widgets/widget-about-me.php:220
+msgid "Image Header:"
+msgstr "تصویر سربرگ :"
+
+#: ../widgets/widget-about-me.php:224
+msgid "Avatar:"
+msgstr "آواتار"
+
+#: ../widgets/widget-about-me.php:228
+msgid "Name:"
+msgstr "نام:"
+
+#: ../widgets/widget-about-me.php:232 ../widgets/widget-contact-info.php:208
+#: ../widgets/widget-mailchimp.php:126
+msgid "Text:"
+msgstr "متن :"
+
+#: ../widgets/widget-about-me.php:236
+msgid "Social Style:"
+msgstr "استایل اجتماعی :"
+
+#: ../widgets/widget-about-me.php:239
+msgid "Color"
+msgstr "رنگ"
+
+#: ../widgets/widget-about-me.php:240
+msgid "Light"
+msgstr "روشن"
+
+#: ../widgets/widget-about-me.php:241
+msgid "Dark"
+msgstr "تاريك"
+
+#: ../widgets/widget-about-me.php:245
+msgid "Social Link Target:"
+msgstr "هدف لینک های اجتماعی :"
+
+#: ../widgets/widget-about-me.php:248 ../widgets/widget-instagram.php:158
+msgid "Blank"
+msgstr "خالی"
+
+#: ../widgets/widget-about-me.php:249 ../widgets/widget-instagram.php:159
+msgid "Self"
+msgstr "دلخواه"
+
+#: ../widgets/widget-about-me.php:252
+msgid "Social Links"
+msgstr "لینک های شبکه اجتماعی"
+
+#: ../widgets/widget-about-me.php:253
+msgid "Enter the full URL to your social profile"
+msgstr " URL پروفایل اجتماعی خود را به صورت کامل وارد کنید"
+
+#: ../widgets/widget-contact-info.php:11
+msgid "UWL - Contact Info"
+msgstr "UWL - اطلاعات تماس"
+
+#: ../widgets/widget-contact-info.php:14
+msgid "Adds support for Contact Info."
+msgstr "پشتیبانی برای اطلاعات تماس  اضافه می کند ."
+
+#: ../widgets/widget-contact-info.php:78 ../widgets/widget-contact-info.php:212
+msgid "Address:"
+msgstr "آدرس‪:‬"
+
+#: ../widgets/widget-contact-info.php:88 ../widgets/widget-contact-info.php:216
+msgid "Phone:"
+msgstr "تلفن:"
+
+#: ../widgets/widget-contact-info.php:98 ../widgets/widget-contact-info.php:220
+msgid "Mobile:"
+msgstr "موبایل:"
+
+#: ../widgets/widget-contact-info.php:108
+#: ../widgets/widget-contact-info.php:224
+msgid "Fax:"
+msgstr "فکس:"
+
+#: ../widgets/widget-contact-info.php:118
+#: ../widgets/widget-contact-info.php:228
+msgid "Email:"
+msgstr "رایانامه:"
+
+#: ../widgets/widget-contact-info.php:132
+msgid "Website:"
+msgstr "وب سایت :"
+
+#: ../widgets/widget-contact-info.php:146
+msgid "Skype"
+msgstr "اسکایپ"
+
+#: ../widgets/widget-contact-info.php:176
+msgid "Contact Info"
+msgstr "اطلاعات تماس"
+
+#: ../widgets/widget-contact-info.php:180
+msgid "Street Name, FL 54785"
+msgstr "نام خیابان ، FL 54785"
+
+#: ../widgets/widget-contact-info.php:189
+msgid "Skype Call Us"
+msgstr "تماس با ما اسکایپ"
+
+#: ../widgets/widget-contact-info.php:201
+msgid "Style:"
+msgstr "استایل :"
+
+#: ../widgets/widget-contact-info.php:204
+msgid "Big Icons"
+msgstr "آیکون های بزرگ"
+
+#: ../widgets/widget-contact-info.php:232
+msgid "Email Link Text:"
+msgstr "متن لینک ایمیل:"
+
+#: ../widgets/widget-contact-info.php:236
+msgid "Website URL (with HTTP):"
+msgstr "آدرس وبسایت( با HTTP):"
+
+#: ../widgets/widget-contact-info.php:240
+msgid "Website URL Text:"
+msgstr "متنURL وب سایت:"
+
+#: ../widgets/widget-contact-info.php:244
+msgid "Skype:"
+msgstr "اسکایپ:"
+
+#: ../widgets/widget-contact-info.php:248
+msgid "Skype Text:"
+msgstr "متن اسکایپ :"
+
+#: ../widgets/widget-flickr.php:11
+msgid "UWL - Flickr Stream"
+msgstr "جریان فلیکر - UWL"
+
+#: ../widgets/widget-flickr.php:14
+msgid "Pulls in images from your Flickr account."
+msgstr "خوراک تصویر از حساب فلیکر خود را قرار دهید."
+
+#: ../widgets/widget-flickr.php:95
+msgid "Flickr Feed"
+msgstr "خوراک فلیکر"
+
+#: ../widgets/widget-flickr.php:97 ../widgets/widget-flickr.php:115
+#: ../widgets/widget-instagram.php:131
+msgid "3 Columns"
+msgstr "3 ستون"
+
+#: ../widgets/widget-flickr.php:113
+msgid "Columns:"
+msgstr "ستون ها:"
+
+#: ../widgets/widget-flickr.php:116 ../widgets/widget-instagram.php:132
+msgid "4 Columns"
+msgstr "4 ستون"
+
+#: ../widgets/widget-flickr.php:117
+msgid "5 Columns"
+msgstr "5 ستون"
+
+#: ../widgets/widget-flickr.php:118
+msgid "6 Columns"
+msgstr "6 ستون"
+
+#: ../widgets/widget-flickr.php:123
+msgid "Flickr ID "
+msgstr "شناسه فیلکر"
+
+#: ../widgets/widget-flickr.php:125
+msgid "Enter the url of your Flickr page on this site: idgettr.com."
+msgstr "آدرس صفحه فلیکر خود را وارد کنید در این سایت: idgettr.com."
+
+#: ../widgets/widget-flickr.php:129
+msgid "Number:"
+msgstr "تعداد:"
+
+#: ../widgets/widget-flickr.php:131
+msgid "The maximum is 20 images."
+msgstr "حداکثر 20 تصویر است."
+
+#: ../widgets/widget-instagram.php:11
+msgid "UWL - Instagram"
+msgstr "اینستاگرام - UWL"
+
+#: ../widgets/widget-instagram.php:14
+msgid "Displays Instagram photos."
+msgstr "تصاویر اینستاگرم را نمایش می دهد."
+
+#: ../widgets/widget-instagram.php:104
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: ../widgets/widget-instagram.php:107 ../widgets/widget-mailchimp.php:100
+#: ../widgets/widget-mailchimp.php:120
+msgid "Yes"
+msgstr "بله"
+
+#: ../widgets/widget-instagram.php:108
+msgid "adidas"
+msgstr "adidas"
+
+#: ../widgets/widget-instagram.php:111
+msgid "Follow"
+msgstr "دنبال کن"
+
+#: ../widgets/widget-instagram.php:125
+msgid "Images Style:"
+msgstr "استایل تصاویر :"
+
+#: ../widgets/widget-instagram.php:130
+msgid "2 Columns"
+msgstr "2 ستون"
+
+#: ../widgets/widget-instagram.php:137
+msgid "Margin:"
+msgstr "Margin:"
+
+#: ../widgets/widget-instagram.php:139
+msgid "Margin"
+msgstr "Margin"
+
+#: ../widgets/widget-instagram.php:140
+msgid "No Margin"
+msgstr "بدون Margin"
+
+#: ../widgets/widget-instagram.php:145
+msgid "Username:"
+msgstr "نام کاربری :"
+
+#: ../widgets/widget-instagram.php:150
+msgid "Number Of Photos:"
+msgstr "تعداد تصاویر :"
+
+#: ../widgets/widget-instagram.php:152
+msgid "The maximum is 24 images."
+msgstr "بیشترین تعداد 24 عدد  تصویر می باشد."
+
+#: ../widgets/widget-instagram.php:156
+msgid "Links Target:"
+msgstr "لینک هدف :"
+
+#: ../widgets/widget-instagram.php:164
+msgid "Follow Text:"
+msgstr "دنبال کردن متن \""
+
+#: ../widgets/widget-mailchimp.php:11
+msgid "UWL - MailChimp"
+msgstr "UWL - MailChimp"
+
+#: ../widgets/widget-mailchimp.php:14
+msgid "Displays Mailchimp Subscription Form."
+msgstr "فرم اشتراک mailchimp را نمایش می دهد."
+
+#: ../widgets/widget-mailchimp.php:101
+msgid ""
+"Get all latest content delivered to your email a few times a month. Updates "
+"and news about all categories will send to you."
+msgstr ""
+"Get all latest content delivered to your email a few times a month. Updates "
+"and news about all categories will send to you."
+
+#: ../widgets/widget-mailchimp.php:103
+msgid "Your Email"
+msgstr "ایمیل شما"
+
+#: ../widgets/widget-mailchimp.php:104
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+#: ../widgets/widget-mailchimp.php:118
+msgid "Center Text:"
+msgstr "مرکز متن:"
+
+#: ../widgets/widget-mailchimp.php:121
+msgid "No"
+msgstr "خیر"
+
+#: ../widgets/widget-mailchimp.php:131
+msgid "MailChimp Form Action:"
+msgstr "اقدام فرم MailChimp :"
+
+#: ../widgets/widget-mailchimp.php:136
+msgid "Placeholder:"
+msgstr "نگه دارنده مکان"
+
+#: ../widgets/widget-mailchimp.php:141
+msgid "Button title:"
+msgstr "عنوان دکمه :"
+
+#: ../widgets/widget-menu.php:11
+msgid "UWL - Menu"
+msgstr "منو - UWL"
+
+#: ../widgets/widget-menu.php:14
+msgid "Displays a menu."
+msgstr "یک منو نمایش می دهد."
+
+#: ../widgets/widget-menu.php:94
+msgid "Menu"
+msgstr "منو"
+
+#: ../widgets/widget-menu.php:112
+msgid "Menu:"
+msgstr "منو :"
+
+#: ../widgets/widget-menu.php:114
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; انتخاب &mdash;"
+
+#~ msgid "UW Panel"
+#~ msgstr "پنل UW "
+
+#~ msgid "A widget that talks to you."
+#~ msgstr "یک ابزارک که درباره شما سخن می گوید."
+
+#~ msgid "Ads Widget"
+#~ msgstr "ابزارک تبلیغات"
+
+#~ msgid "Display ads in your sidebar."
+#~ msgstr "یک ابزارک که تبلیغات را در سایدبار نمایش می دهد."
+
+#~ msgid "Banner Widget"
+#~ msgstr "ابزارک بنر"
+
+#~ msgid "Displays a banner with text."
+#~ msgstr "یک بنر با متن نمایش می دهد."
+
+#~ msgid "Calendar Widget"
+#~ msgstr "تقویم ابزارک"
+
+#~ msgid "Displays a calendar in the sidebar."
+#~ msgstr "یک ابزارک که تقویم را در سایدبار نمایش می دهد."
+
+#~ msgid "Add contact info, phone, email, etc."
+#~ msgstr "اضافه کردن تماس اطلاعات، تلفن، ایمیل، و غیره"
+
+#~ msgid "Custom Links Widget"
+#~ msgstr "ابزارک لینک های سفارشی"
+
+#~ msgid "Displays custom links."
+#~ msgstr "لینک های شفارشی نمایش می دهد."
+
+#~ msgid "Facebook Widget"
+#~ msgstr "ابزارک فیسبوک"
+
+#~ msgid "Adds support for Facebook Page Plugin."
+#~ msgstr "این افزونه ؛ پشتیبانی فیسبوک را به سایت شما اضافه میکند."
+
+#~ msgid "Google Map Widget"
+#~ msgstr "ابزارک گوگل مپ"
+
+#~ msgid "Displays google map."
+#~ msgstr "نقشه گوگل را نشان می دهد."
+
+#~ msgid "Login Widget"
+#~ msgstr "ابزارک ورود"
+
+#~ msgid "Displays Login/Register Form."
+#~ msgstr "فرم ورود/ثبت نام را نمایش می دهد."
+
+#~ msgid "Posts Slider Widget"
+#~ msgstr "ابزارک اسلایدر مطالب"
+
+#~ msgid "Displays a posts slider."
+#~ msgstr "یک اسلایدر مطالب نمایش می دهد."
+
+#~ msgid "Posts Thumbnails Widget"
+#~ msgstr "ابزارک تصاویر بندانگشتی مطالب"
+
+#~ msgid "Shows a listing of your recent or random posts."
+#~ msgstr "یک لیست از مطالب اخیر و یا تصادفی شما را نمایش می دهد."
+
+#~ msgid "Search Widget"
+#~ msgstr "ابزارک جست و جو"
+
+#~ msgid "Displays a search form."
+#~ msgstr "یک فرم جستجو نمایش می دهد."
+
+#~ msgid "Slideshow Widget"
+#~ msgstr "ابزارک اسلایدشو"
+
+#~ msgid "Displays a mini slideshow."
+#~ msgstr "یک اسلایدشو کوچک نمایش می دهد."
+
+#~ msgid "Social Widget"
+#~ msgstr "ابزارک شبکه های اجتماعی"
+
+#~ msgid "Displays icons with links to your social profiles."
+#~ msgstr "آیکون ها را با لینک در پروفایل اجتماعی شما نمایش می دهد."
+
+#~ msgid "SoundCloud Widget"
+#~ msgstr "ابزارک SoundCloud "
+
+#~ msgid "Adds a Soundcloud player."
+#~ msgstr "یک پخش کننده Soundcloud   اضافه می کند ."
+
+#~ msgid "Tabs Widget"
+#~ msgstr "ابزارک تب ها"
+
+#~ msgid "Displays Recent, Comments and Tags."
+#~ msgstr "برچسب ها و نظرات اخیر را نمایش می دهد."
+
+#~ msgid "Testimonials Widget"
+#~ msgstr "ابزارک از زبان مشتریان"
+
+#~ msgid "Displays a testimonial slider."
+#~ msgstr "یک اسلایدر از زبان مشتریان نمایش می دهد."
+
+#~ msgid "Text Widget"
+#~ msgstr "ابزارک متن"
+
+#~ msgid "Displays of text or HTML."
+#~ msgstr " متن یا HTML را نمیش می دهد."
+
+#~ msgid "Twitter Widget"
+#~ msgstr "ابزارک توییتر"
+
+#~ msgid "Adds support for your tweets."
+#~ msgstr "پشتیبانی برای توییت های شما  اضافه می کند ."
+
+#~ msgid "Video Widget"
+#~ msgstr "ابزارک ویدئو"
+
+#~ msgid "Add a video in your sidebar."
+#~ msgstr "یک ویدئو به سایدبار شما  اضافه می کند ."
+
+#~ msgid "Weather Widget"
+#~ msgstr "ابزارک آب و هوا"
+
+#~ msgid "Displays weather in the sidebar."
+#~ msgstr "وضعیت آب و هوا را در سایدبار نمایش می دهد."
+
+#~ msgid "Style 4"
+#~ msgstr "استایل 4"
+
+#~ msgid "Style 5"
+#~ msgstr "استایل 5"
+
+#~ msgid "Style 6"
+#~ msgstr "استایل 6"
+
+#~ msgid "Style 7"
+#~ msgstr "استایل 7"
+
+#~ msgid "Style 8"
+#~ msgstr "استایل 8"
+
+#~ msgid "Style 9"
+#~ msgstr "استایل 9"
+
+#~ msgid "Style 4 Background"
+#~ msgstr "پس زمینه استایل 4"
+
+#~ msgid "Style 4 Border Color"
+#~ msgstr "رنگ حاشیه استایل 4"
+
+#~ msgid "Style 4 Padding"
+#~ msgstr "Padding استایل 4"
+
+#~ msgid "Style 4 Margin Bottom"
+#~ msgstr "Margin Bottom استایل 4"
+
+#~ msgid "Style 4 Title Background"
+#~ msgstr "پس زمینه عنوان استایل 4"
+
+#~ msgid "Style 4 Title Color"
+#~ msgstr "رنگ عنوان استایل 4"
+
+#~ msgid "Style 4 Title Font Size"
+#~ msgstr "اندازه فونت عنوان استایل 4"
+
+#~ msgid "Style 4 Title Border Bottom Color"
+#~ msgstr "رنگ حاشیه پایینی عنوان استایل 4"
+
+#~ msgid "Style 4 Title Border Right Color"
+#~ msgstr "رنگ حاشیه راست عنوان استایل 4"
+
+#~ msgid "Style 5 Padding Bottom"
+#~ msgstr "Padding Bottom استایل 5"
+
+#~ msgid "Enter your custom padding bottom in pixels."
+#~ msgstr " padding bottom دلخواه خود را به پیکسل وارد کنید."
+
+#~ msgid "Style 5 Border Bottom Color"
+#~ msgstr "رنگ حاشی پایین استایل 5"
+
+#~ msgid "Style 5 Margin Bottom"
+#~ msgstr "Margin Bottom استایل 5"
+
+#~ msgid "Style 5 Title Background"
+#~ msgstr "پس زمینه عنوان استایل 5"
+
+#~ msgid "Style 5 Title Color"
+#~ msgstr "رنگ عنوان استایل 5"
+
+#~ msgid "Style 5 Title Font Size"
+#~ msgstr "اندازه فونت عنوان استایل 5"
+
+#~ msgid "Style 5 Title Border Bottom Color"
+#~ msgstr "رنگ حاشیه  پایینی عنوان استایل 5"
+
+#~ msgid "Style 6 Margin Bottom"
+#~ msgstr " Margin Bottom استایل 6"
+
+#~ msgid "Style 6 Title Color"
+#~ msgstr "رنگ عنوان استایل 6"
+
+#~ msgid "Style 6 Title Font Size"
+#~ msgstr "اندازه فونت عنوان استایل 6"
+
+#~ msgid "Style 6 Title Margin Bottom"
+#~ msgstr "Margin Bottom استایل 6"
+
+#~ msgid "Enter your margin bottom for the title in pixels."
+#~ msgstr "   Margin Bottom  دلخواه خود را برای عنوان به پیکسل وارد کنید."
+
+#~ msgid "Style 6 Title Primary Border Color"
+#~ msgstr "Title Primary Border Color استایل 6"
+
+#~ msgid "Style 6 Title Secondary Border Color"
+#~ msgstr "Title Secondary Border Color استایل 6"
+
+#~ msgid "Style 7 Border Color"
+#~ msgstr "رنگ حاشیه استایل 7"
+
+#~ msgid "Style 7 Padding"
+#~ msgstr "Padding استایل 7 "
+
+#~ msgid "Style 7 Margin Bottom"
+#~ msgstr "Margin Bottom استایل 7"
+
+#~ msgid "Style 7 Title Color"
+#~ msgstr "رنگ عنوان استایل 7"
+
+#~ msgid "Style 7 Title Font Size"
+#~ msgstr "اندازه فونت عنوان استایل 7"
+
+#~ msgid "Style 7 Title Margin Bottom"
+#~ msgstr " Margin Bottom عنوان استایل 7"
+
+#~ msgid "Style 8 Background Color"
+#~ msgstr "رنگ پس زمینه استایل 8"
+
+#~ msgid "Style 8 Border Left Color"
+#~ msgstr "رنگ  حاشیه چپ استایل 8"
+
+#~ msgid "Style 8 Padding"
+#~ msgstr "Padding استایل 8"
+
+#~ msgid "Style 8 Margin Bottom"
+#~ msgstr "Margin Bottom استایل 8"
+
+#~ msgid "Style 8 Title Color"
+#~ msgstr "رنگ عنوان استایل 8"
+
+#~ msgid "Style 8 Title Border Bottom Color"
+#~ msgstr "رنگ حاشیه  پایینی عنوان استایل 8"
+
+#~ msgid "Style 8 Title Font Size"
+#~ msgstr "انداز فونت عنوان استایل 8"
+
+#~ msgid "Style 8 Title Padding Bottom"
+#~ msgstr "Title Padding Bottom استایل 8"
+
+#~ msgid "Enter your padding bottom for the title in pixels."
+#~ msgstr "padding bottom دلخواه خود را به پیکسل وارد کنید."
+
+#~ msgid "Style 8 Title Margin Bottom"
+#~ msgstr "Margin Bottom عنوان استایل 9"
+
+#~ msgid "Style 9 Margin Bottom"
+#~ msgstr "Margin Bottom استایل 9"
+
+#~ msgid "Style 9 Title Color"
+#~ msgstr "رنگ عنوان استایل 9"
+
+#~ msgid "Style 9 Title Font Size"
+#~ msgstr "اندازه فونت عنوان استایل 9"
+
+#~ msgid "Style 9 Title Border Left Color"
+#~ msgstr "رنگ حاشیه چپ عنوان استایل 9"
+
+#~ msgid "Style 9 Title Margin Bottom"
+#~ msgstr "Margin Bottom عنوان استایل 9"
+
+#~ msgid "Enter your custom title margin bottom in pixels."
+#~ msgstr "title margin دلخواه خود را به پیکسل وارد کنید."
+
+#~ msgid "Checkbox Styles"
+#~ msgstr "استایل های چک باکس"
+
+#~ msgid "Checkbox Background"
+#~ msgstr "پس زمینه چک باکس"
+
+#~ msgid "Checkbox Border Color"
+#~ msgstr "رنگ حاشیه چک باکس"
+
+#~ msgid "Checkbox Checked Color"
+#~ msgstr "رنگ چک باکس انتخاب شده"
+
+#~ msgid "Nav Slideshow Widget"
+#~ msgstr "ابزارک اسلایدشو Nav "
+
+#~ msgid "Nav Slideshow Background"
+#~ msgstr "پس زمینه اسلایدشو Nav "
+
+#~ msgid "Nav Slideshow Color"
+#~ msgstr "رنگ اسلایدشو Nav "
+
+#~ msgid "Month Color"
+#~ msgstr "رنگ ماه"
+
+#~ msgid "Weeks Color"
+#~ msgstr "رنگ هفته ها"
+
+#~ msgid "Days Color"
+#~ msgstr "رنگ روزها"
+
+#~ msgid "Today Color"
+#~ msgstr "رنگ امروز"
+
+#~ msgid "Calendar Style 1"
+#~ msgstr "استایل تقویم 1"
+
+#~ msgid "Month Border Bottom Color"
+#~ msgstr "رنگ حاشیه پایینی ماه"
+
+#~ msgid "Weeks Border Bottom Color"
+#~ msgstr "رنگ حاشیه پایینی هفته"
+
+#~ msgid "Border Bottom Color"
+#~ msgstr "رنگ حاشیه پایینی"
+
+#~ msgid "Calendar Style 2"
+#~ msgstr "استایل 2 تقویم"
+
+#~ msgid "Weeks Background"
+#~ msgstr "پس زمینه هفته ها"
+
+#~ msgid "Weeks Border Color"
+#~ msgstr "رنگ حاشیه هفته ها"
+
+#~ msgid "Days Background"
+#~ msgstr "پس زمینه روزها"
+
+#~ msgid "Days Border Color"
+#~ msgstr "رنگ حاشیه روزها"
+
+#~ msgid "Calendar Style 3"
+#~ msgstr "استایل 3 تقویم"
+
+#~ msgid "Links Color Hover"
+#~ msgstr "Links Color Hover"
+
+#~ msgid "Links Border Bottom Color Hover"
+#~ msgstr "Links Border Bottom Color Hover"
+
+#~ msgid "Label Color"
+#~ msgstr "رنگ لیبل"
+
+#~ msgid "Show Password Background"
+#~ msgstr "پس زمینه نمایش رمزعبور"
+
+#~ msgid "Show Password Color"
+#~ msgstr "رنگ نمایش رمزعبور"
+
+#~ msgid "Remember Me Color"
+#~ msgstr "رنگ مرا به یاد داشته باش"
+
+#~ msgid "Remember Me Checked Color"
+#~ msgstr "رنگ مرابه یاد داشته باش انتخاب شده"
+
+#~ msgid "Logged In"
+#~ msgstr "وارد شد."
+
+#~ msgid "Avatar Outside Border Color"
+#~ msgstr "رنگ حاشیه خارجی آوتار"
+
+#~ msgid "Avatar Inside Border Color"
+#~ msgstr "رنگ حاشیه داخلی آوتار"
+
+#~ msgid "Avatar Hover Sonar Color"
+#~ msgstr "Avatar Hover Sonar Color"
+
+#~ msgid "Username Color"
+#~ msgstr "رنگ نام کاربری"
+
+#~ msgid "Menu Link Border Bottom Color"
+#~ msgstr "Menu Link Border Bottom Color"
+
+#~ msgid "MailChimp Style 2"
+#~ msgstr "استایل 2 MailChimp "
+
+#~ msgid "MailChimp Border Color"
+#~ msgstr "رنگ حاشیه MailChimp "
+
+#~ msgid "MailChimp Border Color Hover"
+#~ msgstr "رنگ شناور حاشیه MailChimp "
+
+#~ msgid "MailChimp Border Color Focus"
+#~ msgstr "رنگ متمرکز حاشیه MailChimp "
+
+#~ msgid "MailChimp Button Color"
+#~ msgstr "رنگ دکمه MailChimp "
+
+#~ msgid "MailChimp Button Color Hover"
+#~ msgstr "رنگ شناور دکمه MailChimp "
+
+#~ msgid "MailChimp Button Color Focus"
+#~ msgstr "رنگ متمرکز دکمه MailChimp "
+
+#~ msgid "Image Hover Background"
+#~ msgstr "پس زمینه شناور تصویر (Image Hover)"
+
+#~ msgid "Title/Comments/Nav Background"
+#~ msgstr "عنوان / نظرات / پس زمینه Nav"
+
+#~ msgid "Title/Nav Hover Background"
+#~ msgstr "عنوان / پس زمینه شناور Nav"
+
+#~ msgid "Title/Comments/Nav Color"
+#~ msgstr "عنوان / نظرات / رنگ Nav"
+
+#~ msgid "Tabs Border Color"
+#~ msgstr "رنگ حاشیه  تب ها"
+
+#~ msgid "Tabs Top Background"
+#~ msgstr "پس زمینه بالا تب ها"
+
+#~ msgid "Tabs Top Color"
+#~ msgstr "رنگ بالای تب ها"
+
+#~ msgid "Tab Recent: Date Color"
+#~ msgstr "تب اخیر : رنگ تاریخ"
+
+#~ msgid "Tabs Recent/Comments: Items Border Color"
+#~ msgstr "تب هاب اخیر / نظرات : رنگ حاشیه آیتم ها"
+
+#~ msgid "Tab Tags: Background"
+#~ msgstr "برچسب های تب : پس زمینه"
+
+#~ msgid "Tab Tags: Color"
+#~ msgstr "برچسب های تب : رنگ"
+
+#~ msgid "Nav Background"
+#~ msgstr "پس زمینه Nav"
+
+#~ msgid "Nav Color"
+#~ msgstr "رنگ Nav"
+
+#~ msgid "Nav Border Color"
+#~ msgstr "رنگ حاشیه Nav"
+
+#~ msgid "Quote Background"
+#~ msgstr "پس زمینه نقل و قول"
+
+#~ msgid "Quote Color"
+#~ msgstr "رنگ نقل و قول"
+
+#~ msgid "Avatar Background"
+#~ msgstr "پس زمینه آواتار"
+
+#~ msgid "Avatar Border Color"
+#~ msgstr "رنگ حاشیه آواتار"
+
+#~ msgid "Name Color"
+#~ msgstr "رنگ نام"
+
+#~ msgid "Tweets Color"
+#~ msgstr "رنگ توییت ها"
+
+#~ msgid "Tweets Border Color"
+#~ msgstr "رنگ حاشیه توییت ها"
+
+#~ msgid "Tweets Icons Color"
+#~ msgstr "رنگ آیکون توییت ها"
+
+#~ msgid "Weather Temp Color"
+#~ msgstr "رنگ دمای آب و هوا"
+
+#~ msgid "Weather Name/Desc/Days Temp Color"
+#~ msgstr "نام آب و هوا / توصیف / رنگ دمای روز"
+
+#~ msgid "Weather Stats/Days Color"
+#~ msgstr "آمار آب و هوا / رنگ روزها"
+
+#~ msgid "Weather Forecast Border Top Color"
+#~ msgstr "Weather Forecast Border Top Color"
+
+#~ msgid "Invalid security credential.  Please reload the page and try again."
+#~ msgstr ""
+#~ "گواهی امنیتی نامعتبر است، لطفا صفحه را ریفرش کنید و دوباره امتحان کنید."
+
+#~ msgid "Invalid user capability.  Please reload the page and try again."
+#~ msgstr ""
+#~ "قابلیت کاربر نامعتبر است. لطفا صفحه را مجددا بارگزاری کرده و دوباره "
+#~ "امتحان کنید."
+
+#~ msgid "FORCED DEV MODE OFF ENABLED"
+#~ msgstr "حالت FORCED DEV MODE OFF فعال شده است."
+
+#~ msgid "C"
+#~ msgstr "C"
+
+#~ msgid "F"
+#~ msgstr "F"
+
+#~ msgid "N"
+#~ msgstr "N"
+
+#~ msgid "NNE"
+#~ msgstr "NNE"
+
+#~ msgid "NE"
+#~ msgstr "NE"
+
+#~ msgid "ENE"
+#~ msgstr "ENE"
+
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "ESE"
+#~ msgstr "ESE"
+
+#~ msgid "SE"
+#~ msgstr "SE"
+
+#~ msgid "SSE"
+#~ msgstr "SSE"
+
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "SSW"
+#~ msgstr "SSW"
+
+#~ msgid "SW"
+#~ msgstr "SW"
+
+#~ msgid "WSW"
+#~ msgstr "WSW"
+
+#~ msgid "W"
+#~ msgstr "W"
+
+#~ msgid "WNW"
+#~ msgstr "WNW"
+
+#~ msgid "NW"
+#~ msgstr "NW"
+
+#~ msgid "NNW"
+#~ msgstr "NNW"
+
+#~ msgid "km/h"
+#~ msgstr "کیلومتر در ساعت"
+
+#~ msgid "mph"
+#~ msgstr "مایل در ساعت"
+
+#~ msgid "humidity:"
+#~ msgstr "رطوبت :"
+
+#~ msgid "wind:"
+#~ msgstr "باد:"
+
+#~ msgid "H"
+#~ msgstr "H"
+
+#~ msgid "L"
+#~ msgstr "L"
+
+#~ msgid "Sun"
+#~ msgstr "یک شنبه"
+
+#~ msgid "Mon"
+#~ msgstr "دو شنبه"
+
+#~ msgid "Tue"
+#~ msgstr "سه شنبه"
+
+#~ msgid "Wed"
+#~ msgstr "چهارشنبه"
+
+#~ msgid "Thu"
+#~ msgstr "پنج شنبه"
+
+#~ msgid "Fri"
+#~ msgstr "جمعه"
+
+#~ msgid "Sat"
+#~ msgstr "شنبه"
+
+#~ msgid "No weather information available"
+#~ msgstr "اطلاعات آب و هوا در دسترس نیست"
+
+#~ msgid "UW - About Me"
+#~ msgstr "UW - درباره من"
+
+#~ msgid "UW - Ads"
+#~ msgstr "UW - آگهی"
+
+#~ msgid "A widget that displays ads in sidebar."
+#~ msgstr "یک ابزارک که تبلیغات را در سایدبار نمایش می دهد."
+
+#~ msgid "Sponsors"
+#~ msgstr "حامیان مالی"
+
+#~ msgid "Ads Title (Optional):"
+#~ msgstr "عنوان آگهی (اختیاری) :"
+
+#~ msgid "Ad 1 Image URL:"
+#~ msgstr "لینک تصویر تبلیغ 1:"
+
+#~ msgid "Ad 1 Link:"
+#~ msgstr "لینک تبلیغ 1:"
+
+#~ msgid "Ad 2 Image URL:"
+#~ msgstr "لینک تصویر تبلیغ 2:"
+
+#~ msgid "Ad 2 Link:"
+#~ msgstr "لینک تبلیغ 2:"
+
+#~ msgid "Ad 3 Image URL:"
+#~ msgstr "لینک تصویر تبلیغ 3:"
+
+#~ msgid "Ad 3 Link:"
+#~ msgstr "لینک تبلیغ 3:"
+
+#~ msgid "Ad 4 Image URL:"
+#~ msgstr "لینک تصویر تبلیغ 4:"
+
+#~ msgid "Ad 4 Link:"
+#~ msgstr "لینک تبلیغ 4:"
+
+#~ msgid "Ad 5 Image URL:"
+#~ msgstr "لینک تصویر تبلیغ 5:"
+
+#~ msgid "Ad 5 Link:"
+#~ msgstr "لینک تبلیغ 5:"
+
+#~ msgid "Ad 6 Image URL:"
+#~ msgstr "لینک تصویر تبلیغ 6:"
+
+#~ msgid "Ad 6 Link:"
+#~ msgstr "لینک تبلیغ 6:"
+
+#~ msgid "UW - Banner"
+#~ msgstr "بنر - UW"
+
+#~ msgid "Banner"
+#~ msgstr "بنر"
+
+#~ msgid "Fade"
+#~ msgstr "محو شدن"
+
+#~ msgid "Center"
+#~ msgstr "کرگز"
+
+#~ msgid "Middle"
+#~ msgstr "وسط"
+
+#~ msgid "Read More"
+#~ msgstr "بیشتر خواندن"
+
+#~ msgid "Image Url:"
+#~ msgstr "آدرس تصویر:"
+
+#~ msgid "Image Hover:"
+#~ msgstr "تصویر شناور :"
+
+#~ msgid "None"
+#~ msgstr "هیچ کدام"
+
+#~ msgid "Grow"
+#~ msgstr "رشد"
+
+#~ msgid "Image Width:"
+#~ msgstr "پهنای تصویر :"
+
+#~ msgid "Image Height:"
+#~ msgstr "ارتفاع تصویر"
+
+#~ msgid "Content Align:"
+#~ msgstr "موقعیت متن"
+
+#~ msgid "Content Position:"
+#~ msgstr "موقعیت محتوا"
+
+#~ msgid "Content:"
+#~ msgstr "محتوا :"
+
+#~ msgid "Button:"
+#~ msgstr "دکمه :"
+
+#~ msgid "Button Style:"
+#~ msgstr "استایل دکمه :"
+
+#~ msgid "Black"
+#~ msgstr "سیاه"
+
+#~ msgid "Blue"
+#~ msgstr "آبی"
+
+#~ msgid "Brown"
+#~ msgstr "قهوه ای"
+
+#~ msgid "Green"
+#~ msgstr "سبز"
+
+#~ msgid "Gold"
+#~ msgstr "طلایی"
+
+#~ msgid "Pink"
+#~ msgstr "صورتی"
+
+#~ msgid "Purple"
+#~ msgstr "بنفش"
+
+#~ msgid "Red"
+#~ msgstr "قرمز"
+
+#~ msgid "White"
+#~ msgstr "سفید"
+
+#~ msgid "Yellow"
+#~ msgstr "زرد"
+
+#~ msgid "Button Link:"
+#~ msgstr "لینک دکمه :"
+
+#~ msgid "Button Target:"
+#~ msgstr "هدف دکمه :"
+
+#~ msgid "Button Text:"
+#~ msgstr "متن دکمه :"
+
+#~ msgid "UW - Calendar"
+#~ msgstr "تقویم - UW"
+
+#~ msgid "Calendar"
+#~ msgstr "تقویم"
+
+#~ msgid "Calendar Style:"
+#~ msgstr "استایل تقویم :"
+
+#~ msgid "UW - Contact Info"
+#~ msgstr "UW - اطلاعات تماس"
+
+#~ msgid "UW - Custom Links"
+#~ msgstr "لینک های سفارشی - UW"
+
+#~ msgid "Useful Links"
+#~ msgstr "لینک های مفید"
+
+#~ msgid "Link Target:"
+#~ msgstr "لینک هدف :"
+
+#~ msgid "Number of Custom Links:"
+#~ msgstr "تعداد لینک های سفارشی:"
+
+#~ msgid "Enter a number between 1 to 15"
+#~ msgstr "یک عدد بین 1 تا 10 وارد کنید."
+
+#~ msgid "UW - Facebook"
+#~ msgstr " فیس بوک - UW"
+
+#~ msgid "Find us on Facebook"
+#~ msgstr "ما را در فیس بوک بیابید"
+
+#~ msgid "Facebook Page Url:"
+#~ msgstr "آدرس صفحه فیس‌بوک :"
+
+#~ msgid "Width:"
+#~ msgstr "پهنا :"
+
+#~ msgid "Height:"
+#~ msgstr "ارتفاع:"
+
+#~ msgid "Use Small Header"
+#~ msgstr "استفاده از سربرگ کوچک"
+
+#~ msgid "Hide Cover Photo"
+#~ msgstr "پنهان سازی تصویر کاور"
+
+#~ msgid "Show Friend&rsquo;s Faces"
+#~ msgstr "نمایش دوست &rsquo;s  چهره ها"
+
+#~ msgid "Show Page Posts"
+#~ msgstr "نمایش مطالب برگه ها"
+
+#~ msgid "UW - Flickr Stream"
+#~ msgstr "جریان فلیکر - UW"
+
+#~ msgid "UW - Google Map"
+#~ msgstr "گوگل مپ - UW"
+
+#~ msgid "Latitude:"
+#~ msgstr "عرض جغرافیایی:"
+
+#~ msgid "Find the latitude"
+#~ msgstr "پیدا کردن طول و عرض جغرافیایی"
+
+#~ msgid "here"
+#~ msgstr "اینجا"
+
+#~ msgid "Longitude:"
+#~ msgstr "طول جغرافیایی:"
+
+#~ msgid "Find the longitude"
+#~ msgstr "یافتن طول جغرافیایی"
+
+#~ msgid "Zoom"
+#~ msgstr "بزرگنمایی"
+
+#~ msgid "From 1 to 19, default : 5"
+#~ msgstr "از 1 تا 19، به طور پیش فرض: 5"
+
+#~ msgid "Map Type:"
+#~ msgstr "نوع نقشه :"
+
+#~ msgid "Hybrid"
+#~ msgstr "ترکیبی"
+
+#~ msgid "Roadmap"
+#~ msgstr "نقشه مسیر"
+
+#~ msgid "Satellite"
+#~ msgstr "ماهواره"
+
+#~ msgid "Terrain"
+#~ msgstr "بومی"
+
+#~ msgid "Enable Scroll Wheel"
+#~ msgstr "فعال سازی Scroll Wheel"
+
+#~ msgid "Enable Pan Control"
+#~ msgstr "فعالسازی Pan Control"
+
+#~ msgid "Enable Zoom Control"
+#~ msgstr "فعالسازی Zoom Control"
+
+#~ msgid "Enable Map Type Control"
+#~ msgstr "فعالسازی Map Type Control"
+
+#~ msgid "Enable Scale Control"
+#~ msgstr "فعالسازی Scale Control"
+
+#~ msgid "Enable Draggable"
+#~ msgstr "فعالسازی قابلیت کشیدن"
+
+#~ msgid "UW - Instagram"
+#~ msgstr "اینستاگرام - UW"
+
+#~ msgid "UW - Login"
+#~ msgstr "ورود - UW"
+
+#~ msgid "Logout"
+#~ msgstr "خروج"
+
+#~ msgid "forget?"
+#~ msgstr "رمز عبور خود را فراموش کرده‌اید؟"
+
+#~ msgid "Show"
+#~ msgstr "نمایش"
+
+#~ msgid "Remember Me"
+#~ msgstr "مرا به یاد داشته باش"
+
+#~ msgid "Log In"
+#~ msgstr "ورود"
+
+#~ msgid "Create an account"
+#~ msgstr "ایجاد حساب کابری"
+
+#~ msgid "E-mail"
+#~ msgstr "ایمیل"
+
+#~ msgid "A password will be e-mailed to you."
+#~ msgstr "یک کلمه عبور به ایمیل شما ارسال خواهد شد."
+
+#~ msgid "Create Account"
+#~ msgstr "ایجاد حساب کابری"
+
+#~ msgid "Already a member?"
+#~ msgstr "عضو سایت هستید؟"
+
+#~ msgid "Your Username or E-mail"
+#~ msgstr "نام کاربری یا ایمیل"
+
+#~ msgid "Get New Password"
+#~ msgstr "دریافت رمز عبور جدید"
+
+#~ msgid "I remember!"
+#~ msgstr "من به یاد داشته باشید!"
+
+#~ msgid "Login"
+#~ msgstr "ورود"
+
+#~ msgid "Welcome"
+#~ msgstr "خوش آمدید"
+
+#~ msgid "Url Redirect After Login:"
+#~ msgstr "آدرس تغییر مسیر بعد از ورود :"
+
+#~ msgid "Default is homepage"
+#~ msgstr "به طور پیش فرض صفحه اصلی است"
+
+#~ msgid "Checked Remember Me?"
+#~ msgstr "به خاطر سپردن من؟"
+
+#~ msgid "User Logged In"
+#~ msgstr "کاربر وارد شد."
+
+#~ msgid "Display Avatar:"
+#~ msgstr "نمایش آواتار :"
+
+#~ msgid "Avatar Link:"
+#~ msgstr "لینک آواتار :"
+
+#~ msgid "Default is profile page"
+#~ msgstr "به طور پیش فرض صفحه پروفایل است."
+
+#~ msgid "Username Link:"
+#~ msgstr "لینک نام کاربری :"
+
+#~ msgid "User Menu:"
+#~ msgstr "منوی کاربر :"
+
+#~ msgid "Display Logout Link:"
+#~ msgstr "نمایش لینک خروج :"
+
+#~ msgid "UW - MailChimp"
+#~ msgstr "UW - MailChimp"
+
+#~ msgid "UW - Menu"
+#~ msgstr "منو - UW"
+
+#~ msgid "UW - Posts Slider"
+#~ msgstr "اسلاید مطالب - UW"
+
+#~ msgid "0"
+#~ msgstr "0"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Posts Slider"
+#~ msgstr "اسلایدر مطالب"
+
+#~ msgid "Post Type?"
+#~ msgstr "نوع مطلب ؟"
+
+#~ msgid "Post"
+#~ msgstr "ارسال"
+
+#~ msgid "Random or Recent?"
+#~ msgstr "تصادفی و یا آخرین؟"
+
+#~ msgid "Recent"
+#~ msgstr "اخیر"
+
+#~ msgid "Random"
+#~ msgstr "تصادفی"
+
+#~ msgid "Most Comments"
+#~ msgstr "بیشترین دیدگاه ها"
+
+#~ msgid "Last Modified"
+#~ msgstr "آخرین تغییرات"
+
+#~ msgid "Number to Show"
+#~ msgstr "تعداد نمایش"
+
+#~ msgid "Slide Speed"
+#~ msgstr "سرعت اسلایدر"
+
+#~ msgid "Image Width"
+#~ msgstr "پهنای تصویر :"
+
+#~ msgid "Image Height"
+#~ msgstr "ارتفاع  تصویر :"
+
+#~ msgid "UW - Posts Thumbnails"
+#~ msgstr "تصاویر بندانگشتی - UW"
+
+#~ msgid "Recent Posts"
+#~ msgstr "مطالب اخیر"
+
+#~ msgid "Small Image"
+#~ msgstr "تصویر کوچک"
+
+#~ msgid "Full Image"
+#~ msgstr "تصویر کامل"
+
+#~ msgid "Full & Info Inside"
+#~ msgstr "تصویر کامل"
+
+#~ msgid "Disable Featured Image?"
+#~ msgstr "غیر فعال کردن تصویر شاخص ؟"
+
+#~ msgid "Disable Date & Comments ?"
+#~ msgstr "غیر فعال‌کردن نظرات و تاریخ ؟"
+
+#~ msgid "UW - Search"
+#~ msgstr "جست و جو - UW"
+
+#~ msgid "search"
+#~ msgstr "جست و جو"
+
+#~ msgid "Search"
+#~ msgstr "جست و جو"
+
+#~ msgid "UW - Slideshow"
+#~ msgstr "اسلایدشو - UW "
+
+#~ msgid "Slideshow"
+#~ msgstr "اسلایدشو"
+
+#~ msgid "Image width"
+#~ msgstr "پهنا تصویر"
+
+#~ msgid "Image height"
+#~ msgstr "ارتفاع تصویر"
+
+#~ msgid "How many slides?"
+#~ msgstr "چه تعداد  اسلاید ؟"
+
+#~ msgid "Between 1 to 10"
+#~ msgstr "بین 1 تا 10"
+
+#~ msgid "UW - Social Buttons"
+#~ msgstr "دکمه های اجتماعی- UW"
+
+#~ msgid "Follow Us"
+#~ msgstr "ما را دنبال کنید."
+
+#~ msgid "Rotate"
+#~ msgstr "چرخش"
+
+#~ msgid "3D"
+#~ msgstr "سه بعدی"
+
+#~ msgid "Just Icons"
+#~ msgstr "فقط آیکون ها"
+
+#~ msgid "Transition:"
+#~ msgstr "انتقال (Transition) :"
+
+#~ msgid "Float"
+#~ msgstr "چینش"
+
+#~ msgid "Zoom Out"
+#~ msgstr "کوچک نمایی"
+
+#~ msgid "73px"
+#~ msgstr "73px"
+
+#~ msgid "Line Height:"
+#~ msgstr "ارتفاع خط :"
+
+#~ msgid "Font Size:"
+#~ msgstr "اندازه فونت :"
+
+#~ msgid "22px"
+#~ msgstr "22px"
+
+#~ msgid "Border Radius:"
+#~ msgstr "شعاع حاشیه :"
+
+#~ msgid "2px"
+#~ msgstr "2px"
+
+#~ msgid "UW - Soundcloud"
+#~ msgstr "UW - Soundcloud"
+
+#~ msgid "Title :"
+#~ msgstr "عنوان :"
+
+#~ msgid "URL :"
+#~ msgstr "آدرس :"
+
+#~ msgid "Height :"
+#~ msgstr "ارتفاع:"
+
+#~ msgid "Autoplay"
+#~ msgstr "پخش‌خودکار"
+
+#~ msgid "UW - Tabs"
+#~ msgstr "تب ها - UW "
+
+#~ msgid "Comments"
+#~ msgstr "نظرات"
+
+#~ msgid "Tags"
+#~ msgstr "برچسب ها"
+
+#~ msgid "Order Of Tabs:"
+#~ msgstr "ترتیب تب‌ها :"
+
+#~ msgid "click Save button to be able to change the order of tabs ."
+#~ msgstr "بر روی دکمه ذخیره برای فعال سازی تغییر ترتیب تب ها کلیک کنید."
+
+#~ msgid "Number Of Items To Show:"
+#~ msgstr "تعدا  آیتم ها برای نمایش :"
+
+#~ msgid "UW - Testimonial"
+#~ msgstr "از بان مشتریان - UW"
+
+#~ msgid "Testimonials"
+#~ msgstr " از زبان مشتریان"
+
+#~ msgid "Number of Testimonials:"
+#~ msgstr "تعداد از زبان مشتریان"
+
+#~ msgid "Enter a number between 1 to 10"
+#~ msgstr "یک عدد بین 1 تا 10 وارد کنید."
+
+#~ msgid "UW - Text"
+#~ msgstr "متن - UW"
+
+#~ msgid "Custom Text"
+#~ msgstr "متن سفارشی"
+
+#~ msgid "Center Content:"
+#~ msgstr "محتوای مرکز :"
+
+#~ msgid "Text, Shortcodes Or HTML Code:"
+#~ msgstr "متن، کدهای کوتاه یا کدهای HTML :"
+
+#~ msgid "UW - Twitter"
+#~ msgstr "توییتر - UW"
+
+#~ msgid "second"
+#~ msgstr "ثانیه"
+
+#~ msgid "minute"
+#~ msgstr "دقیقه"
+
+#~ msgid "hour"
+#~ msgstr "ساعت"
+
+#~ msgid "day"
+#~ msgstr "روز"
+
+#~ msgid "week"
+#~ msgstr "هفته"
+
+#~ msgid "month"
+#~ msgstr "ماه"
+
+#~ msgid "year"
+#~ msgstr "سال"
+
+#~ msgid "decade"
+#~ msgstr "دهه"
+
+#~ msgid "ago"
+#~ msgstr "قبل"
+
+#~ msgid "s"
+#~ msgstr "s"
+
+#~ msgid "Recent Tweets"
+#~ msgstr "توییت های اخیر"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "Expand Style"
+#~ msgstr "استایل Expand "
+
+#~ msgid "Twitter ID:"
+#~ msgstr "شناسه (id) توییتر :"
+
+#~ msgid "Color Scheme:"
+#~ msgstr "طرح رنگی:"
+
+#~ msgid "Simple Style"
+#~ msgstr "استایل ساده"
+
+#~ msgid "Consumer Key:"
+#~ msgstr "کلید مصرف کننده:"
+
+#~ msgid "Consumer Secret:"
+#~ msgstr "کلید سری مصرف کننده:"
+
+#~ msgid "Access Token:"
+#~ msgstr "رمز دسترسی:"
+
+#~ msgid "Access Token Secret:"
+#~ msgstr "رمز سری دسترسی:"
+
+#~ msgid "Twitter Username:"
+#~ msgstr "نام کاربری توییتر:"
+
+#~ msgid "Number of Tweets:"
+#~ msgstr "تعداد توییت ها :"
+
+#~ msgid "UW - Video"
+#~ msgstr "ویدئو - UW"
+
+#~ msgid "You forgot to enter a video URL."
+#~ msgstr "شما فراموش کردید که ادرس ویدئو را وارد کنید."
+
+#~ msgid "Video"
+#~ msgstr "ویدئو"
+
+#~ msgid "Before"
+#~ msgstr "قبل"
+
+#~ msgid "Embed Code"
+#~ msgstr "کد Embad"
+
+#~ msgid "Caption:"
+#~ msgstr "کپشن:"
+
+#~ msgid "Caption Position:"
+#~ msgstr "موقعیت کپشن :"
+
+#~ msgid "After"
+#~ msgstr "بعد از"
+
+#~ msgid "UW - Weather"
+#~ msgstr "آب و هوا - UW"
+
+#~ msgid "Weather"
+#~ msgstr "آب‌وهوا"
+
+#~ msgid "Location:"
+#~ msgstr "موقعیت :"
+
+#~ msgid "Find Your Location"
+#~ msgstr "موقعیت خود را بیابید."
+
+#~ msgid "(i.e: London or New York)"
+#~ msgstr "(مثلا : تهران یا شیراز)"
+
+#~ msgid "Units:"
+#~ msgstr "واحد ها :"
+
+#~ msgid "Forecast:"
+#~ msgstr "پیش بینی"
+
+#~ msgid "5 Days"
+#~ msgstr "5 روز"
+
+#~ msgid "4 Days"
+#~ msgstr "4 روز"
+
+#~ msgid "3 Days"
+#~ msgstr "3 روز"
+
+#~ msgid "2 Days"
+#~ msgstr "2 روز"
+
+#~ msgid "1 Day"
+#~ msgstr "ا روز"
+
+#~ msgid "Don't Show"
+#~ msgstr "نشان نده"

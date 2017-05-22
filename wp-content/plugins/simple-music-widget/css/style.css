@@ -1,0 +1,73 @@
+/*
+ Simple Music Widget Style
+ Version 1.5
+ */
+.simple-music-widget {
+    background: none repeat scroll 0 0 #050505;
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: relative;
+}
+.simple-music-widget audio {
+    width: 100%;
+}
+/* album cover */
+.simple-music-widget .artwork {
+    border: 2px solid #181818;
+    display: block;
+    float: left;
+    top: 10px;
+    line-height: 0;
+    margin-right: 10px;
+}
+.simple-music-widget .artwork img {
+    width: 56px;
+}
+/* song's details */
+.simple-music-widget .details {
+    display: block;
+    line-height: 20px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    color: #fff;
+    padding-bottom: 20px;
+}
+.simple-music-widget .song {
+    display: block;
+    font-weight: bold;
+}
+.simple-music-widget .artist {
+    font-weight: normal;
+}
+/* description box */
+.simple-music-widget .meta {
+    background: none repeat scroll 0 0 #EFEFF0;
+    color: #060606;
+    display: block;
+    padding: 10px 10px 10px;
+    margin: 10px -10px -10px;
+}
+.simple-music-widget .meta .download-link {
+    text-align: right;
+    display: block;
+}
+
+.simple-music-widget .meta a{
+    text-decoration: none;
+}
+/* to remove the margin for audio embed */
+.simple-music-widget .mejs-container {
+    margin-bottom: 0;
+}
+/* styling the settings */
+.simple-music-widget-admin .audio-method {
+    display: block;
+    color: #a3a3a3;
+    margin-top: 10px;
+}
+.simple-music-widget-admin .sponsored-link {
+    background-color: #ffe34d;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}

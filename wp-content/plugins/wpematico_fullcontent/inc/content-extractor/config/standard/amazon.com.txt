@@ -1,0 +1,9 @@
+body: //div[@id='imgTagWrapperId'] | //div[@id='technicalSpecifications_feature_div'] | //div[@id='prodDetails'] | //div[@id='feature-bullets']
+
+# strip: //div[@id='feature-bullets']
+
+tidy: no
+autodetect_on_failure: no
+prune: yes
+
+test_url: http://www.amazon.com/Nikon-Coolpix-Digital-Optical-3-0-Inch/dp/B00THKEKEQ?ie=UTF8&ref_=pd_zg_rss_ts_e_281052_1

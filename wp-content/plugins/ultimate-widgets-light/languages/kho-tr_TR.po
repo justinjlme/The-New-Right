@@ -1,0 +1,2774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-04 12:41+0100\n"
+"PO-Revision-Date: 2016-02-04 12:41+0100\n"
+"Last-Translator: Nick <khothemes@gmail.com>\n"
+"Language-Team: khothemes.com\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"_nx_noop:4c,1,2;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/admin/admin-config.php:24 ../assets/admin/admin-config.php:29
+msgid "Panel"
+msgstr "Panel"
+
+#: ../assets/admin/admin-config.php:28
+msgid "UWL Panel"
+msgstr ""
+
+#: ../assets/admin/admin-config.php:84
+msgid "Widgets"
+msgstr "Araçlar"
+
+#: ../assets/admin/admin-config.php:90
+msgid "Minify CSS"
+msgstr "CSS'i küçült"
+
+#: ../assets/admin/admin-config.php:91
+msgid ""
+"Compress all CSS in a single file or activate the CSS when the widgets are "
+"on the page."
+msgstr ""
+"Tüm CSS'leri tek bir dosyada sıkıştırın ya da CSS'leri sadece araç "
+"görüntülendiğinde devreye sokun."
+
+#: ../assets/admin/admin-config.php:93 ../assets/admin/admin-config.php:102
+#: ../assets/admin/admin-config.php:110 ../assets/admin/admin-config.php:118
+#: ../assets/admin/admin-config.php:126 ../assets/admin/admin-config.php:134
+#: ../assets/admin/admin-config.php:142 ../assets/admin/admin-config.php:150
+msgid "On"
+msgstr "Açık"
+
+#: ../assets/admin/admin-config.php:94 ../assets/admin/admin-config.php:103
+#: ../assets/admin/admin-config.php:111 ../assets/admin/admin-config.php:119
+#: ../assets/admin/admin-config.php:127 ../assets/admin/admin-config.php:135
+#: ../assets/admin/admin-config.php:143 ../assets/admin/admin-config.php:151
+msgid "Off"
+msgstr "Kapalı"
+
+#: ../assets/admin/admin-config.php:99
+msgid "Minify JS"
+msgstr "JS'i küçült"
+
+#: ../assets/admin/admin-config.php:100
+msgid ""
+"Compress all JS in a single file or activate the JS when the widgets are on "
+"the page."
+msgstr ""
+"Tüm JS'leri tek bir dosyada sıkıştırın ya da JS'leri sadece araç "
+"görüntülendiğinde devreye sokun."
+
+#: ../assets/admin/admin-config.php:108
+msgid "About Me Widget"
+msgstr "Hakkımda Modülü"
+
+#: ../assets/admin/admin-config.php:116 ../assets/admin/admin-config.php:453
+msgid "Contact Info Widget"
+msgstr "İletişim bilgileri Modülü"
+
+#: ../assets/admin/admin-config.php:124
+msgid "Flickr Widget"
+msgstr "Flickr Modülü"
+
+#: ../assets/admin/admin-config.php:132
+msgid "Instagram Widget"
+msgstr "Instagram Modülü"
+
+#: ../assets/admin/admin-config.php:140
+msgid "MailChimp Widget"
+msgstr "MailChimp Modülü"
+
+#: ../assets/admin/admin-config.php:148 ../assets/admin/admin-config.php:581
+msgid "Menu Widget"
+msgstr "Menü Modülü"
+
+#: ../assets/admin/admin-config.php:162
+msgid "Styling"
+msgstr "Biçimlendirme"
+
+#: ../assets/admin/admin-config.php:168
+msgid "Widgets Style"
+msgstr "Araç Stili"
+
+#: ../assets/admin/admin-config.php:169
+msgid "Select your preferred style."
+msgstr "Tercih ettiğiniz biçimi seçin."
+
+#: ../assets/admin/admin-config.php:172 ../widgets/widget-instagram.php:127
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: ../assets/admin/admin-config.php:173 ../widgets/widget-instagram.php:128
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: ../assets/admin/admin-config.php:174 ../widgets/widget-instagram.php:129
+msgid "Style 3"
+msgstr "Stil 3"
+
+#: ../assets/admin/admin-config.php:185
+msgid "Style 1 Border Color"
+msgstr "Stil 1 kenarlık rengi"
+
+#: ../assets/admin/admin-config.php:186 ../assets/admin/admin-config.php:213
+#: ../assets/admin/admin-config.php:223 ../assets/admin/admin-config.php:254
+#: ../assets/admin/admin-config.php:273 ../assets/admin/admin-config.php:304
+#: ../assets/admin/admin-config.php:313 ../assets/admin/admin-config.php:332
+#: ../assets/admin/admin-config.php:348 ../assets/admin/admin-config.php:357
+#: ../assets/admin/admin-config.php:373 ../assets/admin/admin-config.php:385
+#: ../assets/admin/admin-config.php:394 ../assets/admin/admin-config.php:413
+#: ../assets/admin/admin-config.php:425 ../assets/admin/admin-config.php:437
+#: ../assets/admin/admin-config.php:468 ../assets/admin/admin-config.php:477
+#: ../assets/admin/admin-config.php:485 ../assets/admin/admin-config.php:501
+#: ../assets/admin/admin-config.php:513 ../assets/admin/admin-config.php:525
+#: ../assets/admin/admin-config.php:537 ../assets/admin/admin-config.php:553
+#: ../assets/admin/admin-config.php:565 ../assets/admin/admin-config.php:589
+#: ../assets/admin/admin-config.php:597
+msgid "Select your custom hex color."
+msgstr "Onaltılık renk (hex) seçin."
+
+#: ../assets/admin/admin-config.php:194
+msgid "Style 1 Padding"
+msgstr "Stil 1 Girinti (Padding)"
+
+#: ../assets/admin/admin-config.php:195
+msgid "Enter your custom padding in pixels."
+msgstr "Girintileri piksel cinsinden girin."
+
+#: ../assets/admin/admin-config.php:203
+msgid "Style 1 Margin Bottom"
+msgstr "Stil 1 Alt Kenar Boşluğu"
+
+#: ../assets/admin/admin-config.php:204 ../assets/admin/admin-config.php:245
+#: ../assets/admin/admin-config.php:295
+msgid "Enter your custom margin bottom in pixels."
+msgstr "Alt boşluğu piksel cinsinden girin."
+
+#: ../assets/admin/admin-config.php:212
+msgid "Style 1 Title Background"
+msgstr "Stil 1 Başlık Arkaplanı"
+
+#: ../assets/admin/admin-config.php:222
+msgid "Style 1 Title Color"
+msgstr "Stil 1 Başlık Rengi"
+
+#: ../assets/admin/admin-config.php:232
+msgid "Style 1 Title Font Size"
+msgstr "Stil 1 Başlık Yazıtipi Büyüklüğü"
+
+#: ../assets/admin/admin-config.php:233 ../assets/admin/admin-config.php:264
+#: ../assets/admin/admin-config.php:323
+msgid "Enter your font size for the title in pixels."
+msgstr "Başlık yazı tipi boyutunu piksel cinsinden girin."
+
+#: ../assets/admin/admin-config.php:244
+msgid "Style 2 Margin Bottom"
+msgstr "Stil 2 Alt Kenar Boşluğu"
+
+#: ../assets/admin/admin-config.php:253
+msgid "Style 2 Title Color"
+msgstr "Stil 2 Başlık Rengi"
+
+#: ../assets/admin/admin-config.php:263
+msgid "Style 2 Title Font Size"
+msgstr "Stil 2 Başlık Yazıtipi Büyüklüğü"
+
+#: ../assets/admin/admin-config.php:272
+msgid "Style 2 Title Border Color"
+msgstr "Stil 2 Başlık Kenarlık Rengi"
+
+#: ../assets/admin/admin-config.php:282
+msgid "Style 2 Title Border Width"
+msgstr "Stil 2 Başlık Kenarlık Genişliği"
+
+#: ../assets/admin/admin-config.php:283
+msgid "Enter your width for the title border."
+msgstr "Başlık kenarlık genişliği değerini girin."
+
+#: ../assets/admin/admin-config.php:294
+msgid "Style 3 Margin Bottom"
+msgstr "Stil 3 Alt Kenar Boşluğu"
+
+#: ../assets/admin/admin-config.php:303
+msgid "Style 3 Title Background"
+msgstr "Stil 3 Başlık Arkaplanı"
+
+#: ../assets/admin/admin-config.php:312
+msgid "Style 3 Title Color"
+msgstr "Stil 3 Başlık Rengi"
+
+#: ../assets/admin/admin-config.php:322
+msgid "Style 3 Title Font Size"
+msgstr "Stil 3 Başlık Yazıtipi Büyüklüğü"
+
+#: ../assets/admin/admin-config.php:331
+msgid "Style 3 Title Border Bottom Color"
+msgstr "Stil 3 Başlık Alt Kenarlık Rengi"
+
+#: ../assets/admin/admin-config.php:341 ../assets/admin/admin-config.php:347
+msgid "Links Color"
+msgstr "Bağlantı Rengi"
+
+#: ../assets/admin/admin-config.php:356
+msgid "Links Hover Color"
+msgstr "Linkler için vurgulama rengi"
+
+#: ../assets/admin/admin-config.php:366
+msgid "Inputs Styles"
+msgstr "Giriş Kutusu Stilleri"
+
+#: ../assets/admin/admin-config.php:372
+msgid "Input Background"
+msgstr "Giriş Kutusu Arkaplanı"
+
+#: ../assets/admin/admin-config.php:384
+msgid "Input Color"
+msgstr "Giriş Metin Rengi"
+
+#: ../assets/admin/admin-config.php:393
+msgid "Input Border Color"
+msgstr "Giriş Kenarlık Rengi"
+
+#: ../assets/admin/admin-config.php:406
+msgid "Buttons Styles"
+msgstr "Düğme Stilleri"
+
+#: ../assets/admin/admin-config.php:412
+msgid "Input Submit Background"
+msgstr "Gönderme Düğmesi Arkaplanı"
+
+#: ../assets/admin/admin-config.php:424
+msgid "Input Submit Color"
+msgstr "Gönderme Düğmesi Yazıtipi Rengi"
+
+#: ../assets/admin/admin-config.php:436
+msgid "Input Submit Border Color"
+msgstr "Gönderme Düğmesi Kenarlık Rengi"
+
+#: ../assets/admin/admin-config.php:461
+msgid "Default Style"
+msgstr "Varsayılan Stil"
+
+#: ../assets/admin/admin-config.php:467 ../assets/admin/admin-config.php:512
+msgid "Icons Color"
+msgstr "Simge Rengi"
+
+#: ../assets/admin/admin-config.php:476 ../assets/admin/admin-config.php:524
+msgid "Icons Border Color"
+msgstr "Simge Kenarlık Rengi"
+
+#: ../assets/admin/admin-config.php:484 ../assets/admin/admin-config.php:536
+msgid "Titles Color"
+msgstr "Başlık Rengi"
+
+#: ../assets/admin/admin-config.php:494
+msgid "Big Icons Style"
+msgstr "Büyük Simgeler Stili"
+
+#: ../assets/admin/admin-config.php:500
+msgid "Icons Background"
+msgstr "Simge Arkaplanı"
+
+#: ../assets/admin/admin-config.php:546
+msgid "Skype Style"
+msgstr "Skype Stili"
+
+#: ../assets/admin/admin-config.php:552
+msgid "Skype Background"
+msgstr "Skype Arkaplanı"
+
+#: ../assets/admin/admin-config.php:564
+msgid "Skype Color"
+msgstr "Skype Rengi"
+
+#: ../assets/admin/admin-config.php:588
+msgid "Links Border Bottom Color"
+msgstr "Bağlantı Alt Kenarlık Rengi"
+
+#: ../assets/admin/admin-config.php:596
+msgid "Sub Icon Color"
+msgstr "Alt Simge Rengi"
+
+#: ../assets/admin/admin-config.php:613
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: ../assets/admin/admin-config.php:621
+msgid "Design Edits"
+msgstr "Tasarım Düzenlemeleri"
+
+#: ../assets/admin/admin-config.php:622
+msgid ""
+"Quickly add some CSS to your theme to make design adjustments by adding it "
+"to this block. It is a much better solution then manually editing style.css"
+msgstr ""
+"Temanızda özel ayarlar yapmak için aşağıdaki CSS bloğunu kullanabilirsiniz. "
+"Style.css dosyasını düzenlemekten çok daha iyi bir çözümdür."
+
+#: ../assets/admin/admin-config.php:632
+msgid "Import / Export"
+msgstr "İçe Aktar / Dışa Aktar"
+
+#: ../assets/admin/templates/footer.tpl.php:17
+#: ../assets/admin/templates/header_stickybar.tpl.php:16
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: ../assets/admin/templates/footer.tpl.php:24
+#: ../assets/admin/templates/header_stickybar.tpl.php:22
+msgid "Reset Section"
+msgstr "Bölümü Sıfırla"
+
+#: ../assets/admin/templates/footer.tpl.php:25
+#: ../assets/admin/templates/header_stickybar.tpl.php:23
+msgid "Reset All"
+msgstr "Tümünü Sıfırla"
+
+#: ../assets/admin/templates/footer.tpl.php:30
+#: ../assets/admin/templates/header_stickybar.tpl.php:26
+msgid "Working..."
+msgstr "Uygulanıyor..."
+
+#: ../assets/admin/templates/header.tpl.php:11
+msgid "Developer Mode Enabled"
+msgstr "Geliştirici Modu Etkinleştirildi"
+
+#: ../assets/admin/templates/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG etkin."
+
+#: ../assets/admin/templates/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr "Yerel sunucu (localhost) ortamında çalışıyorsunuz"
+
+#: ../assets/admin/templates/header.tpl.php:31
+msgid "and"
+msgstr "ve"
+
+#: ../assets/admin/templates/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr "Bu otomatik olarak etkinleştirilmiştir çünkü"
+
+#: ../assets/admin/templates/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"Bir geliştirici değilseniz, tema ya da eklenti yazarı geliştirici modunu "
+"etkinleştirmiş gibi görünüyor. Bunu düzeltmek için doğrudan kendileriyle "
+"irtibat kurun."
+
+#: ../assets/admin/templates/header.tpl.php:55
+msgid "Support Center"
+msgstr ""
+
+#: ../assets/images-resize.php:42 ../assets/images-resize.php:175
+msgid "No image URL has been entered."
+msgstr "Hiçbir resim bağlantısı girilmedi."
+
+#: ../assets/images-resize.php:76 ../assets/images-resize.php:210
+msgid "Image is BMP. Please use either JPG or PNG."
+msgstr "Bu resim BMP formatında. Lütfen JPG veya PNG kullanın."
+
+#: ../assets/images-resize.php:238
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr "\\\"@getimagesize\\\" ile  $file_path bilgisi alınamadı."
+
+#: ../assets/images-resize.php:281
+msgid "Resize path invalid (GIF)"
+msgstr "Yeniden boyutlandırma yolu geçersiz (GIF)"
+
+#: ../assets/images-resize.php:285
+msgid "Resize path invalid (PNG)."
+msgstr "Yeniden boyutlandırma yolu geçersiz (PNG)"
+
+#: ../assets/images-resize.php:293
+msgid "Resize path invalid (JPG)."
+msgstr "Yeniden boyutlandırma yolu geçersiz (JPG)"
+
+#: ../assets/images-resize.php:308
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+"\\\"@getimagesize\\\" ile $dest_file_name(yeniden boyutlandırılmış resim) "
+"bilgisi alınamadı"
+
+#: ../assets/widgets-functions.php:73
+msgid "Unable to communicate with Instagram."
+msgstr "Instagram ile iletişim kurulamıyor."
+
+#: ../assets/widgets-functions.php:76
+msgid "Instagram did not return a 200."
+msgstr "Instagram bir 200 dönmedi."
+
+#: ../assets/widgets-functions.php:83 ../assets/widgets-functions.php:94
+#: ../assets/widgets-functions.php:98
+msgid "Instagram has returned invalid data."
+msgstr "Instagram, geçersiz veri döndürdü."
+
+#: ../assets/widgets-functions.php:135
+msgid "Instagram Image"
+msgstr "Instagram Resmi"
+
+#: ../assets/widgets-functions.php:158
+msgid "Instagram did not return any images."
+msgstr "Instagram herhangi bir görüntü dönmedi."
+
+#: ../functions.php:120
+msgid "It’s time to upgrade"
+msgstr ""
+
+#: ../functions.php:120
+msgid "to"
+msgstr ""
+
+#: ../functions.php:120
+msgid "version!"
+msgstr ""
+
+#: ../functions.php:121
+msgid ""
+"A multitude of widgets, several styles, unique, beautiful & original, "
+"don&rsquo;t wait!"
+msgstr ""
+
+#: ../functions.php:123
+msgid "Download"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:11
+msgid "UWL - About Me"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:14
+msgid "Adds a About Me widget."
+msgstr "Hakkımda modülü ekler."
+
+#: ../widgets/widget-about-me.php:149
+msgid "About Me"
+msgstr "Hakkımda"
+
+#: ../widgets/widget-about-me.php:151 ../widgets/widget-about-me.php:226
+#: ../widgets/widget-contact-info.php:178
+#: ../widgets/widget-contact-info.php:203
+msgid "Default"
+msgstr "Varsayılan"
+
+#: ../widgets/widget-about-me.php:215 ../widgets/widget-contact-info.php:193
+#: ../widgets/widget-flickr.php:103 ../widgets/widget-menu.php:102
+msgid "Title:"
+msgstr "Başlık:"
+
+#: ../widgets/widget-about-me.php:219 ../widgets/widget-contact-info.php:197
+#: ../widgets/widget-flickr.php:108 ../widgets/widget-instagram.php:120
+#: ../widgets/widget-mailchimp.php:113 ../widgets/widget-menu.php:107
+msgid "Class Wrap (optional):"
+msgstr "Sınıf kaydırma (isteğe bağlı):"
+
+#: ../widgets/widget-about-me.php:223 ../widgets/widget-contact-info.php:201
+msgid "Style:"
+msgstr "Stil:"
+
+#: ../widgets/widget-about-me.php:227
+msgid "Simple"
+msgstr "Basit"
+
+#: ../widgets/widget-about-me.php:231
+msgid "Background Color:"
+msgstr "Arkaplan Rengi:"
+
+#: ../widgets/widget-about-me.php:235
+msgid "Text Color:"
+msgstr "Metin Rengi:"
+
+#: ../widgets/widget-about-me.php:239
+msgid "Avatar Border Color:"
+msgstr "Avatar Kenarlık Rengi:"
+
+#: ../widgets/widget-about-me.php:244
+msgid "Image Header:"
+msgstr "Resim Başlığı:"
+
+#: ../widgets/widget-about-me.php:246 ../widgets/widget-about-me.php:254
+msgid "select image full size"
+msgstr "görüntü tam boyutunu seçin"
+
+#: ../widgets/widget-about-me.php:248 ../widgets/widget-about-me.php:256
+msgid "Upload Image"
+msgstr "Görsel Yükleyin"
+
+#: ../widgets/widget-about-me.php:252
+msgid "Avatar:"
+msgstr "Avatar:"
+
+#: ../widgets/widget-about-me.php:259
+msgid "Name:"
+msgstr "İsim:"
+
+#: ../widgets/widget-about-me.php:263 ../widgets/widget-contact-info.php:208
+#: ../widgets/widget-mailchimp.php:126
+msgid "Text:"
+msgstr "Metin:"
+
+#: ../widgets/widget-about-me.php:267
+msgid "Social Style:"
+msgstr "Sosyal Ağ Stili:"
+
+#: ../widgets/widget-about-me.php:270
+msgid "Color"
+msgstr "Renk"
+
+#: ../widgets/widget-about-me.php:271
+msgid "Light"
+msgstr "Açık"
+
+#: ../widgets/widget-about-me.php:272
+msgid "Dark"
+msgstr "Koyu"
+
+#: ../widgets/widget-about-me.php:276
+msgid "Social Link Target:"
+msgstr "Sosyal Bağlantı Hedefi:"
+
+#: ../widgets/widget-about-me.php:279 ../widgets/widget-instagram.php:158
+msgid "Blank"
+msgstr "Yeni Sayfa"
+
+#: ../widgets/widget-about-me.php:280 ../widgets/widget-instagram.php:159
+msgid "Self"
+msgstr "Aynı Sayfa"
+
+#: ../widgets/widget-about-me.php:283
+msgid "Social Links"
+msgstr "Sosyal Ağ Linkleri"
+
+#: ../widgets/widget-about-me.php:284
+msgid "Enter the full URL to your social profile"
+msgstr "Tam profil adresinizi girin."
+
+#: ../widgets/widget-about-me.php:304 ../widgets/widget-contact-info.php:252
+#: ../widgets/widget-flickr.php:134 ../widgets/widget-instagram.php:168
+#: ../widgets/widget-mailchimp.php:145 ../widgets/widget-menu.php:123
+msgid "More Widgets?"
+msgstr ""
+
+#: ../widgets/widget-about-me.php:304 ../widgets/widget-contact-info.php:252
+#: ../widgets/widget-flickr.php:134 ../widgets/widget-instagram.php:168
+#: ../widgets/widget-mailchimp.php:145 ../widgets/widget-menu.php:123
+msgid "Buy the PRO version"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:11
+msgid "UWL - Contact Info"
+msgstr ""
+
+#: ../widgets/widget-contact-info.php:14
+msgid "Adds support for Contact Info."
+msgstr "İletişim bilgileri için destek ekler."
+
+#: ../widgets/widget-contact-info.php:78 ../widgets/widget-contact-info.php:212
+msgid "Address:"
+msgstr "Adres:"
+
+#: ../widgets/widget-contact-info.php:88 ../widgets/widget-contact-info.php:216
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: ../widgets/widget-contact-info.php:98 ../widgets/widget-contact-info.php:220
+msgid "Mobile:"
+msgstr "Mobil:"
+
+#: ../widgets/widget-contact-info.php:108
+#: ../widgets/widget-contact-info.php:224
+msgid "Fax:"
+msgstr "Fax:"
+
+#: ../widgets/widget-contact-info.php:118
+#: ../widgets/widget-contact-info.php:228
+msgid "Email:"
+msgstr "E-posta:"
+
+#: ../widgets/widget-contact-info.php:132
+msgid "Website:"
+msgstr "Websitesi:"
+
+#: ../widgets/widget-contact-info.php:146
+msgid "Skype"
+msgstr "Skype"
+
+#: ../widgets/widget-contact-info.php:176
+msgid "Contact Info"
+msgstr "İletişim Bilgileri"
+
+#: ../widgets/widget-contact-info.php:180
+msgid "Street Name, FL 54785"
+msgstr "Sokak adı, FL 54785"
+
+#: ../widgets/widget-contact-info.php:189
+msgid "Skype Call Us"
+msgstr "Skype Bizi Arayın"
+
+#: ../widgets/widget-contact-info.php:204
+msgid "Big Icons"
+msgstr "Büyük Simgeler"
+
+#: ../widgets/widget-contact-info.php:232
+msgid "Email Link Text:"
+msgstr "Email Link Metni:"
+
+#: ../widgets/widget-contact-info.php:236
+msgid "Website URL (with HTTP):"
+msgstr "Websitesi Linki (HTTP ile):"
+
+#: ../widgets/widget-contact-info.php:240
+msgid "Website URL Text:"
+msgstr "Websitesi Link Metni:"
+
+#: ../widgets/widget-contact-info.php:244
+msgid "Skype:"
+msgstr "Skype:"
+
+#: ../widgets/widget-contact-info.php:248
+msgid "Skype Text:"
+msgstr "Skype Metni:"
+
+#: ../widgets/widget-flickr.php:11
+msgid "UWL - Flickr Stream"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:14
+msgid "Pulls in images from your Flickr account."
+msgstr "Flickr hesabınızdaki görüntüleri çeker."
+
+#: ../widgets/widget-flickr.php:95
+msgid "Flickr Feed"
+msgstr "Flickr Beslemesi"
+
+#: ../widgets/widget-flickr.php:97 ../widgets/widget-flickr.php:115
+#: ../widgets/widget-instagram.php:131
+msgid "3 Columns"
+msgstr "3 Sütun"
+
+#: ../widgets/widget-flickr.php:113
+msgid "Columns:"
+msgstr "Sütunlar:"
+
+#: ../widgets/widget-flickr.php:116 ../widgets/widget-instagram.php:132
+msgid "4 Columns"
+msgstr "4 Sütun"
+
+#: ../widgets/widget-flickr.php:117
+msgid "5 Columns"
+msgstr "5 Sütun"
+
+#: ../widgets/widget-flickr.php:118
+msgid "6 Columns"
+msgstr "6 Sütun"
+
+#: ../widgets/widget-flickr.php:123
+msgid "Flickr ID "
+msgstr "Flickr ID"
+
+#: ../widgets/widget-flickr.php:125
+msgid "Enter the url of your Flickr page on this site: idgettr.com."
+msgstr "Bu siteye Flickr sayfanızın bağlantısını girin: idgettr.com."
+
+#: ../widgets/widget-flickr.php:129
+msgid "Number:"
+msgstr "Sayı :"
+
+#: ../widgets/widget-flickr.php:131
+msgid "The maximum is 20 images."
+msgstr "En fazla 20 resim görüntülenebilir."
+
+#: ../widgets/widget-instagram.php:11
+msgid "UWL - Instagram"
+msgstr ""
+
+#: ../widgets/widget-instagram.php:14
+msgid "Displays Instagram photos."
+msgstr "Instagram fotoğraflarını görüntüler."
+
+#: ../widgets/widget-instagram.php:104
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../widgets/widget-instagram.php:107 ../widgets/widget-mailchimp.php:100
+#: ../widgets/widget-mailchimp.php:120
+msgid "Yes"
+msgstr "Evet"
+
+#: ../widgets/widget-instagram.php:108
+msgid "adidas"
+msgstr "adidas"
+
+#: ../widgets/widget-instagram.php:111
+msgid "Follow"
+msgstr "Takip Et"
+
+#: ../widgets/widget-instagram.php:115 ../widgets/widget-mailchimp.php:108
+msgid "Title"
+msgstr "Başlık"
+
+#: ../widgets/widget-instagram.php:125
+msgid "Images Style:"
+msgstr "Resim Stili:"
+
+#: ../widgets/widget-instagram.php:130
+msgid "2 Columns"
+msgstr "2 Sütun"
+
+#: ../widgets/widget-instagram.php:137
+msgid "Margin:"
+msgstr "Boşluk:"
+
+#: ../widgets/widget-instagram.php:139
+msgid "Margin"
+msgstr "Boşluk"
+
+#: ../widgets/widget-instagram.php:140
+msgid "No Margin"
+msgstr "Boşluk Olmasın"
+
+#: ../widgets/widget-instagram.php:145
+msgid "Username:"
+msgstr "Kullanıcı adı:"
+
+#: ../widgets/widget-instagram.php:150
+msgid "Number Of Photos:"
+msgstr "Fotograf Sayısı:"
+
+#: ../widgets/widget-instagram.php:152
+msgid "The maximum is 24 images."
+msgstr "En fazla 24 resim görüntülenebilir."
+
+#: ../widgets/widget-instagram.php:156
+msgid "Links Target:"
+msgstr "Bağlantı Hedefi:"
+
+#: ../widgets/widget-instagram.php:164
+msgid "Follow Text:"
+msgstr "Takip Metni:"
+
+#: ../widgets/widget-mailchimp.php:11
+msgid "UWL - MailChimp"
+msgstr ""
+
+#: ../widgets/widget-mailchimp.php:14
+msgid "Displays Mailchimp Subscription Form."
+msgstr "Mailchimp abonelik formu görüntüler."
+
+#: ../widgets/widget-mailchimp.php:98
+msgid "Newsletter"
+msgstr "Bülten"
+
+#: ../widgets/widget-mailchimp.php:101
+msgid ""
+"Get all latest content delivered to your email a few times a month. Updates "
+"and news about all categories will send to you."
+msgstr ""
+"Ayda birkaç kez son yayınlanan içerikleri e-posta adresinize gönderecek, tüm "
+"kategoriler ile ilgili güncelleme ve haberleri tarafınıza ileteceğiz."
+
+#: ../widgets/widget-mailchimp.php:103
+msgid "Your Email"
+msgstr "Emailiniz"
+
+#: ../widgets/widget-mailchimp.php:104
+msgid "Sign Up"
+msgstr "Kayıt Ol"
+
+#: ../widgets/widget-mailchimp.php:118
+msgid "Center Text:"
+msgstr "Metni Ortala:"
+
+#: ../widgets/widget-mailchimp.php:121
+msgid "No"
+msgstr "Hayır"
+
+#: ../widgets/widget-mailchimp.php:131
+msgid "MailChimp Form Action:"
+msgstr "MailChimp Form Eylemi:"
+
+#: ../widgets/widget-mailchimp.php:136
+msgid "Placeholder:"
+msgstr "Yer Tutucu:"
+
+#: ../widgets/widget-mailchimp.php:141
+msgid "Button title:"
+msgstr "Buton başlığı:"
+
+#: ../widgets/widget-menu.php:11
+msgid "UWL - Menu"
+msgstr ""
+
+#: ../widgets/widget-menu.php:14
+msgid "Displays a menu."
+msgstr "Bir menü görüntüler."
+
+#: ../widgets/widget-menu.php:94
+msgid "Menu"
+msgstr "Menü"
+
+#: ../widgets/widget-menu.php:112
+msgid "Menu:"
+msgstr "Menü:"
+
+#: ../widgets/widget-menu.php:114
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seç &mdash;"
+
+#~ msgid ""
+#~ "You have changes that are not saved. Would you like to save them now?"
+#~ msgstr ""
+#~ "Kaydedilmemiş değişiklikleriniz mevcut. Şimdi kaydetmek ister misiniz?"
+
+#~ msgid "Are you sure? Resetting will lose all custom values."
+#~ msgstr ""
+#~ "Emin misiniz? Sıfırlama tüm özelleştirilmiş değerleri kaybettirecek."
+
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "Emin misiniz? Sıfırlama bu kısımdaki tüm özelleştirilmiş değerleri "
+#~ "kaybettirecek."
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset. "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Mevcut ayarlarınız eski varsayılan değerler ile değiştirilecek. Onaylıyor "
+#~ "musunuz?"
+
+#~ msgid "Please Wait"
+#~ msgstr "Lütfen Bekleyin"
+
+#~ msgid "There was an error saving. Here is the result of your action:"
+#~ msgstr "Kaydedilirken bir hata oluştu. İşte eyleminizin sonucu:"
+
+#~ msgid ""
+#~ "There was a problem with your action. Please try again or reload the page."
+#~ msgstr ""
+#~ "Eylem gerçekleşirken bir sorun oluştu. Lütfen tekrar deneyin veya sayfayı "
+#~ "yenileyin."
+
+#~ msgid ""
+#~ "Warning- This options panel will not work properly without javascript!"
+#~ msgstr "Uyarı- Bu ayar paneli, javascript olmadan düzgün çalışmaz!"
+
+#~ msgid "Settings Imported!"
+#~ msgstr "Ayarlar İçe Aktarıldı!"
+
+#~ msgid "All Defaults Restored!"
+#~ msgstr "Tüm Varsayılanlar Geri Yüklendi!"
+
+#~ msgid "Section Defaults Restored!"
+#~ msgstr "Bölüm Varsayılan Ayarları Geri Yüklendi!"
+
+#~ msgid "Settings Saved!"
+#~ msgstr "Ayarlar Kaydedildi!"
+
+#~ msgid "Settings have changed, you should save them!"
+#~ msgstr "<strong>Ayarlar değişti. Lütfen kaydedin!</strong>"
+
+#~ msgid "error(s) were found!"
+#~ msgstr "hata bulundu!"
+
+#~ msgid "warning(s) were found!"
+#~ msgstr "uyarı bulundu!"
+
+#~ msgid ""
+#~ "<strong>Your panel has bundled outdated copies of Redux Framework "
+#~ "template files</strong> &#8211; if you encounter functionality issues "
+#~ "this could be the reason. Ensure you update or remove them."
+#~ msgstr ""
+#~ "<strong>Paneliniz, Redux Çerçevesinin eskimiş şablon dosyalarını içeriyor."
+#~ "</strong> &#8211; İşlevsellik sorunları yaşıyorsanız bu nedenle olabilir. "
+#~ "Güncellediğinizden ya da kaldırdığınızdan emin olun."
+
+#~ msgid "Options panel created using %1$s"
+#~ msgstr "Seçenekler Paneli %1$s kullanılarak oluşturuldu"
+
+#~ msgid "Redux Framework"
+#~ msgstr "Redux Çerçevesi"
+
+#~ msgid "Options"
+#~ msgstr "Seçenekler"
+
+#~ msgid "Enable"
+#~ msgstr "Etkinleştir"
+
+#~ msgid "Disable"
+#~ msgstr "Devre Dışı Bırak"
+
+#~ msgid "moving the mouse over"
+#~ msgstr "fare üzerine geldiğinde"
+
+#~ msgid "clicking"
+#~ msgstr "tıklandığında"
+
+#~ msgid ""
+#~ "Hints are tooltips that popup when %d the hint icon, offering addition "
+#~ "information about the field in which they appear.  They can be %d d by "
+#~ "using the link below."
+#~ msgstr ""
+#~ "İpuçları, %d ipucu simgesi üzerine gelindiğinde, göründükleri alanda "
+#~ "ilgili ilave bilgiler sunan açılan ipuçlarıdır. Aşağıdaki bağlantıyı "
+#~ "kullanarak %d d harekete geçirilebilirler."
+
+#~ msgid "Hints"
+#~ msgstr "İpuçları"
+
+#~ msgid "Invalid security credential.  Please reload the page and try again."
+#~ msgstr "Geçersiz güvenlik bilgisi, sayfayı yenileyin ve tekrar deneyin."
+
+#~ msgid "Invalid user capability.  Please reload the page and try again."
+#~ msgstr ""
+#~ "Geçersiz kullanıcı yeteneği. Sayfayı yeniden yükleyin ve tekrar deneyin."
+
+#~ msgid "Your panel has no fields. Nothing to save."
+#~ msgstr "Panelinize henüz bir alan eklemediniz. Kaydedilecek bir şey yok."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>admin_bar_links</"
+#~ "code> argument.  This is sample data.  Please change or remove this data "
+#~ "before shipping your product."
+#~ msgstr ""
+#~ "<strong>Redux Framework Uyarısı:</strong> config dosyanızın "
+#~ "<code>admin_bar_links</code> argümanında Redux Çerçevesi Destek Sitesine "
+#~ "referanslar bulunuyor. Bunlar örnek verilerdir. Lütfen ürününüzü "
+#~ "göndermeden önce bu verileri değiştirin ya da kaldırın."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the "
+#~ "Redux Framework support site in your config's <code>share_icons</code> "
+#~ "argument.  This is sample data.  Please change or remove this data before "
+#~ "shipping your product."
+#~ msgstr ""
+#~ "<strong>Redux Framework Uyarısı:</strong> config dosyanızın "
+#~ "<code>share_icons</code> argümanında Redux Çerçevesi Destek Sitesine "
+#~ "referanslar bulunuyor. Bunlar örnek verilerdir. Lütfen ürününüzü "
+#~ "göndermeden önce bu verileri değiştirin ya da kaldırın."
+
+#~ msgid ""
+#~ "Please wait a few minutes, then try refreshing the page. Unable to load "
+#~ "some remotely hosted scripts."
+#~ msgstr ""
+#~ "Birkaç dakika bekleyin ve ardından sayfayı yenilemeyi deneyin. Bazı "
+#~ "uzaktan barındırılan komutlar yüklenemiyor."
+
+#~ msgid ""
+#~ "If you are developing offline, please download and install the <a href="
+#~ "\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to "
+#~ "bypass the our CDN and avoid this warning"
+#~ msgstr ""
+#~ "Çevrimdışı geliştirme yapıyorsanız, CDN sistemini bypass etmek ve bu "
+#~ "uyarıyı almamak için lütfen <a href=\"%s\" target=\"_blank\">Redux Vendor "
+#~ "Support</a> eklentisini yükleyin."
+
+#~ msgid "Redux Framework Warning"
+#~ msgstr "Redux Çerçeve Uyarısı"
+
+#~ msgid "%s CDN unavailable.  Some controls may not render properly."
+#~ msgstr ""
+#~ "%s CDN kullanılamıyor. Bazı kontroller doğru sonuçlar üretemeyebilir."
+
+#~ msgid ""
+#~ "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+#~ "installed or not activated and thus, some controls may not render "
+#~ "properly.  Please ensure that it is installed and <a href=\"%s"
+#~ "\">activated</a>"
+#~ msgstr ""
+#~ "<a href=\"%s\">Vendor Support Eklentisi</a> yüklü ya da etkin değil. Bu "
+#~ "sebeple bazı kontroller düzgün bir biçimde yanıt vermeyebilir. Yüklü ve "
+#~ "<a href=\"%s\">etkin</a> olduğundan emin olun."
+
+#~ msgid "File Permission Issues"
+#~ msgstr "Dosya İzin Sorunları"
+
+#~ msgid ""
+#~ "We were unable to modify required files. Please check your permissions, "
+#~ "or modify your wp-config.php file to contain your FTP login credentials "
+#~ "as <a href=\"%s\" target=\"_blank\">outlined here</a>."
+#~ msgstr ""
+#~ "Gerekli dosyalar düzenlenemiyor. Dosya izinlerinizi kontrol edin ya da <a "
+#~ "href=\"%s\" target=\"_blank\">burada anlatıldığı</a> gibi wp-config.php "
+#~ "dosyanızı FTP oturum açma bilgilerinizi içerecek şeklilde tekrar "
+#~ "düzenleyin."
+
+#~ msgid ""
+#~ "We were unable to modify required files. Please ensure that <code>%1s</"
+#~ "code> has the proper read-write permissions, or modify your wp-config.php "
+#~ "file to contain your FTP login credentials as <a href=\"%2s\" target="
+#~ "\"_blank\">outlined here</a>."
+#~ msgstr ""
+#~ "Gerekli dosyalar düzenlenemiyor. <code>%1s</code>'in okuma-yazma "
+#~ "izinlerinin doğru biçimde yapılandırıldığından emin olun ya da <a href="
+#~ "\"%s\" target=\"_blank\">burada anlatıldığı</a> gibi wp-config.php "
+#~ "dosyanızı FTP oturum açma bilgilerinizi içerecek şeklilde tekrar "
+#~ "düzenleyin."
+
+#~ msgid ""
+#~ "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+#~ "date. The core version is %s"
+#~ msgstr ""
+#~ "<code>%s</code> versiyonu <strong style=\"color:red\">%s</strong> eskidi "
+#~ "artık. Çekirdek versiyonu: %s"
+
+#~ msgid ""
+#~ "You have changes that are not saved.  Would you like to save them now?"
+#~ msgstr "Kaydedilmemiş değişiklikler var. Şimdi kaydetmek ister misiniz?"
+
+#~ msgid "Are you sure?  Resetting will lose all custom values."
+#~ msgstr ""
+#~ "Emin misiniz? Sıfırlama tüm özelleştirilmiş değerleri kaybettirecek."
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset.  "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "Mevcut ayarlarınız eski varsayılan değerler ile değiştirilecek. Onaylıyor "
+#~ "musunuz?"
+
+#~ msgid "You are customizing %s"
+#~ msgstr "Şuanda düzenliyorsunuz: %s"
+
+#~ msgid "Press return or enter to open"
+#~ msgstr "Açmak için Enter'a basın"
+
+#~ msgid "Back"
+#~ msgstr "Geri"
+
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Site seçeneklerini içe aktarmak için yedek dosyanızı aşağıya girerek İçe "
+#~ "Aktar düğmesini tıklayınız."
+
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Başka bir siteden ayarları içe aktarmak için diğer site seçenekleri URL "
+#~ "sini girin ve İçe Aktar düğmesini tıklayın."
+
+#~ msgid ""
+#~ "WARNING! This will overwrite all existing option values, please proceed "
+#~ "with caution!"
+#~ msgstr ""
+#~ "UYARI: İçe aktarılan veri, mevcut verinin üzerine yazılacak! Dikkatli "
+#~ "devam edin!"
+
+#~ msgid ""
+#~ "Here you can copy/download your current option settings. Keep this safe "
+#~ "as you can use it as a backup should anything go wrong, or you can use it "
+#~ "to restore your settings on this site (or any other site)."
+#~ msgstr ""
+#~ "Buradan mevcut ayarlarınızı kopyalayabilir/indirebilirsiniz. Herhangi bir "
+#~ "soruna karşı bu dosyayı güvenli bir yerde tutun, web sitenizi yeniden "
+#~ "yapılandırmanız veya başka bir sitede ayarlara ihtiyacınız olması "
+#~ "durumunda kullanabilirsiniz."
+
+#~ msgid "Options Object"
+#~ msgstr "Seçenekler Nesnesi"
+
+#~ msgid "Transparent"
+#~ msgstr "Saydam"
+
+#~ msgid "Background Repeat"
+#~ msgstr "Arkaplan Tekrarı"
+
+#~ msgid "Background Clip"
+#~ msgstr "Arkaplan Kırpması"
+
+#~ msgid "Background Origin"
+#~ msgstr "Arkaplan Kökeni"
+
+#~ msgid "Background Size"
+#~ msgstr "Arkaplan Boyutu"
+
+#~ msgid "Background Attachment"
+#~ msgstr "Arkaplan Eki"
+
+#~ msgid "Background Position"
+#~ msgstr "Arkaplan Pozisyonu"
+
+#~ msgid "No media selected"
+#~ msgstr "Ortam seçilmedi"
+
+#~ msgid "Upload"
+#~ msgstr "Yükle"
+
+#~ msgid "Remove"
+#~ msgstr "Sil"
+
+#~ msgid "All"
+#~ msgstr "Tümü"
+
+#~ msgid "Top"
+#~ msgstr "Üst"
+
+#~ msgid "Right"
+#~ msgstr "Sağ"
+
+#~ msgid "Bottom"
+#~ msgstr "Alt"
+
+#~ msgid "Left"
+#~ msgstr "Sol"
+
+#~ msgid "Border style"
+#~ msgstr "Kenar Stili"
+
+#~ msgid "From "
+#~ msgstr "Kimden"
+
+#~ msgid "To "
+#~ msgstr "-E"
+
+#~ msgid "Width"
+#~ msgstr "Genişlik"
+
+#~ msgid "Height"
+#~ msgstr "Yükseklik"
+
+#~ msgid "Units"
+#~ msgstr "Birimler"
+
+#~ msgid "Add/Edit Gallery"
+#~ msgstr "Galeri Ekle/Düzenle"
+
+#~ msgid "Clear Gallery"
+#~ msgstr "Galeriyi Temizle"
+
+#~ msgid "Regular"
+#~ msgstr "Standart"
+
+#~ msgid "Hover"
+#~ msgstr "Vurgulama"
+
+#~ msgid "Visited"
+#~ msgstr "Ziyaret edildi"
+
+#~ msgid "Active"
+#~ msgstr "Etkin"
+
+#~ msgid "Add More"
+#~ msgstr "Daha Fazla Ekle"
+
+#~ msgid "Password"
+#~ msgstr "Parola"
+
+#~ msgid "Username"
+#~ msgstr "Kullanıcı Adı"
+
+#~ msgid "Select an item"
+#~ msgstr "Bir öğe seç"
+
+#~ msgid "No items of this type were found."
+#~ msgstr "Bu türde bir öge bulunamadı."
+
+#~ msgid "Slide"
+#~ msgstr "Slayt"
+
+#~ msgid "New %s"
+#~ msgstr "Yeni %s"
+
+#~ msgid "Description"
+#~ msgstr "Tanım"
+
+#~ msgid "URL"
+#~ msgstr "Bağlantı"
+
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+#~ msgid "Add %s"
+#~ msgstr "%s Ekle"
+
+#~ msgid "Font Family"
+#~ msgstr "Yazı Tipi Ailesi"
+
+#~ msgid "Font family"
+#~ msgstr "Yazı Tipi Ailesi"
+
+#~ msgid "Backup Font Family"
+#~ msgstr "Yazı Tipi Ailesini Yedekle"
+
+#~ msgid "Font style"
+#~ msgstr "Font Stili"
+
+#~ msgid "Font Weight &amp; Style"
+#~ msgstr "Font Genişliği &amp; Stili"
+
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+#~ msgid "Font subsets"
+#~ msgstr "Yazıtipi alt kümeleri"
+
+#~ msgid "Font Subsets"
+#~ msgstr "Yazıtipi Alt Kümeleri"
+
+#~ msgid "Subsets"
+#~ msgstr "Alt kümeler"
+
+#~ msgid "Font script"
+#~ msgstr "Yazı tipi scripti"
+
+#~ msgid "Text Align"
+#~ msgstr "Metin Hizalama"
+
+#~ msgid "Text Transform"
+#~ msgstr "Metin Dönüşümü"
+
+#~ msgid "Font Variant"
+#~ msgstr "Yazı Tipi Varyant"
+
+#~ msgid "Text Decoration"
+#~ msgstr "Metin Dekorasyonu"
+
+#~ msgid "Font Size"
+#~ msgstr "Font Büyüklüğü"
+
+#~ msgid "Size"
+#~ msgstr "Büyüklük"
+
+#~ msgid "Line Height"
+#~ msgstr "Satır Yüksekliği"
+
+#~ msgid "Word Spacing"
+#~ msgstr "Kelime Aralığı"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "Harf Aralığı"
+
+#~ msgid "Font Color"
+#~ msgstr "Yazı Tipi Rengi"
+
+#~ msgid "Font color"
+#~ msgstr "Yazı tipi rengi"
+
+#~ msgid "Standard Fonts"
+#~ msgstr "Standart Yazı Tipleri"
+
+#~ msgid "Google Webfonts"
+#~ msgstr "Google Yazı Tipleri"
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+#~ "submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+#~ "strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+#~ "document</a>, or your theme will be rejected because of Redux."
+#~ msgstr ""
+#~ "<span class=\"tc-lead tc-recommended\">ÖNEMLİ</span>: WordPress.org Tema "
+#~ "Deposuna göndermeyi düşünüyorsanız, <a href=\"%s\" target=\"_blank\"> bu "
+#~ "dökümanı</a> okumanız <strong>önemle</strong> tavsiye edilir, aksi "
+#~ "takdirde Redux yüzünden temanız reddedilebilir."
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+#~ "<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+#~ "submission because of Redux."
+#~ msgstr ""
+#~ "<span class=\"tc-lead tc-required\">GEREKLİ</span>: Temanızın Redux "
+#~ "yüzünden reddedilmesini engellemek için şunu KESİNLİKLE silmelisiniz: "
+#~ "<strong> %s </strong>"
+
+#~ msgid "Optional"
+#~ msgstr "Opsiyonel"
+
+#~ msgid ""
+#~ "<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+#~ "arguments MUST be used for WP.org submissions, or you will be rejected "
+#~ "because of your Redux configuration."
+#~ msgstr ""
+#~ "<span class=\"tc-lead tc-recommended\">ÖNERİLEN</span>: WP.org "
+#~ "gönderimlerinde aşağıdaki argümanlar kullanılmalıdır, aksi takdirde Redux "
+#~ "yapılandırmanız sebebiyle gönderiminiz reddedilecektir."
+
+#~ msgid "Redux localization utilities"
+#~ msgstr "Redux yerelleştirme araçları"
+
+#~ msgid "Redux Resting Diles"
+#~ msgstr "Redux Bekleme Dosyaları"
+
+#~ msgid "Redux Code Styles"
+#~ msgstr "Redux Kod Stilleri"
+
+#~ msgid "Redux Unit Testing"
+#~ msgstr "Redux Birim Testi"
+
+#~ msgid "Redux Plugin File"
+#~ msgstr "Redux Eklenti Dosyası"
+
+#~ msgid "Redux Boostrap Tests"
+#~ msgstr "Redux Boostrap Testleri"
+
+#~ msgid "CI Testing FIle"
+#~ msgstr "CI Test Dosyası"
+
+#~ msgid "PHP Unit Testing"
+#~ msgstr "PHP Birim Testi"
+
+#~ msgid ""
+#~ "It appears that you have embedded the full Redux package inside your "
+#~ "theme. You need only embed the <strong>ReduxCore</strong> folder. "
+#~ "Embedding anything else will get your rejected from theme submission. "
+#~ "Suspected Redux package file(s):"
+#~ msgstr ""
+#~ "Tema tam Redux pakedini barındırıyor. Sadece <strong>ReduxCore</strong> "
+#~ "klasörünü embed etmeniz yeterli. Başka bir şeyin gömülmesi temanızın "
+#~ "reddedilmesine sebep olacak. Şüpheli Redux paket dosyaları:"
+
+#~ msgid ""
+#~ "This panel demonstrates the many features of Redux.  Before digging in, "
+#~ "we suggest you get up to speed by reviewing %1$s."
+#~ msgstr ""
+#~ "Bu panel Redux'ın müthiş özelliklerini göstermektedir. İçine dalmadan "
+#~ "önce %1$s incelemenizi tavsiye ederim."
+
+#~ msgid ""
+#~ "Want to get a head start? Use the %1$s. It will create a customized "
+#~ "boilerplate theme or a standalone admin folder complete with all things "
+#~ "Redux (with the help of Underscores and TGM). Save yourself a headache "
+#~ "and try it today."
+#~ msgstr ""
+#~ "Nereden başlayacağınızı kestiremediniz mi? %1$s kullanarak "
+#~ "özelleştirilmiş bir tema kalıbı ya da Redux'a ait herşeyi barındıran "
+#~ "bağımsız bir admin klasörü oluşturabilirsiniz (alt çizgi ve TGM "
+#~ "yardımıyla). Baş ağrısından kurtulmak için hemen bugün deneyin."
+
+#~ msgid ""
+#~ "Did you know we have extensions, which greatly enhance the features of "
+#~ "Redux?  Visit our %1$s to learn more!"
+#~ msgstr ""
+#~ "Redux’ın özelliklerini harika şekilde artıran eklentilerimizin olduğunu "
+#~ "biliyor muydunuz? Daha fazlasını öğrenmek için %1$s ziyaret edin!"
+
+#~ msgid ""
+#~ "If so, please %1$s and consider making a %2$s to keep development of "
+#~ "Redux moving forward."
+#~ msgstr ""
+#~ "Lütfen %1$s ve %2$s yapın ki Redux hep sizlere hizmet veriyor olsun."
+
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Bu alanda geçerli bir renk değeri olmalıdır."
+
+#~ msgid ""
+#~ "You must provide a comma separated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "Bu seçenek için virgülle ayrılmış sayısal değerler listesi sağlanmalıdır."
+
+#~ msgid "Unsafe strings were found in your CSS and have been filtered out."
+#~ msgstr "Güvensiz CSS dizeleri bulundu ve filtrelendi."
+
+#~ msgid "This field must be a valid date."
+#~ msgstr "Bu alanda geçerli bir tarih olması gerekir."
+
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "Bu seçenek için geçerli bir e-posta giriniz."
+
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "Bu alana herhangi bir HTML etiketi  girilmemelidir, tüm HTML etiketleri "
+#~ "kaldırılmıştır."
+
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "Bu alanda herhangi bir özel karakter kullanmayınız, tüm özel karakterler "
+#~ "kaldırılmıştır."
+
+#~ msgid "This field cannot be empty. Please provide a value."
+#~ msgstr "Bu alan boş bırakılamaz. Lütfen bir değer giriniz."
+
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "Bu seçenek için bir sayısal değer girilmelidir."
+
+#~ msgid ""
+#~ "That URL slug is in use, please choose another. <code>%s</code> is open "
+#~ "for use."
+#~ msgstr ""
+#~ "Bu URL kullanımda, lütfen düzenleyiniz. <code>%s</code> kullanımına "
+#~ "açıktır."
+
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "Bu seçenek için geçerli bir bağlantı girilmelidir."
+
+#~ msgid "Welcome to Redux Framework %s"
+#~ msgstr "Redux Çerçeve Sistemine Hoşgeldiniz %s"
+
+#~ msgid ""
+#~ "Thank you for updating to the latest version! Redux Framework %s is a "
+#~ "huge step forward in Redux Development. Look at all that's new."
+#~ msgstr ""
+#~ "En son sürüme güncellediğiniz için teşekkür ederiz! Redux Framework %s "
+#~ "'te büyük değişiklikler oldu. Yeniliklere mutlaka göz atın."
+
+#~ msgid "Version %s"
+#~ msgstr "Versiyon %s"
+
+#~ msgid "What is Redux Framework?"
+#~ msgstr "Redux Çerçeve Sistemi nedir?"
+
+#~ msgid ""
+#~ "Redux Framework is the core of many products on the web. It is an option "
+#~ "framework which developers use to\n"
+#~ "            enhance their products."
+#~ msgstr ""
+#~ "Redux Çerçevesi web üzerindeki birçok ürünün çekirdeğidir. Bu, "
+#~ "geliştiricilerin kendi ürünlerini geliştirmek için kullandıkları bir "
+#~ "seçenek çerçevesidir."
+
+#~ msgid "Learn More"
+#~ msgstr "Bilgi Edin"
+
+#~ msgid "New in this Release"
+#~ msgstr "Bu Sürümdeki Yenilikler"
+
+#~ msgid ""
+#~ "Redux is created by a community of developers world wide. Want to have "
+#~ "your name listed too? <a href=\"%d\" target=\"_blank\">Contribute to "
+#~ "Redux</a>."
+#~ msgstr ""
+#~ "Redux dünya çapında bir çok farklı geliştirici tarafından kodlanmıştır. "
+#~ "Kendi adının da bu listede olmasını ister misin? <a href=\"%d\" target="
+#~ "\"_blank\">Redux'a katıl</a>."
+
+#~ msgid ""
+#~ "Supercharge your Redux experience. Our extensions provide you with "
+#~ "features that will take your products to the next level."
+#~ msgstr "Eklentiler ile Redux'ı daha kullanışlı hale getirebilirsiniz."
+
+#~ msgid "To allow data saving, make <code>%s</code> writable."
+#~ msgstr ""
+#~ "Veri kayıtlarını mümkün kılmak için <code>%s</code> yazılabilir olmalıdır."
+
+#~ msgid ""
+#~ "%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+#~ "target=\"_blank\">Increasing memory allocated to PHP</a>"
+#~ msgstr ""
+#~ "%s - En az 40MB bellek kullanımını tavsiye ediyoruz. Bakınız: <a href=\"%s"
+#~ "\" target=\"_blank\">PHP için ayrılan belleği artırmak (ENG)</a>"
+
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "Varsayılan zaman dilimi %s - UTC olmalı"
+
+#~ msgid "Error: %s"
+#~ msgstr "Hata: %s"
+
+#~ msgctxt "by author"
+#~ msgid "by %s"
+#~ msgstr "Geliştirici: %s"
+
+#~ msgid ""
+#~ "If you're modifying Redux Framework or a parent theme you didn't build "
+#~ "personally, we recommend using a child theme. See: <a href=\"%s\" target="
+#~ "\"_blank\">How to create a child theme</a>"
+#~ msgstr ""
+#~ "Redux Çerçevesini ya da size ait olmayan bir temayı düzenliyorsanız, bir "
+#~ "alt tema kullanmanızı öneririz. Bkz: <a href=\"%s\" target=\"_blank\">Alt "
+#~ "tema oluşturmak</a>"
+
+#~ msgid ""
+#~ "This will provide to your developer all the information they may need to "
+#~ "remedy your issue. This action WILL send information securely to a remote "
+#~ "server. To see the type of information sent, please look at the  <a href="
+#~ "\"%s\">Status tab</a>."
+#~ msgstr ""
+#~ "Bu, geliştiriciye sorunu düzeltmek için ihtiyaç duyabileceği tüm "
+#~ "bilgileri verecektir. Bu eylem, bir uzak sunucuya verileri güvenli bir "
+#~ "şekilde gönderecektir. Gönderilen bilgi türünü görmek için, lütfen <a "
+#~ "href=\"%s\">Durum sekmesi.</a>'ne bakınız."
+
+#~ msgid ""
+#~ "Should the developer not be responsive, read the <a href=\"%s\" target="
+#~ "\"_blank\">following article</a> before asking for support from us "
+#~ "directly."
+#~ msgstr ""
+#~ "Geliştiricinin yeteri kadar duyarlı olmaması durumunda, doğrudan bizden "
+#~ "talep etmeden önce <a href=\"%s\" target=\"_blank\">aşağıdaki makaleyi</"
+#~ "a> okuyunuz."
+
+#~ msgid ""
+#~ "If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+#~ "rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A "
+#~ "huge thank you from Redux in advance!"
+#~ msgstr ""
+#~ "<strong>Redux</strong>'ı sevdiyseniz lütfen bizi <a href=\"https://"
+#~ "wordpress.org/support/view/plugin-reviews/redux-framework?"
+#~ "filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+#~ "rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> "
+#~ "değerlendirin. Şimdiden kocaman bir teşekkürler!"
+
+#~ msgid "Credits"
+#~ msgstr "Yapımcılar"
+
+#~ msgid "View %s"
+#~ msgstr "Görüntüle: %s"
+
+#~ msgid "FORCED DEV MODE OFF ENABLED"
+#~ msgstr "FORCED DEV MODE OFF ETKİN"
+
+#~ msgid "UW Panel"
+#~ msgstr "UW Panel"
+
+#~ msgid "A widget that talks to you."
+#~ msgstr "Sizinle konuşan bir araç."
+
+#~ msgid "Ads Widget"
+#~ msgstr "Reklamlar Modülü"
+
+#~ msgid "Display ads in your sidebar."
+#~ msgstr "Bu araç ile, kenar çubuğunda reklamlarınızı görüntüleyebilirsiniz."
+
+#~ msgid "Banner Widget"
+#~ msgstr "Manşet Modülü"
+
+#~ msgid "Displays a banner with text."
+#~ msgstr "Metin ile bir manşet görüntülenir."
+
+#~ msgid "Calendar Widget"
+#~ msgstr "Takvim Modülü"
+
+#~ msgid "Displays a calendar in the sidebar."
+#~ msgstr "Bu araç ile, kenar çubuğunda bir takvim görüntüleyebilirsiniz."
+
+#~ msgid "Add contact info, phone, email, etc."
+#~ msgstr "İletişim bilgileri, telefon, e-posta, vb ekleyin."
+
+#~ msgid "Custom Links Widget"
+#~ msgstr "Özel Bağlantılar Modülü"
+
+#~ msgid "Displays custom links."
+#~ msgstr "Özel bağlantılar görüntüler."
+
+#~ msgid "Facebook Widget"
+#~ msgstr "Facebook Modülü"
+
+#~ msgid "Adds support for Facebook Page Plugin."
+#~ msgstr "Facebook Sayfa Eklentisi için destek ekler."
+
+#~ msgid "Google Map Widget"
+#~ msgstr "Google Harita Modülü"
+
+#~ msgid "Displays google map."
+#~ msgstr "Bir google haritası gösterir."
+
+#~ msgid "Login Widget"
+#~ msgstr "Üye Girişi Modülü"
+
+#~ msgid "Displays Login/Register Form."
+#~ msgstr "Giriş/Kayıt Formunu görüntüler."
+
+#~ msgid "Posts Slider Widget"
+#~ msgstr "Yazı (Slayt) Modülü"
+
+#~ msgid "Displays a posts slider."
+#~ msgstr "Yazılarınızı bir kaydırıcı ile görüntüler."
+
+#~ msgid "Posts Thumbnails Widget"
+#~ msgstr "Yazı (Küçük Görseller) Modülü"
+
+#~ msgid "Shows a listing of your recent or random posts."
+#~ msgstr "Liste halinde son veya rasgele yazılar görüntüler."
+
+#~ msgid "Search Widget"
+#~ msgstr "Arama Modülü"
+
+#~ msgid "Displays a search form."
+#~ msgstr "Bir arama formu görüntüler."
+
+#~ msgid "Slideshow Widget"
+#~ msgstr "Slayt Gösterisi Modülü"
+
+#~ msgid "Displays a mini slideshow."
+#~ msgstr "Mini slayt gösterisi görüntülenir."
+
+#~ msgid "Social Widget"
+#~ msgstr "Sosyal Ağ Modülü"
+
+#~ msgid "Displays icons with links to your social profiles."
+#~ msgstr "Sosyal profillerinize bağlanan simgeler görüntüler."
+
+#~ msgid "SoundCloud Widget"
+#~ msgstr "SoundCloud Modülü"
+
+#~ msgid "Adds a Soundcloud player."
+#~ msgstr "SoundCloud oynatıcı ekler."
+
+#~ msgid "Tabs Widget"
+#~ msgstr "Sekme Modülü"
+
+#~ msgid "Displays Recent, Comments and Tags."
+#~ msgstr "Son Yazılar, Yorumlar ve Etiketleri görüntüler."
+
+#~ msgid "Testimonials Widget"
+#~ msgstr "Referanslar Modülü"
+
+#~ msgid "Displays a testimonial slider."
+#~ msgstr "Referanslarınızı bir kaydırıcı ile görüntüler."
+
+#~ msgid "Text Widget"
+#~ msgstr "Metin Modülü"
+
+#~ msgid "Displays of text or HTML."
+#~ msgstr "Metin veya HTML görüntüler."
+
+#~ msgid "Twitter Widget"
+#~ msgstr "Twitter Modülü"
+
+#~ msgid "Adds support for your tweets."
+#~ msgstr "En son tweetleri görüntüler."
+
+#~ msgid "Video Widget"
+#~ msgstr "Video Modülü"
+
+#~ msgid "Add a video in your sidebar."
+#~ msgstr "Kenar çubuğuna bir video ekler."
+
+#~ msgid "Weather Widget"
+#~ msgstr "Hava Durumu Modülü"
+
+#~ msgid "Displays weather in the sidebar."
+#~ msgstr "Kenar çubuğunda hava durumunu görüntüler."
+
+#~ msgid "Style 4"
+#~ msgstr "Stil 4"
+
+#~ msgid "Style 5"
+#~ msgstr "Stil 5"
+
+#~ msgid "Style 6"
+#~ msgstr "Stil 6"
+
+#~ msgid "Style 7"
+#~ msgstr "Stil 7"
+
+#~ msgid "Style 8"
+#~ msgstr "Stil 8"
+
+#~ msgid "Style 9"
+#~ msgstr "Stil 9"
+
+#~ msgid "Style 4 Background"
+#~ msgstr "Stil 4 Arkaplan"
+
+#~ msgid "Style 4 Border Color"
+#~ msgstr "Stil 4 Kenarlık Rengi"
+
+#~ msgid "Style 4 Padding"
+#~ msgstr "Stil 4 Girintiler"
+
+#~ msgid "Style 4 Margin Bottom"
+#~ msgstr "Stil 4 Alt Kenar Boşluğu"
+
+#~ msgid "Style 4 Title Background"
+#~ msgstr "Stil 4 Başlık Arkaplanı"
+
+#~ msgid "Style 4 Title Color"
+#~ msgstr "Stil 4 Başlık Rengi"
+
+#~ msgid "Style 4 Title Font Size"
+#~ msgstr "Stil 4 Başlık Yazıtipi Büyüklüğü"
+
+#~ msgid "Style 4 Title Border Bottom Color"
+#~ msgstr "Stil 4 Başlık Alt Kenarlık Rengi"
+
+#~ msgid "Style 4 Title Border Right Color"
+#~ msgstr "Stil 4 Başlık Sağ Kenarlık Rengi"
+
+#~ msgid "Style 5 Padding Bottom"
+#~ msgstr "Stil 5 Alt Girinti"
+
+#~ msgid "Enter your custom padding bottom in pixels."
+#~ msgstr "Alt girintileri piksel cinsinden girin."
+
+#~ msgid "Style 5 Border Bottom Color"
+#~ msgstr "Stil 5 Alt Kenarlık Rengi"
+
+#~ msgid "Style 5 Margin Bottom"
+#~ msgstr "Stil 5 Alt Kenar Boşluğu"
+
+#~ msgid "Style 5 Title Background"
+#~ msgstr "Stil 5 Başlık Arkaplanı"
+
+#~ msgid "Style 5 Title Color"
+#~ msgstr "Stil 5 Başlık Rengi"
+
+#~ msgid "Style 5 Title Font Size"
+#~ msgstr "Stil 5 Başlık Yazıtipi Büyüklüğü"
+
+#~ msgid "Style 5 Title Border Bottom Color"
+#~ msgstr "Stil 5 Başlık Alt Kenarlık Rengi"
+
+#~ msgid "Style 6 Margin Bottom"
+#~ msgstr "Stil 6 Alt Kenar Boşluğu"
+
+#~ msgid "Style 6 Title Color"
+#~ msgstr "Stil 6 Başlık Rengi"
+
+#~ msgid "Style 6 Title Font Size"
+#~ msgstr "Stil 6 Başlık Yazıtipi Büyüklüğü"
+
+#~ msgid "Style 6 Title Margin Bottom"
+#~ msgstr "Stil 6 Başlık Alt Boşluğu"
+
+#~ msgid "Enter your margin bottom for the title in pixels."
+#~ msgstr "Başlık için alt girintileri piksel cinsinden girin."
+
+#~ msgid "Style 6 Title Primary Border Color"
+#~ msgstr "Stil 6 Başlık Kenarlık Rengi"
+
+#~ msgid "Style 6 Title Secondary Border Color"
+#~ msgstr "Stil 6 Başlık İkinci Kenarlık Rengi"
+
+#~ msgid "Style 7 Border Color"
+#~ msgstr "Stil 7 Kenarlık Rengi"
+
+#~ msgid "Style 7 Padding"
+#~ msgstr "Stil 7 Girinti"
+
+#~ msgid "Style 7 Margin Bottom"
+#~ msgstr "Stil 7 Alt Kenar Boşluğu"
+
+#~ msgid "Style 7 Title Color"
+#~ msgstr "Stil 7 Başlık Rengi"
+
+#~ msgid "Style 7 Title Font Size"
+#~ msgstr "Stil 7 Başlık Yazıtipi Büyüklüğü"
+
+#~ msgid "Style 7 Title Margin Bottom"
+#~ msgstr "Stil 7 Başlık Alt Boşluğu"
+
+#~ msgid "Style 8 Background Color"
+#~ msgstr "Stil 8 Arkaplan Rengi"
+
+#~ msgid "Style 8 Border Left Color"
+#~ msgstr "Stil 8 Sol Kenarlık Rengi"
+
+#~ msgid "Style 8 Padding"
+#~ msgstr "Stil 8 Girinti"
+
+#~ msgid "Style 8 Margin Bottom"
+#~ msgstr "Stil 8 Alt Boşluğu"
+
+#~ msgid "Style 8 Title Color"
+#~ msgstr "Stil 8 Başlık Rengi"
+
+#~ msgid "Style 8 Title Border Bottom Color"
+#~ msgstr "Stil 8 Başlık Alt Kenarlık Rengi"
+
+#~ msgid "Style 8 Title Font Size"
+#~ msgstr "Stil 8 Başlık Yazıtipi Büyüklüğü"
+
+#~ msgid "Style 8 Title Padding Bottom"
+#~ msgstr "Stil 8 Başlık Alt Boşluğu"
+
+#~ msgid "Enter your padding bottom for the title in pixels."
+#~ msgstr "Alt girintileri piksel cinsinden girin."
+
+#~ msgid "Style 8 Title Margin Bottom"
+#~ msgstr "Stil 8 Başlık Alt Boşluğu"
+
+#~ msgid "Style 9 Margin Bottom"
+#~ msgstr "Stil 9 Alt Kenar Boşluğu"
+
+#~ msgid "Style 9 Title Color"
+#~ msgstr "Stil 9 Başlık Rengi"
+
+#~ msgid "Style 9 Title Font Size"
+#~ msgstr "Stil 9 Başlık Yazıtipi Büyüklüğü"
+
+#~ msgid "Style 9 Title Border Left Color"
+#~ msgstr "Stil 9 Başlık Sol Kenarlık Rengi"
+
+#~ msgid "Style 9 Title Margin Bottom"
+#~ msgstr "Stil 9 Başlık Alt Boşluğu"
+
+#~ msgid "Enter your custom title margin bottom in pixels."
+#~ msgstr "Başlık alt kenar boşluğunu piksel cinsinden girin."
+
+#~ msgid "Checkbox Styles"
+#~ msgstr "Onay Kutusu Stilleri"
+
+#~ msgid "Checkbox Background"
+#~ msgstr "Onay Kutusu Arkaplanı"
+
+#~ msgid "Checkbox Border Color"
+#~ msgstr "Onay Kutusu Kenarlık Rengi"
+
+#~ msgid "Checkbox Checked Color"
+#~ msgstr "Seçili Onay Kutusu Rengi"
+
+#~ msgid "Nav Slideshow Widget"
+#~ msgstr "Nav slayt gösterisi Widget"
+
+#~ msgid "Nav Slideshow Background"
+#~ msgstr "Nav slayt arka plan"
+
+#~ msgid "Nav Slideshow Color"
+#~ msgstr "Nav slayt gösterisi renk"
+
+#~ msgid "Month Color"
+#~ msgstr "Ay rengi"
+
+#~ msgid "Weeks Color"
+#~ msgstr "Hafta Rengi"
+
+#~ msgid "Days Color"
+#~ msgstr "Gün Rengi"
+
+#~ msgid "Today Color"
+#~ msgstr "Bugün Rengi"
+
+#~ msgid "Calendar Style 1"
+#~ msgstr "Takvim Stili 1"
+
+#~ msgid "Month Border Bottom Color"
+#~ msgstr "Ay Alt Kenarlık Rengi"
+
+#~ msgid "Weeks Border Bottom Color"
+#~ msgstr "Hafta Alt Kenarlık Rengi"
+
+#~ msgid "Border Bottom Color"
+#~ msgstr "Alt Kenarlık Rengi"
+
+#~ msgid "Calendar Style 2"
+#~ msgstr "Takvim Stili 2"
+
+#~ msgid "Weeks Background"
+#~ msgstr "Hafta Arkaplanı"
+
+#~ msgid "Weeks Border Color"
+#~ msgstr "Hafta Kenarlık Rengi"
+
+#~ msgid "Days Background"
+#~ msgstr "Gün Arkaplanı"
+
+#~ msgid "Days Border Color"
+#~ msgstr "Gün Kenarlık Rengi"
+
+#~ msgid "Calendar Style 3"
+#~ msgstr "Takvim Stili 3"
+
+#~ msgid "Links Color Hover"
+#~ msgstr "Bağlantı Vurgu Rengi"
+
+#~ msgid "Links Border Bottom Color Hover"
+#~ msgstr "Bağlantı Alt Kenarlık Vurgu Rengi"
+
+#~ msgid "Label Color"
+#~ msgstr "Etiket Rengi"
+
+#~ msgid "Show Password Background"
+#~ msgstr "Parolayı Göster Arkaplanı"
+
+#~ msgid "Show Password Color"
+#~ msgstr "Parola Göster Rengi"
+
+#~ msgid "Remember Me Color"
+#~ msgstr "Beni Hatırla Rengi"
+
+#~ msgid "Remember Me Checked Color"
+#~ msgstr "Seçili Beni Hatırla Rengi"
+
+#~ msgid "Logged In"
+#~ msgstr "Giriş Yapıldı"
+
+#~ msgid "Avatar Outside Border Color"
+#~ msgstr "Avatar Dış Kenarlık Rengi"
+
+#~ msgid "Avatar Inside Border Color"
+#~ msgstr "Avatar İç Kenarlık Rengi"
+
+#~ msgid "Avatar Hover Sonar Color"
+#~ msgstr "Avatar Vurgu Sonar Rengi"
+
+#~ msgid "Username Color"
+#~ msgstr "Kullanıcı Adı Rengi"
+
+#~ msgid "Menu Link Border Bottom Color"
+#~ msgstr "Menü Bağlantısı Alt Kenarlık Rengi"
+
+#~ msgid "MailChimp Style 2"
+#~ msgstr "MailChimp Stili 2"
+
+#~ msgid "MailChimp Border Color"
+#~ msgstr "MailChimp Kenarlık Rengi"
+
+#~ msgid "MailChimp Border Color Hover"
+#~ msgstr "MailChimp Kenarlık Vurgu Rengi"
+
+#~ msgid "MailChimp Border Color Focus"
+#~ msgstr "MailChimp Kenarlık Odak Rengi"
+
+#~ msgid "MailChimp Button Color"
+#~ msgstr "MailChimp Buton Rengi"
+
+#~ msgid "MailChimp Button Color Hover"
+#~ msgstr "MailChimp Buton Vurgu Rengi"
+
+#~ msgid "MailChimp Button Color Focus"
+#~ msgstr "MailChimp Buton Odak Rengi"
+
+#~ msgid "Image Hover Background"
+#~ msgstr "Görsel Vurgu Arkaplanı"
+
+#~ msgid "Title/Comments/Nav Background"
+#~ msgstr "Başlık/Yorumlar/Menü Arkaplanı"
+
+#~ msgid "Title/Nav Hover Background"
+#~ msgstr "Başlık/Menü Vurgulama Arkaplanı"
+
+#~ msgid "Title/Comments/Nav Color"
+#~ msgstr "Başlık/Yorumlar/Menü Rengi"
+
+#~ msgid "Tabs Border Color"
+#~ msgstr "Sekme Kenarlık Rengi"
+
+#~ msgid "Tabs Top Background"
+#~ msgstr "Sekme Üst Arkaplanı"
+
+#~ msgid "Tabs Top Color"
+#~ msgstr "Sekme Üst Rengi"
+
+#~ msgid "Tab Recent: Date Color"
+#~ msgstr "Son Yazılar Sekmesi: Tarih rengi"
+
+#~ msgid "Tabs Recent/Comments: Items Border Color"
+#~ msgstr "Son Yazılar/Yorumlar Sekmesi: Madde Kenarlık Rengi"
+
+#~ msgid "Tab Tags: Background"
+#~ msgstr "Etiketler Sekmesi: Arkaplan"
+
+#~ msgid "Tab Tags: Color"
+#~ msgstr "Etiketler Sekmesi: Renk"
+
+#~ msgid "Nav Background"
+#~ msgstr "Nav Arkaplanı"
+
+#~ msgid "Nav Color"
+#~ msgstr "Nav Rengi"
+
+#~ msgid "Nav Border Color"
+#~ msgstr "Nav Kenarlık Rengi"
+
+#~ msgid "Quote Background"
+#~ msgstr "Alıntılı İçerik Arka Planı"
+
+#~ msgid "Quote Color"
+#~ msgstr "Alıntılı İçerik Rengi"
+
+#~ msgid "Avatar Background"
+#~ msgstr "Avatar Arkaplanı"
+
+#~ msgid "Avatar Border Color"
+#~ msgstr "Avatar Kenarlık Rengi"
+
+#~ msgid "Name Color"
+#~ msgstr "İsim Rengi"
+
+#~ msgid "Tweets Color"
+#~ msgstr "Tweet Rengi"
+
+#~ msgid "Tweets Border Color"
+#~ msgstr "Tweet Kenarlık Rengi"
+
+#~ msgid "Tweets Icons Color"
+#~ msgstr "Tweet Simge Rengi"
+
+#~ msgid "Weather Temp Color"
+#~ msgstr "Derece Rengi"
+
+#~ msgid "Weather Name/Desc/Days Temp Color"
+#~ msgstr "Ad/Tanım/Gün/ Derece Rengi"
+
+#~ msgid "Weather Stats/Days Color"
+#~ msgstr "Durum/Gün Rengi"
+
+#~ msgid "Weather Forecast Border Top Color"
+#~ msgstr "Hava Durumu Üst Kenarlık Rengi"
+
+#~ msgid "C"
+#~ msgstr "C"
+
+#~ msgid "F"
+#~ msgstr "F"
+
+#~ msgid "N"
+#~ msgstr "N"
+
+#~ msgid "NNE"
+#~ msgstr "NNE"
+
+#~ msgid "NE"
+#~ msgstr "NE"
+
+#~ msgid "ENE"
+#~ msgstr "ENE"
+
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "ESE"
+#~ msgstr "ESE"
+
+#~ msgid "SE"
+#~ msgstr "SE"
+
+#~ msgid "SSE"
+#~ msgstr "SSE"
+
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "SSW"
+#~ msgstr "SSW"
+
+#~ msgid "SW"
+#~ msgstr "SW"
+
+#~ msgid "WSW"
+#~ msgstr "WSW"
+
+#~ msgid "W"
+#~ msgstr "W"
+
+#~ msgid "WNW"
+#~ msgstr "WNW"
+
+#~ msgid "NW"
+#~ msgstr "NW"
+
+#~ msgid "NNW"
+#~ msgstr "NNW"
+
+#~ msgid "km/h"
+#~ msgstr "km/s"
+
+#~ msgid "mph"
+#~ msgstr "mph"
+
+#~ msgid "humidity:"
+#~ msgstr "nem:"
+
+#~ msgid "wind:"
+#~ msgstr "rüzgar:"
+
+#~ msgid "H"
+#~ msgstr "H"
+
+#~ msgid "L"
+#~ msgstr "L"
+
+#~ msgid "Sun"
+#~ msgstr "Paz"
+
+#~ msgid "Mon"
+#~ msgstr "P.tesi"
+
+#~ msgid "Tue"
+#~ msgstr "Sal"
+
+#~ msgid "Wed"
+#~ msgstr "Çar"
+
+#~ msgid "Thu"
+#~ msgstr "Per"
+
+#~ msgid "Fri"
+#~ msgstr "Cum"
+
+#~ msgid "Sat"
+#~ msgstr "C.tesi"
+
+#~ msgid "No weather information available"
+#~ msgstr "Hava durumu bilgisi mevcut değil."
+
+#~ msgid "UW - About Me"
+#~ msgstr "UW - Hakkımda"
+
+#~ msgid "UW - Ads"
+#~ msgstr "UW - Reklamlar"
+
+#~ msgid "A widget that displays ads in sidebar."
+#~ msgstr "Bu araç ile, kenar çubuğunda reklamlarınızı görüntüleyebilirsiniz."
+
+#~ msgid "Sponsors"
+#~ msgstr "Sponsorlar"
+
+#~ msgid "Ads Title (Optional):"
+#~ msgstr "Reklam Başlığı (isteğe bağlı):"
+
+#~ msgid "Ad 1 Image URL:"
+#~ msgstr "Reklam 1 Görsel Linki:"
+
+#~ msgid "Ad 1 Link:"
+#~ msgstr "Reklam 1 Linki:"
+
+#~ msgid "Ad 2 Image URL:"
+#~ msgstr "Reklam 2 Görsel Linki:"
+
+#~ msgid "Ad 2 Link:"
+#~ msgstr "Reklam 2 Linki:"
+
+#~ msgid "Ad 3 Image URL:"
+#~ msgstr "Reklam 3 Görsel Linki:"
+
+#~ msgid "Ad 3 Link:"
+#~ msgstr "Reklam 3 Linki:"
+
+#~ msgid "Ad 4 Image URL:"
+#~ msgstr "Reklam 4 Görsel Linki:"
+
+#~ msgid "Ad 4 Link:"
+#~ msgstr "Reklam 4 Linki:"
+
+#~ msgid "Ad 5 Image URL:"
+#~ msgstr "Reklam 5 Görsel Linki:"
+
+#~ msgid "Ad 5 Link:"
+#~ msgstr "Reklam 5 Linki:"
+
+#~ msgid "Ad 6 Image URL:"
+#~ msgstr "Reklam 6 Görsel Linki:"
+
+#~ msgid "Ad 6 Link:"
+#~ msgstr "Reklam 6 Linki:"
+
+#~ msgid "UW - Banner"
+#~ msgstr "UW - Manşet"
+
+#~ msgid "Banner"
+#~ msgstr "Manşet"
+
+#~ msgid "Fade"
+#~ msgstr "Soldur"
+
+#~ msgid "Center"
+#~ msgstr "Merkez"
+
+#~ msgid "Middle"
+#~ msgstr "Orta"
+
+#~ msgid "Read More"
+#~ msgstr "DEVAMI"
+
+#~ msgid "Image Url:"
+#~ msgstr "Görsel Bağlantısı:"
+
+#~ msgid "Image Hover:"
+#~ msgstr "Görsel Vurgusu:"
+
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "Grow"
+#~ msgstr "Büyüt"
+
+#~ msgid "Image Width:"
+#~ msgstr "Resim genişliği"
+
+#~ msgid "Image Height:"
+#~ msgstr "Resim yüksekliği"
+
+#~ msgid "Content Align:"
+#~ msgstr "İçerik Hizalama:"
+
+#~ msgid "Content Position:"
+#~ msgstr "İçerik Konumu:"
+
+#~ msgid "Content:"
+#~ msgstr "İçerik:"
+
+#~ msgid "Button:"
+#~ msgstr "Buton:"
+
+#~ msgid "Button Style:"
+#~ msgstr "Buton Biçimi:"
+
+#~ msgid "Black"
+#~ msgstr "Siyah"
+
+#~ msgid "Blue"
+#~ msgstr "Mavi"
+
+#~ msgid "Brown"
+#~ msgstr "Kahverengi"
+
+#~ msgid "Green"
+#~ msgstr "Yeşil"
+
+#~ msgid "Gold"
+#~ msgstr "Altın"
+
+#~ msgid "Pink"
+#~ msgstr "Pembe"
+
+#~ msgid "Purple"
+#~ msgstr "Mor"
+
+#~ msgid "Red"
+#~ msgstr "Kırmızı"
+
+#~ msgid "White"
+#~ msgstr "Beyaz"
+
+#~ msgid "Yellow"
+#~ msgstr "Sarı"
+
+#~ msgid "Button Link:"
+#~ msgstr "Buton Bağlantısı:"
+
+#~ msgid "Button Target:"
+#~ msgstr "Buton Hedefi:"
+
+#~ msgid "Button Text:"
+#~ msgstr "Buton Metni:"
+
+#~ msgid "UW - Calendar"
+#~ msgstr "UW - Takvim"
+
+#~ msgid "Calendar"
+#~ msgstr "Takvim"
+
+#~ msgid "Calendar Style:"
+#~ msgstr "Takvim Stili:"
+
+#~ msgid "UW - Contact Info"
+#~ msgstr "UW - İletişim Bilgileri"
+
+#~ msgid "UW - Custom Links"
+#~ msgstr "UW - Özel Bağlantılar"
+
+#~ msgid "Useful Links"
+#~ msgstr "Faydalı Linkler"
+
+#~ msgid "Link Target:"
+#~ msgstr "Bağlantı Hedefi:"
+
+#~ msgid "Number of Custom Links:"
+#~ msgstr "Özel Bağlantı Sayısı:"
+
+#~ msgid "Enter a number between 1 to 15"
+#~ msgstr "1 ile 15 arasında bir sayı girin"
+
+#~ msgid "UW - Facebook"
+#~ msgstr "UW - Facebook"
+
+#~ msgid "Find us on Facebook"
+#~ msgstr "Bizi Facebook'ta bulun"
+
+#~ msgid "Facebook Page Url:"
+#~ msgstr "Facebook Sayfası Bağlantısı:"
+
+#~ msgid "Width:"
+#~ msgstr "Genişlik:"
+
+#~ msgid "Height:"
+#~ msgstr "Yükseklik:"
+
+#~ msgid "Use Small Header"
+#~ msgstr "Küçük Başlık Kullan"
+
+#~ msgid "Hide Cover Photo"
+#~ msgstr "Kapak Fotoğrafını Gizle"
+
+#~ msgid "Show Friend&rsquo;s Faces"
+#~ msgstr "Arkadaşları Göster"
+
+#~ msgid "Show Page Posts"
+#~ msgstr "Sayfa Yazılarını Göster"
+
+#~ msgid "UW - Flickr Stream"
+#~ msgstr "UW - Flickr"
+
+#~ msgid "UW - Google Map"
+#~ msgstr "UW - Google Haritası"
+
+#~ msgid "Latitude:"
+#~ msgstr "Enlem:"
+
+#~ msgid "Find the latitude"
+#~ msgstr "Enlemi bulun"
+
+#~ msgid "here"
+#~ msgstr "buradan"
+
+#~ msgid "Longitude:"
+#~ msgstr "Boylam:"
+
+#~ msgid "Find the longitude"
+#~ msgstr "Boylamı bulun"
+
+#~ msgid "Zoom"
+#~ msgstr "Büyüt"
+
+#~ msgid "From 1 to 19, default : 5"
+#~ msgstr "1-19 varsayılan: 5"
+
+#~ msgid "Map Type:"
+#~ msgstr "Harita Türü:"
+
+#~ msgid "Hybrid"
+#~ msgstr "Hibrid"
+
+#~ msgid "Roadmap"
+#~ msgstr "Yol Haritası"
+
+#~ msgid "Satellite"
+#~ msgstr "Uydu"
+
+#~ msgid "Terrain"
+#~ msgstr "Arazi"
+
+#~ msgid "Enable Scroll Wheel"
+#~ msgstr "Kaydırma Tekerleğini Etkinleştirin"
+
+#~ msgid "Enable Pan Control"
+#~ msgstr "Çevirme Denetimini Etkinleştir"
+
+#~ msgid "Enable Zoom Control"
+#~ msgstr "Yakınlaştırma Denetimini Etkinleştir"
+
+#~ msgid "Enable Map Type Control"
+#~ msgstr "Harita Türü Denetimini Etkinleştir"
+
+#~ msgid "Enable Scale Control"
+#~ msgstr "Ölçek Denetimini Etkinleştir"
+
+#~ msgid "Enable Draggable"
+#~ msgstr "Sürüklenebilirliği Etkinleştir"
+
+#~ msgid "UW - Instagram"
+#~ msgstr "UW - Instagram"
+
+#~ msgid "UW - Login"
+#~ msgstr "UW - Üye Girişi"
+
+#~ msgid "Logout"
+#~ msgstr "Çıkış"
+
+#~ msgid "forget?"
+#~ msgstr "unuttun mu?"
+
+#~ msgid "Show"
+#~ msgstr "Göster"
+
+#~ msgid "Remember Me"
+#~ msgstr "Beni Hatırla"
+
+#~ msgid "Log In"
+#~ msgstr "Giriş"
+
+#~ msgid "Create an account"
+#~ msgstr "Hesap Oluştur"
+
+#~ msgid "E-mail"
+#~ msgstr "E-posta"
+
+#~ msgid "A password will be e-mailed to you."
+#~ msgstr "Şifreniz emailinize gönderilecektir."
+
+#~ msgid "Create Account"
+#~ msgstr "Hesap Oluştur"
+
+#~ msgid "Already a member?"
+#~ msgstr "Zaten üye misiniz?"
+
+#~ msgid "Your Username or E-mail"
+#~ msgstr "Kullanıcı Adınız ya da E-mail Adresiniz"
+
+#~ msgid "Get New Password"
+#~ msgstr "Yeni Şifre"
+
+#~ msgid "I remember!"
+#~ msgstr "Hatırlıyorum!"
+
+#~ msgid "Login"
+#~ msgstr "Giriş"
+
+#~ msgid "Welcome"
+#~ msgstr "Hoşgeldiniz"
+
+#~ msgid "Url Redirect After Login:"
+#~ msgstr "Giriş yaptıktan sonra URL Yönlendirme:"
+
+#~ msgid "Default is homepage"
+#~ msgstr "Varsayılan değer ana sayfadır."
+
+#~ msgid "Checked Remember Me?"
+#~ msgstr "Beni Hatırla Seçilsin mi?"
+
+#~ msgid "User Logged In"
+#~ msgstr "Giriş Yapan Üye"
+
+#~ msgid "Display Avatar:"
+#~ msgstr "Avatarı Göster:"
+
+#~ msgid "Avatar Link:"
+#~ msgstr "Avatar Bağlantısı:"
+
+#~ msgid "Default is profile page"
+#~ msgstr "Varsayılan değer profil sayfasıdır."
+
+#~ msgid "Username Link:"
+#~ msgstr "Kullanıcı Adı Bağlantısı:"
+
+#~ msgid "User Menu:"
+#~ msgstr "Üye Menüsü:"
+
+#~ msgid "Display Logout Link:"
+#~ msgstr "Oturum kapatma bağlantısı:"
+
+#~ msgid "UW - MailChimp"
+#~ msgstr "UW - MailChimp Formu"
+
+#~ msgid "UW - Menu"
+#~ msgstr "UW - Menü"
+
+#~ msgid "UW - Posts Slider"
+#~ msgstr "UW - Yazılar (Slayt)"
+
+#~ msgid "0"
+#~ msgstr "0"
+
+#~ msgid "1"
+#~ msgstr "0"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Posts Slider"
+#~ msgstr "Yazılar (Slayt)"
+
+#~ msgid "Post Type?"
+#~ msgstr "Yazı Tipi"
+
+#~ msgid "Post"
+#~ msgstr "Yazı"
+
+#~ msgid "Random or Recent?"
+#~ msgstr "Rasgele ya da Son İletiler?"
+
+#~ msgid "Recent"
+#~ msgstr "Son İletiler"
+
+#~ msgid "Random"
+#~ msgstr "Rastgele"
+
+#~ msgid "Most Comments"
+#~ msgstr "En Çok Yorumlananlar"
+
+#~ msgid "Last Modified"
+#~ msgstr "Son Değiştirme"
+
+#~ msgid "Number to Show"
+#~ msgstr "Kaç adet görüntülensin?"
+
+#~ msgid "Slide Speed"
+#~ msgstr "Slayt Hızı"
+
+#~ msgid "Image Width"
+#~ msgstr "Resim genişliği"
+
+#~ msgid "Image Height"
+#~ msgstr "Resim yüksekliği"
+
+#~ msgid "UW - Posts Thumbnails"
+#~ msgstr "UW - Yazılar (Küçük Resimler)"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Son Yazılar"
+
+#~ msgid "Small Image"
+#~ msgstr "Küçük Resim"
+
+#~ msgid "Full Image"
+#~ msgstr "Tam boyut resim"
+
+#~ msgid "Full & Info Inside"
+#~ msgstr "Tam ve Bilgi İçeride"
+
+#~ msgid "Disable Featured Image?"
+#~ msgstr "Öne Çıkan Resim Devredışı Bırakılsın mı?"
+
+#~ msgid "Disable Date & Comments ?"
+#~ msgstr "Tarih ve Yorumlar Devre Dışı Bırakılsın mı?"
+
+#~ msgid "UW - Search"
+#~ msgstr "UW - Arama Kutusu"
+
+#~ msgid "search"
+#~ msgstr "ara"
+
+#~ msgid "Search"
+#~ msgstr "Ara"
+
+#~ msgid "UW - Slideshow"
+#~ msgstr "UW - Slayt Gösterisi"
+
+#~ msgid "Slideshow"
+#~ msgstr "Slayt Gösterimi"
+
+#~ msgid "Image width"
+#~ msgstr "Resim genişliği"
+
+#~ msgid "Image height"
+#~ msgstr "Resim yüksekliği"
+
+#~ msgid "How many slides?"
+#~ msgstr "Kaç slayt?"
+
+#~ msgid "Between 1 to 10"
+#~ msgstr "1 ile 10 arasında"
+
+#~ msgid "UW - Social Buttons"
+#~ msgstr "UW - Sosyal Ağ Butonları"
+
+#~ msgid "Follow Us"
+#~ msgstr "Bizi takip edin"
+
+#~ msgid "Rotate"
+#~ msgstr "Döndür"
+
+#~ msgid "3D"
+#~ msgstr "3D"
+
+#~ msgid "Just Icons"
+#~ msgstr "Yalnızca Simgeler"
+
+#~ msgid "Transition:"
+#~ msgstr "Geçiş Efekti:"
+
+#~ msgid "Float"
+#~ msgstr "Float"
+
+#~ msgid "Zoom Out"
+#~ msgstr "Küçült"
+
+#~ msgid "73px"
+#~ msgstr "73px"
+
+#~ msgid "Line Height:"
+#~ msgstr "Satır Yüksekliği:"
+
+#~ msgid "Font Size:"
+#~ msgstr "Yazı Boyutu"
+
+#~ msgid "22px"
+#~ msgstr "22px"
+
+#~ msgid "Border Radius:"
+#~ msgstr "Çerçeve Yuvarlaklığı"
+
+#~ msgid "2px"
+#~ msgstr "2px"
+
+#~ msgid "UW - Soundcloud"
+#~ msgstr "UW - Soundcloud"
+
+#~ msgid "Title :"
+#~ msgstr "Başlık :"
+
+#~ msgid "URL :"
+#~ msgstr "Bağlantı :"
+
+#~ msgid "Height :"
+#~ msgstr "Yükseklik :"
+
+#~ msgid "Autoplay"
+#~ msgstr "Otamatik Oynat"
+
+#~ msgid "UW - Tabs"
+#~ msgstr "UW - Sekmeler"
+
+#~ msgid "Comments"
+#~ msgstr "Yorumlar"
+
+#~ msgid "Tags"
+#~ msgstr "Etiketler"
+
+#~ msgid "Order Of Tabs:"
+#~ msgstr "Sekme Sırası:"
+
+#~ msgid "click Save button to be able to change the order of tabs ."
+#~ msgstr "Sekmelerin sırasını değiştirmek için Kaydet butonuna tıklayın."
+
+#~ msgid "Number Of Items To Show:"
+#~ msgstr "Gösterilecek Öğe Sayısı:"
+
+#~ msgid "UW - Testimonial"
+#~ msgstr "UW - Referans"
+
+#~ msgid "Testimonials"
+#~ msgstr "Referanslar"
+
+#~ msgid "Number of Testimonials:"
+#~ msgstr "Referans Sayısı:"
+
+#~ msgid "Enter a number between 1 to 10"
+#~ msgstr "1-10 arasında bir sayı girin"
+
+#~ msgid "UW - Text"
+#~ msgstr "UW - Metin"
+
+#~ msgid "Custom Text"
+#~ msgstr "Özel Metin"
+
+#~ msgid "Center Content:"
+#~ msgstr "İçeriği Ortala:"
+
+#~ msgid "Text, Shortcodes Or HTML Code:"
+#~ msgstr "Metin, Kısa Kodlar veya HTML kodu:"
+
+#~ msgid "UW - Twitter"
+#~ msgstr "UW - Twitter"
+
+#~ msgid "second"
+#~ msgstr "saniye"
+
+#~ msgid "minute"
+#~ msgstr "dakika"
+
+#~ msgid "hour"
+#~ msgstr "saat"
+
+#~ msgid "day"
+#~ msgstr "gün"
+
+#~ msgid "week"
+#~ msgstr "hafta"
+
+#~ msgid "month"
+#~ msgstr "ay"
+
+#~ msgid "year"
+#~ msgstr "yıl"
+
+#~ msgid "decade"
+#~ msgstr "onyıl"
+
+#~ msgid "ago"
+#~ msgstr "önce"
+
+#~ msgid "s"
+#~ msgstr "s"
+
+#~ msgid "Recent Tweets"
+#~ msgstr "Son Tweetler"
+
+#~ msgid "Expand"
+#~ msgstr "Genişlet"
+
+#~ msgid "Expand Style"
+#~ msgstr "Stili Gen"
+
+#~ msgid "Twitter ID:"
+#~ msgstr "Twitter ID:"
+
+#~ msgid "Color Scheme:"
+#~ msgstr "Renk Şeması:"
+
+#~ msgid "Simple Style"
+#~ msgstr "Basit Stil"
+
+#~ msgid "Consumer Key:"
+#~ msgstr "Consumer Key:"
+
+#~ msgid "Consumer Secret:"
+#~ msgstr "Consumer Secret:"
+
+#~ msgid "Access Token:"
+#~ msgstr "Access Token:"
+
+#~ msgid "Access Token Secret:"
+#~ msgstr "Access Token Secret:"
+
+#~ msgid "Twitter Username:"
+#~ msgstr "Twitter Kullanıcı Adı:"
+
+#~ msgid "Number of Tweets:"
+#~ msgstr "Tweet Sayısı:"
+
+#~ msgid "UW - Video"
+#~ msgstr "UW - Video"
+
+#~ msgid "You forgot to enter a video URL."
+#~ msgstr "Bir video linki girmeyecek misiniz?"
+
+#~ msgid "Video"
+#~ msgstr "Video"
+
+#~ msgid "Before"
+#~ msgstr "Önce"
+
+#~ msgid "Embed Code"
+#~ msgstr "Yerleştirme Kodu"
+
+#~ msgid "Caption:"
+#~ msgstr "Başlık:"
+
+#~ msgid "Caption Position:"
+#~ msgstr "Başlık Konumu:"
+
+#~ msgid "After"
+#~ msgstr "Sonra"
+
+#~ msgid "UW - Weather"
+#~ msgstr "UW - Hava Durumu"
+
+#~ msgid "Weather"
+#~ msgstr "Hava Durumu"
+
+#~ msgid "Location:"
+#~ msgstr "Konum:"
+
+#~ msgid "Find Your Location"
+#~ msgstr "Konumunuzu Bulun"
+
+#~ msgid "(i.e: London or New York)"
+#~ msgstr "(örn: İstanbul ya da Bursa)"
+
+#~ msgid "Units:"
+#~ msgstr "Birimler:"
+
+#~ msgid "Forecast:"
+#~ msgstr "Tahmin:"
+
+#~ msgid "5 Days"
+#~ msgstr "5 Gün"
+
+#~ msgid "4 Days"
+#~ msgstr "4 Gün"
+
+#~ msgid "3 Days"
+#~ msgstr "3 Gün"
+
+#~ msgid "2 Days"
+#~ msgstr "2 Gün"
+
+#~ msgid "1 Day"
+#~ msgstr "1 Gün"
+
+#~ msgid "Don't Show"
+#~ msgstr "Gösterme"
